@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 08, 2025
+title: Latest 15 Papers - April 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Studying Image Diffusion Features for Zero-Shot Video Object Segmentation](http://arxiv.org/abs/2504.05468v1)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted to CVPRW2025</p></details> |
+| **[Microbial correlation: a semi-parametric model for investigating microbial co-metabolism](http://arxiv.org/abs/2504.05450v1)** | 2025-04-07 |  |
 | **[Real-is-Sim: Bridging the Sim-to-Real Gap with a Dynamic Digital Twin for Real-World Robot Policy Evaluation](http://arxiv.org/abs/2504.03597v1)** | 2025-04-04 |  |
 | **[Memorization in In-Context Learning](http://arxiv.org/abs/2408.11546v3)** | 2025-04-04 | v3 |
 | **[WHERE and WHICH: Iterative Debate for Biomedical Synthetic Data Augmentation](http://arxiv.org/abs/2503.23673v1)** | 2025-03-31 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models](http://arxiv.org/abs/2402.05935v3)** | 2025-03-21 | <details><summary>Accep...</summary><p>Accepted by ICML 2024. Code and models are released at https://github.com/Alpha-VLLM/LLaMA2-Accessory</p></details> |
 | **[Digitally Prototype Your Eye Tracker: Simulating Hardware Performance using 3D Synthetic Data](http://arxiv.org/abs/2503.16742v1)** | 2025-03-20 | 14 pages, 12 figures |
 | **[High Temporal Consistency through Semantic Similarity Propagation in Semi-Supervised Video Semantic Segmentation for Autonomous Flight](http://arxiv.org/abs/2503.15676v1)** | 2025-03-19 |  |
-| **[TestGenEval: A Real World Unit Test Generation and Test Completion Benchmark](http://arxiv.org/abs/2410.00752v2)** | 2025-03-18 |  |
-| **[Timestep Embedding Tells: It's Time to Cache for Video Diffusion Model](http://arxiv.org/abs/2411.19108v2)** | 2025-03-18 | <details><summary>Accep...</summary><p>Accepted in CVPR 2025. Project: https://liewfeng.github.io/TeaCache</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
@@ -36,9 +36,4 @@ labels: documentation
 | **[Have ASkotch: A Neat Solution for Large-scale Kernel Ridge Regression](http://arxiv.org/abs/2407.10070v2)** | 2025-02-21 | <details><summary>64 pa...</summary><p>64 pages (including appendices), 16 figures, 5 tables</p></details> |
 | **[The dark side of the forces: assessing non-conservative force models for atomistic machine learning](http://arxiv.org/abs/2412.11569v2)** | 2025-02-19 | <details><summary>10 pa...</summary><p>10 pages (including references) + appendix Conference format</p></details> |
 | **[AI-Empowered Catalyst Discovery: A Survey from Classical Machine Learning Approaches to Large Language Models](http://arxiv.org/abs/2502.13626v1)** | 2025-02-19 |  |
-| **[Efficient and Scalable Density Functional Theory Hamiltonian Prediction through Adaptive Sparsity](http://arxiv.org/abs/2502.01171v1)** | 2025-02-03 |  |
-| **[Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians](http://arxiv.org/abs/2501.09009v2)** | 2025-01-31 | <details><summary>Accep...</summary><p>Accepted as a conference paper at ICLR 2025. The implementation of our method is available at https://github.com/ASK-Berkeley/MLFF-distill</p></details> |
-| **[A Foundation Model for Chemical Design and Property Prediction](http://arxiv.org/abs/2410.21422v2)** | 2025-01-23 |  |
-| **[Efficient Transition State Searches by Freezing String Method with Graph Neural Network Potentials](http://arxiv.org/abs/2501.06159v1)** | 2025-01-10 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 3 tables</p></details> |
-| **[Euclidean Fast Attention: Machine Learning Global Atomic Representations at Linear Cost](http://arxiv.org/abs/2412.08541v1)** | 2024-12-11 |  |
 
