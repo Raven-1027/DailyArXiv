@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 10, 2025
+title: Latest 15 Papers - April 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Immersive Virtual Reality Assessments of Working Memory and Psychomotor Skills: A Comparison between Immersive and Non-Immersive Assessments](http://arxiv.org/abs/2503.06333v2)** | 2025-04-10 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, 3 tables</p></details> |
+| **[Law of Vision Representation in MLLMs](http://arxiv.org/abs/2408.16357v2)** | 2025-04-09 | <details><summary>The c...</summary><p>The code is available at https://github.com/bronyayang/Law_of_Vision_Representation_in_MLLMs</p></details> |
 | **[PingPong: A Benchmark for Role-Playing Language Models with User Emulation and Multi-Model Evaluation](http://arxiv.org/abs/2409.06820v4)** | 2025-04-09 | <details><summary>8 mai...</summary><p>8 main pages, 8 additional pages</p></details> |
 | **[Reliability Assessment of Low-Cost PM Sensors under High Humidity and High PM Level Outdoor Conditions](http://arxiv.org/abs/2504.06615v1)** | 2025-04-09 |  |
 | **[Studying Image Diffusion Features for Zero-Shot Video Object Segmentation](http://arxiv.org/abs/2504.05468v1)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted to CVPRW2025</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Attribute-formed Class-specific Concept Space: Endowing Language Bottleneck Model with Better Interpretability and Scalability](http://arxiv.org/abs/2503.20301v1)** | 2025-03-26 | <details><summary>This ...</summary><p>This paper has been accepted to CVPR 2025</p></details> |
 | **[Deep Learning-Based Quantitative Assessment of Renal Chronicity Indices in Lupus Nephritis](http://arxiv.org/abs/2503.21818v1)** | 2025-03-26 |  |
 | **[Enhancing Predictive Accuracy in Tennis: Integrating Fuzzy Logic and CV-GRNN for Dynamic Match Outcome and Player Momentum Analysis](http://arxiv.org/abs/2503.21809v1)** | 2025-03-25 | <details><summary>22 pa...</summary><p>22 pages,10 figures,9 tables</p></details> |
-| **[InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment](http://arxiv.org/abs/2503.18454v1)** | 2025-03-24 | Accepted by CVPR2025 |
-| **[SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models](http://arxiv.org/abs/2402.05935v3)** | 2025-03-21 | <details><summary>Accep...</summary><p>Accepted by ICML 2024. Code and models are released at https://github.com/Alpha-VLLM/LLaMA2-Accessory</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
