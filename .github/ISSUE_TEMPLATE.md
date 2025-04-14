@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 13, 2025
+title: Latest 15 Papers - April 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -32,13 +32,4 @@ labels: documentation
 | **[Equivariant Masked Position Prediction for Efficient Molecular Representation](http://arxiv.org/abs/2502.08209v2)** | 2025-03-11 | 24 pages, 6 figures |
 | **[Machine Learned Force Fields: Fundamentals, its reach, and challenges](http://arxiv.org/abs/2503.05845v1)** | 2025-03-07 | 9 figures |
 | **[Smart Reaction Templating: A Graph-Based Method for Automated Molecular Dynamics Input Generation](http://arxiv.org/abs/2503.02678v1)** | 2025-03-04 | 21 pages, 4 figures |
-| **[Auto-ADMET: An Effective and Interpretable AutoML Method for Chemical ADMET Property Prediction](http://arxiv.org/abs/2502.16378v1)** | 2025-02-22 |  |
-| **[Have ASkotch: A Neat Solution for Large-scale Kernel Ridge Regression](http://arxiv.org/abs/2407.10070v2)** | 2025-02-21 | <details><summary>64 pa...</summary><p>64 pages (including appendices), 16 figures, 5 tables</p></details> |
-| **[The dark side of the forces: assessing non-conservative force models for atomistic machine learning](http://arxiv.org/abs/2412.11569v2)** | 2025-02-19 | <details><summary>10 pa...</summary><p>10 pages (including references) + appendix Conference format</p></details> |
-| **[AI-Empowered Catalyst Discovery: A Survey from Classical Machine Learning Approaches to Large Language Models](http://arxiv.org/abs/2502.13626v1)** | 2025-02-19 |  |
-| **[Efficient and Scalable Density Functional Theory Hamiltonian Prediction through Adaptive Sparsity](http://arxiv.org/abs/2502.01171v1)** | 2025-02-03 |  |
-| **[Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians](http://arxiv.org/abs/2501.09009v2)** | 2025-01-31 | <details><summary>Accep...</summary><p>Accepted as a conference paper at ICLR 2025. The implementation of our method is available at https://github.com/ASK-Berkeley/MLFF-distill</p></details> |
-| **[A Foundation Model for Chemical Design and Property Prediction](http://arxiv.org/abs/2410.21422v2)** | 2025-01-23 |  |
-| **[Efficient Transition State Searches by Freezing String Method with Graph Neural Network Potentials](http://arxiv.org/abs/2501.06159v1)** | 2025-01-10 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 3 tables</p></details> |
-| **[Euclidean Fast Attention: Machine Learning Global Atomic Representations at Linear Cost](http://arxiv.org/abs/2412.08541v1)** | 2024-12-11 |  |
 
