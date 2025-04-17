@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 16, 2025
+title: Latest 15 Papers - April 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching](http://arxiv.org/abs/2504.11713v1)** | 2025-04-16 |  |
 | **[Embrace rejection: Kernel matrix approximation by accelerated randomly pivoted Cholesky](http://arxiv.org/abs/2410.03969v3)** | 2025-04-06 | <details><summary>32 pa...</summary><p>32 pages, 4 figures; v3 new introduction to section 4, reorganization</p></details> |
 | **[Energy-Adaptive Riemannian Conjugate Gradient Method for Density Functional Theory](http://arxiv.org/abs/2503.16225v1)** | 2025-03-20 |  |
 | **[A Transformer Model for Predicting Chemical Reaction Products from Generic Templates](http://arxiv.org/abs/2503.05810v2)** | 2025-03-11 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians](http://arxiv.org/abs/2501.09009v2)** | 2025-01-31 | <details><summary>Accep...</summary><p>Accepted as a conference paper at ICLR 2025. The implementation of our method is available at https://github.com/ASK-Berkeley/MLFF-distill</p></details> |
 | **[A Foundation Model for Chemical Design and Property Prediction](http://arxiv.org/abs/2410.21422v2)** | 2025-01-23 |  |
 | **[Efficient Transition State Searches by Freezing String Method with Graph Neural Network Potentials](http://arxiv.org/abs/2501.06159v1)** | 2025-01-10 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 3 tables</p></details> |
-| **[Euclidean Fast Attention: Machine Learning Global Atomic Representations at Linear Cost](http://arxiv.org/abs/2412.08541v1)** | 2024-12-11 |  |
 
