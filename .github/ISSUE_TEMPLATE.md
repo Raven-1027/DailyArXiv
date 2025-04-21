@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 20, 2025
+title: Latest 15 Papers - April 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Babysit A Language Model From Scratch: Interactive Language Learning by Trials and Demonstrations](http://arxiv.org/abs/2405.13828v2)** | 2025-04-18 | <details><summary>NAACL...</summary><p>NAACL 2025 (Main) & Workshop on Large Language Models and Cognition @ ICML 2024 (Oral)</p></details> |
+| **[Integrating LLMs for Grading and Appeal Resolution in Computer Science Education](http://arxiv.org/abs/2504.13557v1)** | 2025-04-18 | 13 pages, 5 figures |
 | **[A Personalised 3D+t Mesh Generative Model for Unveiling Normal Heart Dynamics](http://arxiv.org/abs/2409.13825v2)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted by Nature Machine Intelligence</p></details> |
 | **[The topology of synergy: linking topological and information-theoretic approaches to higher-order interactions in complex systems](http://arxiv.org/abs/2504.10140v1)** | 2025-04-14 |  |
 | **[Resampling Benchmark for Efficient Comprehensive Evaluation of Large Vision-Language Models](http://arxiv.org/abs/2504.09979v1)** | 2025-04-14 |  |
@@ -20,13 +22,11 @@ labels: documentation
 | **[Microbial correlation: a semi-parametric model for investigating microbial co-metabolism](http://arxiv.org/abs/2504.05450v1)** | 2025-04-07 |  |
 | **[Real-is-Sim: Bridging the Sim-to-Real Gap with a Dynamic Digital Twin for Real-World Robot Policy Evaluation](http://arxiv.org/abs/2504.03597v1)** | 2025-04-04 |  |
 | **[Memorization in In-Context Learning](http://arxiv.org/abs/2408.11546v3)** | 2025-04-04 | v3 |
-| **[WHERE and WHICH: Iterative Debate for Biomedical Synthetic Data Augmentation](http://arxiv.org/abs/2503.23673v1)** | 2025-03-31 |  |
-| **[CrossWordBench: Evaluating the Reasoning Capabilities of LLMs and LVLMs with Controllable Puzzle Generation](http://arxiv.org/abs/2504.00043v1)** | 2025-03-30 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching](http://arxiv.org/abs/2504.11713v1)** | 2025-04-16 |  |
+| **[Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching](http://arxiv.org/abs/2504.11713v2)** | 2025-04-18 |  |
 | **[Embrace rejection: Kernel matrix approximation by accelerated randomly pivoted Cholesky](http://arxiv.org/abs/2410.03969v3)** | 2025-04-06 | <details><summary>32 pa...</summary><p>32 pages, 4 figures; v3 new introduction to section 4, reorganization</p></details> |
 | **[Energy-Adaptive Riemannian Conjugate Gradient Method for Density Functional Theory](http://arxiv.org/abs/2503.16225v1)** | 2025-03-20 |  |
 | **[A Transformer Model for Predicting Chemical Reaction Products from Generic Templates](http://arxiv.org/abs/2503.05810v2)** | 2025-03-11 |  |
