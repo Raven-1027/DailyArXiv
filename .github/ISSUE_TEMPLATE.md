@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 21, 2025
+title: Latest 15 Papers - April 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Estimating transformative agreement impact on hybrid open access: A comparative large-scale study using Scopus, Web of Science and open metadata](http://arxiv.org/abs/2504.15038v1)** | 2025-04-21 | 28 pages, 6 figures |
 | **[Babysit A Language Model From Scratch: Interactive Language Learning by Trials and Demonstrations](http://arxiv.org/abs/2405.13828v2)** | 2025-04-18 | <details><summary>NAACL...</summary><p>NAACL 2025 (Main) & Workshop on Large Language Models and Cognition @ ICML 2024 (Oral)</p></details> |
 | **[Integrating LLMs for Grading and Appeal Resolution in Computer Science Education](http://arxiv.org/abs/2504.13557v1)** | 2025-04-18 | 13 pages, 5 figures |
 | **[A Personalised 3D+t Mesh Generative Model for Unveiling Normal Heart Dynamics](http://arxiv.org/abs/2409.13825v2)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted by Nature Machine Intelligence</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Studying Image Diffusion Features for Zero-Shot Video Object Segmentation](http://arxiv.org/abs/2504.05468v1)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted to CVPRW2025</p></details> |
 | **[Microbial correlation: a semi-parametric model for investigating microbial co-metabolism](http://arxiv.org/abs/2504.05450v1)** | 2025-04-07 |  |
 | **[Real-is-Sim: Bridging the Sim-to-Real Gap with a Dynamic Digital Twin for Real-World Robot Policy Evaluation](http://arxiv.org/abs/2504.03597v1)** | 2025-04-04 |  |
-| **[Memorization in In-Context Learning](http://arxiv.org/abs/2408.11546v3)** | 2025-04-04 | v3 |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension](http://arxiv.org/abs/2410.05298v2)** | 2025-04-20 | <details><summary>The p...</summary><p>The paper is published in ICLR 2025</p></details> |
 | **[Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching](http://arxiv.org/abs/2504.11713v2)** | 2025-04-18 |  |
 | **[Embrace rejection: Kernel matrix approximation by accelerated randomly pivoted Cholesky](http://arxiv.org/abs/2410.03969v3)** | 2025-04-06 | <details><summary>32 pa...</summary><p>32 pages, 4 figures; v3 new introduction to section 4, reorganization</p></details> |
 | **[Energy-Adaptive Riemannian Conjugate Gradient Method for Density Functional Theory](http://arxiv.org/abs/2503.16225v1)** | 2025-03-20 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Efficient and Scalable Density Functional Theory Hamiltonian Prediction through Adaptive Sparsity](http://arxiv.org/abs/2502.01171v1)** | 2025-02-03 |  |
 | **[Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians](http://arxiv.org/abs/2501.09009v2)** | 2025-01-31 | <details><summary>Accep...</summary><p>Accepted as a conference paper at ICLR 2025. The implementation of our method is available at https://github.com/ASK-Berkeley/MLFF-distill</p></details> |
 | **[A Foundation Model for Chemical Design and Property Prediction](http://arxiv.org/abs/2410.21422v2)** | 2025-01-23 |  |
-| **[Efficient Transition State Searches by Freezing String Method with Graph Neural Network Potentials](http://arxiv.org/abs/2501.06159v1)** | 2025-01-10 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 3 tables</p></details> |
 
