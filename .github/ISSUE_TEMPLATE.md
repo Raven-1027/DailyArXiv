@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 22, 2025
+title: Latest 15 Papers - April 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FADEL: Uncertainty-aware Fake Audio Detection with Evidential Deep Learning](http://arxiv.org/abs/2504.15663v1)** | 2025-04-22 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2025</p></details> |
+| **[The Bitter Lesson Learned from 2,000+ Multilingual Benchmarks](http://arxiv.org/abs/2504.15521v1)** | 2025-04-22 | <details><summary>work ...</summary><p>work in progress; 22 pages, 8 figures, 3 tables;</p></details> |
+| **[Measuring Interest Group Positions on Legislation: An AI-Driven Analysis of Lobbying Reports](http://arxiv.org/abs/2504.15333v1)** | 2025-04-21 |  |
 | **[Estimating transformative agreement impact on hybrid open access: A comparative large-scale study using Scopus, Web of Science and open metadata](http://arxiv.org/abs/2504.15038v1)** | 2025-04-21 | 28 pages, 6 figures |
 | **[Babysit A Language Model From Scratch: Interactive Language Learning by Trials and Demonstrations](http://arxiv.org/abs/2405.13828v2)** | 2025-04-18 | <details><summary>NAACL...</summary><p>NAACL 2025 (Main) & Workshop on Large Language Models and Cognition @ ICML 2024 (Oral)</p></details> |
 | **[Integrating LLMs for Grading and Appeal Resolution in Computer Science Education](http://arxiv.org/abs/2504.13557v1)** | 2025-04-18 | 13 pages, 5 figures |
@@ -19,9 +22,6 @@ labels: documentation
 | **[PingPong: A Benchmark for Role-Playing Language Models with User Emulation and Multi-Model Evaluation](http://arxiv.org/abs/2409.06820v4)** | 2025-04-09 | <details><summary>8 mai...</summary><p>8 main pages, 8 additional pages</p></details> |
 | **[Reliability Assessment of Low-Cost PM Sensors under High Humidity and High PM Level Outdoor Conditions](http://arxiv.org/abs/2504.06615v1)** | 2025-04-09 |  |
 | **[Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms](http://arxiv.org/abs/2504.08804v1)** | 2025-04-09 |  |
-| **[Studying Image Diffusion Features for Zero-Shot Video Object Segmentation](http://arxiv.org/abs/2504.05468v1)** | 2025-04-07 | <details><summary>Accep...</summary><p>Accepted to CVPRW2025</p></details> |
-| **[Microbial correlation: a semi-parametric model for investigating microbial co-metabolism](http://arxiv.org/abs/2504.05450v1)** | 2025-04-07 |  |
-| **[Real-is-Sim: Bridging the Sim-to-Real Gap with a Dynamic Digital Twin for Real-World Robot Policy Evaluation](http://arxiv.org/abs/2504.03597v1)** | 2025-04-04 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
