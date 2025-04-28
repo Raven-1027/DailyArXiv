@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 27, 2025
+title: Latest 15 Papers - April 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient fine-tuning of 37-level GraphCast with the Canadian global deterministic analysis](http://arxiv.org/abs/2408.14587v2)** | 2025-04-25 |  |
 | **[FADEL: Uncertainty-aware Fake Audio Detection with Evidential Deep Learning](http://arxiv.org/abs/2504.15663v1)** | 2025-04-22 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2025</p></details> |
 | **[The Bitter Lesson Learned from 2,000+ Multilingual Benchmarks](http://arxiv.org/abs/2504.15521v1)** | 2025-04-22 | <details><summary>work ...</summary><p>work in progress; 22 pages, 8 figures, 3 tables;</p></details> |
 | **[Measuring Interest Group Positions on Legislation: An AI-Driven Analysis of Lobbying Reports](http://arxiv.org/abs/2504.15333v1)** | 2025-04-21 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Law of Vision Representation in MLLMs](http://arxiv.org/abs/2408.16357v2)** | 2025-04-09 | <details><summary>The c...</summary><p>The code is available at https://github.com/bronyayang/Law_of_Vision_Representation_in_MLLMs</p></details> |
 | **[PingPong: A Benchmark for Role-Playing Language Models with User Emulation and Multi-Model Evaluation](http://arxiv.org/abs/2409.06820v4)** | 2025-04-09 | <details><summary>8 mai...</summary><p>8 main pages, 8 additional pages</p></details> |
 | **[Reliability Assessment of Low-Cost PM Sensors under High Humidity and High PM Level Outdoor Conditions](http://arxiv.org/abs/2504.06615v1)** | 2025-04-09 |  |
-| **[Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms](http://arxiv.org/abs/2504.08804v1)** | 2025-04-09 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
