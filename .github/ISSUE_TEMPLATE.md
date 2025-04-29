@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 28, 2025
+title: Latest 15 Papers - April 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Detecting Long QT Syndrome and First-Degree Atrioventricular Block using Single-Lead AI-ECG: A Multi-Center Real-World Study](http://arxiv.org/abs/2502.17499v2)** | 2025-04-27 | <details><summary>29pag...</summary><p>29pages, 11 figures, 8 tables</p></details> |
+| **[Non-Asymptotic Guarantees for Average-Reward Q-Learning with Adaptive Stepsizes](http://arxiv.org/abs/2504.18743v1)** | 2025-04-25 | <details><summary>63 pa...</summary><p>63 pages and 4 figures</p></details> |
 | **[Efficient fine-tuning of 37-level GraphCast with the Canadian global deterministic analysis](http://arxiv.org/abs/2408.14587v2)** | 2025-04-25 |  |
 | **[FADEL: Uncertainty-aware Fake Audio Detection with Evidential Deep Learning](http://arxiv.org/abs/2504.15663v1)** | 2025-04-22 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2025</p></details> |
 | **[The Bitter Lesson Learned from 2,000+ Multilingual Benchmarks](http://arxiv.org/abs/2504.15521v1)** | 2025-04-22 | <details><summary>work ...</summary><p>work in progress; 22 pages, 8 figures, 3 tables;</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Enhancing Predictive Accuracy in Tennis: Integrating Fuzzy Logic and CV-GRNN for Dynamic Match Outcome and Player Momentum Analysis](http://arxiv.org/abs/2503.21809v2)** | 2025-04-13 | <details><summary>22 pa...</summary><p>22 pages,10 figures,9 tables</p></details> |
 | **[Immersive Virtual Reality Assessments of Working Memory and Psychomotor Skills: A Comparison between Immersive and Non-Immersive Assessments](http://arxiv.org/abs/2503.06333v2)** | 2025-04-10 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, 3 tables</p></details> |
 | **[Law of Vision Representation in MLLMs](http://arxiv.org/abs/2408.16357v2)** | 2025-04-09 | <details><summary>The c...</summary><p>The code is available at https://github.com/bronyayang/Law_of_Vision_Representation_in_MLLMs</p></details> |
-| **[PingPong: A Benchmark for Role-Playing Language Models with User Emulation and Multi-Model Evaluation](http://arxiv.org/abs/2409.06820v4)** | 2025-04-09 | <details><summary>8 mai...</summary><p>8 main pages, 8 additional pages</p></details> |
-| **[Reliability Assessment of Low-Cost PM Sensors under High Humidity and High PM Level Outdoor Conditions](http://arxiv.org/abs/2504.06615v1)** | 2025-04-09 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
