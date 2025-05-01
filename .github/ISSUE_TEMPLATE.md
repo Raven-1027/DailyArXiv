@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 30, 2025
+title: Latest 15 Papers - May 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning 6-DoF Fine-grained Grasp Detection Based on Part Affordance Grounding](http://arxiv.org/abs/2301.11564v3)** | 2025-04-30 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 7 tables</p></details> |
+| **[Automatic Legal Writing Evaluation of LLMs](http://arxiv.org/abs/2504.21202v1)** | 2025-04-29 |  |
 | **[Detecting Long QT Syndrome and First-Degree Atrioventricular Block using Single-Lead AI-ECG: A Multi-Center Real-World Study](http://arxiv.org/abs/2502.17499v2)** | 2025-04-27 | <details><summary>29pag...</summary><p>29pages, 11 figures, 8 tables</p></details> |
 | **[Non-Asymptotic Guarantees for Average-Reward Q-Learning with Adaptive Stepsizes](http://arxiv.org/abs/2504.18743v1)** | 2025-04-25 | <details><summary>63 pa...</summary><p>63 pages and 4 figures</p></details> |
 | **[Efficient fine-tuning of 37-level GraphCast with the Canadian global deterministic analysis](http://arxiv.org/abs/2408.14587v2)** | 2025-04-25 |  |
@@ -16,12 +18,10 @@ labels: documentation
 | **[Estimating transformative agreement impact on hybrid open access: A comparative large-scale study using Scopus, Web of Science and open metadata](http://arxiv.org/abs/2504.15038v1)** | 2025-04-21 | 28 pages, 6 figures |
 | **[Babysit A Language Model From Scratch: Interactive Language Learning by Trials and Demonstrations](http://arxiv.org/abs/2405.13828v2)** | 2025-04-18 | <details><summary>NAACL...</summary><p>NAACL 2025 (Main) & Workshop on Large Language Models and Cognition @ ICML 2024 (Oral)</p></details> |
 | **[Integrating LLMs for Grading and Appeal Resolution in Computer Science Education](http://arxiv.org/abs/2504.13557v1)** | 2025-04-18 | 13 pages, 5 figures |
+| **[BCDDM: Branch-Corrected Denoising Diffusion Model for Black Hole Image Generation](http://arxiv.org/abs/2502.08528v2)** | 2025-04-16 | 19 pages, 11 figures |
 | **[A Personalised 3D+t Mesh Generative Model for Unveiling Normal Heart Dynamics](http://arxiv.org/abs/2409.13825v2)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted by Nature Machine Intelligence</p></details> |
 | **[The topology of synergy: linking topological and information-theoretic approaches to higher-order interactions in complex systems](http://arxiv.org/abs/2504.10140v1)** | 2025-04-14 |  |
 | **[Resampling Benchmark for Efficient Comprehensive Evaluation of Large Vision-Language Models](http://arxiv.org/abs/2504.09979v1)** | 2025-04-14 |  |
-| **[Enhancing Predictive Accuracy in Tennis: Integrating Fuzzy Logic and CV-GRNN for Dynamic Match Outcome and Player Momentum Analysis](http://arxiv.org/abs/2503.21809v2)** | 2025-04-13 | <details><summary>22 pa...</summary><p>22 pages,10 figures,9 tables</p></details> |
-| **[Immersive Virtual Reality Assessments of Working Memory and Psychomotor Skills: A Comparison between Immersive and Non-Immersive Assessments](http://arxiv.org/abs/2503.06333v2)** | 2025-04-10 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, 3 tables</p></details> |
-| **[Law of Vision Representation in MLLMs](http://arxiv.org/abs/2408.16357v2)** | 2025-04-09 | <details><summary>The c...</summary><p>The code is available at https://github.com/bronyayang/Law_of_Vision_Representation_in_MLLMs</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
