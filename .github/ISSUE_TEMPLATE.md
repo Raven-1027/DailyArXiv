@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 05, 2025
+title: Latest 15 Papers - May 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Physics-Informed Weakly Supervised Learning for Interatomic Potentials](http://arxiv.org/abs/2408.05215v2)** | 2025-05-05 | <details><summary>29 pa...</summary><p>29 pages, 4 figures, 31 Tables. Accepted for publication in ICML2025</p></details> |
+| **[El Agente: An Autonomous Agent for Quantum Chemistry](http://arxiv.org/abs/2505.02484v1)** | 2025-05-05 |  |
 | **[How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension](http://arxiv.org/abs/2410.05298v2)** | 2025-04-20 | <details><summary>The p...</summary><p>The paper is published in ICLR 2025</p></details> |
 | **[Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching](http://arxiv.org/abs/2504.11713v2)** | 2025-04-18 |  |
 | **[Embrace rejection: Kernel matrix approximation by accelerated randomly pivoted Cholesky](http://arxiv.org/abs/2410.03969v3)** | 2025-04-06 | <details><summary>32 pa...</summary><p>32 pages, 4 figures; v3 new introduction to section 4, reorganization</p></details> |
@@ -39,6 +41,4 @@ labels: documentation
 | **[The dark side of the forces: assessing non-conservative force models for atomistic machine learning](http://arxiv.org/abs/2412.11569v2)** | 2025-02-19 | <details><summary>10 pa...</summary><p>10 pages (including references) + appendix Conference format</p></details> |
 | **[AI-Empowered Catalyst Discovery: A Survey from Classical Machine Learning Approaches to Large Language Models](http://arxiv.org/abs/2502.13626v1)** | 2025-02-19 |  |
 | **[Efficient and Scalable Density Functional Theory Hamiltonian Prediction through Adaptive Sparsity](http://arxiv.org/abs/2502.01171v1)** | 2025-02-03 |  |
-| **[Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians](http://arxiv.org/abs/2501.09009v2)** | 2025-01-31 | <details><summary>Accep...</summary><p>Accepted as a conference paper at ICLR 2025. The implementation of our method is available at https://github.com/ASK-Berkeley/MLFF-distill</p></details> |
-| **[A Foundation Model for Chemical Design and Property Prediction](http://arxiv.org/abs/2410.21422v2)** | 2025-01-23 |  |
 
