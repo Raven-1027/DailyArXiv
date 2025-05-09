@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 08, 2025
+title: Latest 15 Papers - May 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hide & Seek: Transformer Symmetries Obscure Sharpness & Riemannian Geometry Finds It](http://arxiv.org/abs/2505.05409v1)** | 2025-05-08 |  |
+| **[xTrace: A Facial Expressive Behaviour Analysis Tool for Continuous Affect Recognition](http://arxiv.org/abs/2505.05043v1)** | 2025-05-08 |  |
+| **[Are Synthetic Corruptions A Reliable Proxy For Real-World Corruptions?](http://arxiv.org/abs/2505.04835v1)** | 2025-05-07 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025 Workshop on Synthetic Data for Computer Vision</p></details> |
 | **[Learning 6-DoF Fine-grained Grasp Detection Based on Part Affordance Grounding](http://arxiv.org/abs/2301.11564v3)** | 2025-04-30 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 7 tables</p></details> |
 | **[Automatic Legal Writing Evaluation of LLMs](http://arxiv.org/abs/2504.21202v1)** | 2025-04-29 |  |
 | **[Detecting Long QT Syndrome and First-Degree Atrioventricular Block using Single-Lead AI-ECG: A Multi-Center Real-World Study](http://arxiv.org/abs/2502.17499v2)** | 2025-04-27 | <details><summary>29pag...</summary><p>29pages, 11 figures, 8 tables</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Babysit A Language Model From Scratch: Interactive Language Learning by Trials and Demonstrations](http://arxiv.org/abs/2405.13828v2)** | 2025-04-18 | <details><summary>NAACL...</summary><p>NAACL 2025 (Main) & Workshop on Large Language Models and Cognition @ ICML 2024 (Oral)</p></details> |
 | **[Integrating LLMs for Grading and Appeal Resolution in Computer Science Education](http://arxiv.org/abs/2504.13557v1)** | 2025-04-18 | 13 pages, 5 figures |
 | **[BCDDM: Branch-Corrected Denoising Diffusion Model for Black Hole Image Generation](http://arxiv.org/abs/2502.08528v2)** | 2025-04-16 | 19 pages, 11 figures |
-| **[A Personalised 3D+t Mesh Generative Model for Unveiling Normal Heart Dynamics](http://arxiv.org/abs/2409.13825v2)** | 2025-04-14 | <details><summary>Accep...</summary><p>Accepted by Nature Machine Intelligence</p></details> |
-| **[The topology of synergy: linking topological and information-theoretic approaches to higher-order interactions in complex systems](http://arxiv.org/abs/2504.10140v1)** | 2025-04-14 |  |
-| **[Resampling Benchmark for Efficient Comprehensive Evaluation of Large Vision-Language Models](http://arxiv.org/abs/2504.09979v1)** | 2025-04-14 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
