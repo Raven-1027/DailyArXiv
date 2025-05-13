@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 12, 2025
+title: Latest 15 Papers - May 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Combinatorial Approach to Avoiding Weak Keys in the BIKE Cryptosystem](http://arxiv.org/abs/2410.11111v2)** | 2025-05-10 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 6 tables</p></details> |
+| **[Impact of internal noise on convolutional neural networks](http://arxiv.org/abs/2505.06611v1)** | 2025-05-10 | 5 figures |
 | **[Hide & Seek: Transformer Symmetries Obscure Sharpness & Riemannian Geometry Finds It](http://arxiv.org/abs/2505.05409v1)** | 2025-05-08 |  |
 | **[xTrace: A Facial Expressive Behaviour Analysis Tool for Continuous Affect Recognition](http://arxiv.org/abs/2505.05043v1)** | 2025-05-08 |  |
 | **[Are Synthetic Corruptions A Reliable Proxy For Real-World Corruptions?](http://arxiv.org/abs/2505.04835v1)** | 2025-05-07 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025 Workshop on Synthetic Data for Computer Vision</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Measuring Interest Group Positions on Legislation: An AI-Driven Analysis of Lobbying Reports](http://arxiv.org/abs/2504.15333v1)** | 2025-04-21 |  |
 | **[Estimating transformative agreement impact on hybrid open access: A comparative large-scale study using Scopus, Web of Science and open metadata](http://arxiv.org/abs/2504.15038v1)** | 2025-04-21 | 28 pages, 6 figures |
 | **[Babysit A Language Model From Scratch: Interactive Language Learning by Trials and Demonstrations](http://arxiv.org/abs/2405.13828v2)** | 2025-04-18 | <details><summary>NAACL...</summary><p>NAACL 2025 (Main) & Workshop on Large Language Models and Cognition @ ICML 2024 (Oral)</p></details> |
-| **[Integrating LLMs for Grading and Appeal Resolution in Computer Science Education](http://arxiv.org/abs/2504.13557v1)** | 2025-04-18 | 13 pages, 5 figures |
-| **[BCDDM: Branch-Corrected Denoising Diffusion Model for Black Hole Image Generation](http://arxiv.org/abs/2502.08528v2)** | 2025-04-16 | 19 pages, 11 figures |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
