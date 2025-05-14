@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 13, 2025
+title: Latest 15 Papers - May 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Calculation to Adjudication: Examining LLM judges on Mathematical Reasoning Tasks](http://arxiv.org/abs/2409.04168v2)** | 2025-05-12 |  |
 | **[A Combinatorial Approach to Avoiding Weak Keys in the BIKE Cryptosystem](http://arxiv.org/abs/2410.11111v2)** | 2025-05-10 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 6 tables</p></details> |
 | **[Impact of internal noise on convolutional neural networks](http://arxiv.org/abs/2505.06611v1)** | 2025-05-10 | 5 figures |
 | **[Hide & Seek: Transformer Symmetries Obscure Sharpness & Riemannian Geometry Finds It](http://arxiv.org/abs/2505.05409v1)** | 2025-05-08 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[The Bitter Lesson Learned from 2,000+ Multilingual Benchmarks](http://arxiv.org/abs/2504.15521v1)** | 2025-04-22 | <details><summary>work ...</summary><p>work in progress; 22 pages, 8 figures, 3 tables;</p></details> |
 | **[Measuring Interest Group Positions on Legislation: An AI-Driven Analysis of Lobbying Reports](http://arxiv.org/abs/2504.15333v1)** | 2025-04-21 |  |
 | **[Estimating transformative agreement impact on hybrid open access: A comparative large-scale study using Scopus, Web of Science and open metadata](http://arxiv.org/abs/2504.15038v1)** | 2025-04-21 | 28 pages, 6 figures |
-| **[Babysit A Language Model From Scratch: Interactive Language Learning by Trials and Demonstrations](http://arxiv.org/abs/2405.13828v2)** | 2025-04-18 | <details><summary>NAACL...</summary><p>NAACL 2025 (Main) & Workshop on Large Language Models and Cognition @ ICML 2024 (Oral)</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Aitomia: Your Intelligent Assistant for AI-Driven Atomistic and Quantum Chemical Simulations](http://arxiv.org/abs/2505.08195v1)** | 2025-05-13 |  |
 | **[Physics-Informed Weakly Supervised Learning for Interatomic Potentials](http://arxiv.org/abs/2408.05215v2)** | 2025-05-05 | <details><summary>29 pa...</summary><p>29 pages, 4 figures, 31 Tables. Accepted for publication in ICML2025</p></details> |
 | **[El Agente: An Autonomous Agent for Quantum Chemistry](http://arxiv.org/abs/2505.02484v1)** | 2025-05-05 |  |
 | **[How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension](http://arxiv.org/abs/2410.05298v2)** | 2025-04-20 | <details><summary>The p...</summary><p>The paper is published in ICLR 2025</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Have ASkotch: A Neat Solution for Large-scale Kernel Ridge Regression](http://arxiv.org/abs/2407.10070v2)** | 2025-02-21 | <details><summary>64 pa...</summary><p>64 pages (including appendices), 16 figures, 5 tables</p></details> |
 | **[The dark side of the forces: assessing non-conservative force models for atomistic machine learning](http://arxiv.org/abs/2412.11569v2)** | 2025-02-19 | <details><summary>10 pa...</summary><p>10 pages (including references) + appendix Conference format</p></details> |
 | **[AI-Empowered Catalyst Discovery: A Survey from Classical Machine Learning Approaches to Large Language Models](http://arxiv.org/abs/2502.13626v1)** | 2025-02-19 |  |
-| **[Efficient and Scalable Density Functional Theory Hamiltonian Prediction through Adaptive Sparsity](http://arxiv.org/abs/2502.01171v1)** | 2025-02-03 |  |
 
