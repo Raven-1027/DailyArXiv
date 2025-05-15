@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 14, 2025
+title: Latest 15 Papers - May 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AdaFortiTran: An Adaptive Transformer Model for Robust OFDM Channel Estimation](http://arxiv.org/abs/2505.09076v1)** | 2025-05-14 |  |
 | **[From Calculation to Adjudication: Examining LLM judges on Mathematical Reasoning Tasks](http://arxiv.org/abs/2409.04168v2)** | 2025-05-12 |  |
 | **[A Combinatorial Approach to Avoiding Weak Keys in the BIKE Cryptosystem](http://arxiv.org/abs/2410.11111v2)** | 2025-05-10 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 6 tables</p></details> |
 | **[Impact of internal noise on convolutional neural networks](http://arxiv.org/abs/2505.06611v1)** | 2025-05-10 | 5 figures |
@@ -21,7 +22,6 @@ labels: documentation
 | **[FADEL: Uncertainty-aware Fake Audio Detection with Evidential Deep Learning](http://arxiv.org/abs/2504.15663v1)** | 2025-04-22 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2025</p></details> |
 | **[The Bitter Lesson Learned from 2,000+ Multilingual Benchmarks](http://arxiv.org/abs/2504.15521v1)** | 2025-04-22 | <details><summary>work ...</summary><p>work in progress; 22 pages, 8 figures, 3 tables;</p></details> |
 | **[Measuring Interest Group Positions on Legislation: An AI-Driven Analysis of Lobbying Reports](http://arxiv.org/abs/2504.15333v1)** | 2025-04-21 |  |
-| **[Estimating transformative agreement impact on hybrid open access: A comparative large-scale study using Scopus, Web of Science and open metadata](http://arxiv.org/abs/2504.15038v1)** | 2025-04-21 | 28 pages, 6 figures |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
