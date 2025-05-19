@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 18, 2025
+title: Latest 15 Papers - May 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Large Vision Model-Enhanced Digital Twin with Deep Reinforcement Learning for User Association and Load Balancing in Dynamic Wireless Networks](http://arxiv.org/abs/2410.07611v2)** | 2025-05-16 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2407.19765. This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Call for Rigor in Reporting Quality of Instruction Tuning Data](http://arxiv.org/abs/2503.04807v3)** | 2025-05-16 | <details><summary>Accep...</summary><p>Accepted to the ACL2025-main</p></details> |
+| **[A Conformal Predictive Measure for Assessing Catastrophic Forgetting](http://arxiv.org/abs/2505.10677v1)** | 2025-05-15 |  |
 | **[FitCF: A Framework for Automatic Feature Importance-guided Counterfactual Example Generation](http://arxiv.org/abs/2501.00777v2)** | 2025-05-15 | <details><summary>ACL 2...</summary><p>ACL 2025 Findings; camera-ready version</p></details> |
 | **[PointArena: Probing Multimodal Grounding Through Language-Guided Pointing](http://arxiv.org/abs/2505.09990v1)** | 2025-05-15 | <details><summary>10 Pa...</summary><p>10 Pages, Dataset and code:https://pointarena.github.io/</p></details> |
 | **[ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation](http://arxiv.org/abs/2505.09698v1)** | 2025-05-14 | <details><summary>47 pa...</summary><p>47 pages, 29 figures. Under review</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Are Synthetic Corruptions A Reliable Proxy For Real-World Corruptions?](http://arxiv.org/abs/2505.04835v1)** | 2025-05-07 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025 Workshop on Synthetic Data for Computer Vision</p></details> |
 | **[Learning 6-DoF Fine-grained Grasp Detection Based on Part Affordance Grounding](http://arxiv.org/abs/2301.11564v3)** | 2025-04-30 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 7 tables</p></details> |
 | **[Automatic Legal Writing Evaluation of LLMs](http://arxiv.org/abs/2504.21202v1)** | 2025-04-29 |  |
-| **[Detecting Long QT Syndrome and First-Degree Atrioventricular Block using Single-Lead AI-ECG: A Multi-Center Real-World Study](http://arxiv.org/abs/2502.17499v2)** | 2025-04-27 | <details><summary>29pag...</summary><p>29pages, 11 figures, 8 tables</p></details> |
-| **[Non-Asymptotic Guarantees for Average-Reward Q-Learning with Adaptive Stepsizes](http://arxiv.org/abs/2504.18743v1)** | 2025-04-25 | <details><summary>63 pa...</summary><p>63 pages and 4 figures</p></details> |
-| **[Efficient fine-tuning of 37-level GraphCast with the Canadian global deterministic analysis](http://arxiv.org/abs/2408.14587v2)** | 2025-04-25 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
