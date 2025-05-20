@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 19, 2025
+title: Latest 15 Papers - May 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Contextual Paralinguistic Data Creation for Multi-Modal Speech-LLM: Data Condensation and Spoken QA Generation](http://arxiv.org/abs/2505.13338v1)** | 2025-05-19 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2025</p></details> |
+| **[Seeing the Unseen: How EMoE Unveils Bias in Text-to-Image Diffusion Models](http://arxiv.org/abs/2505.13273v1)** | 2025-05-19 |  |
+| **[TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation](http://arxiv.org/abs/2505.12748v1)** | 2025-05-19 | 13 pages |
+| **[DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories](http://arxiv.org/abs/2505.12705v1)** | 2025-05-19 | <details><summary>See w...</summary><p>See website for videos: https://research.nvidia.com/labs/gear/dreamgen</p></details> |
+| **[Computational Reasoning of Large Language Models](http://arxiv.org/abs/2504.20771v2)** | 2025-05-19 |  |
+| **[Communication-Efficient Hybrid Language Model via Uncertainty-Aware Opportunistic and Compressed Transmission](http://arxiv.org/abs/2505.11788v1)** | 2025-05-17 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 2 tables; This work has been submitted to the IEEE for possible publication</p></details> |
+| **[BandRC: Band Shifted Raised Cosine Activated Implicit Neural Representations](http://arxiv.org/abs/2505.11640v1)** | 2025-05-16 | <details><summary>Submi...</summary><p>Submitted as a conference paper to ICCV 2025</p></details> |
+| **[PointArena: Probing Multimodal Grounding Through Language-Guided Pointing](http://arxiv.org/abs/2505.09990v2)** | 2025-05-16 | <details><summary>10 Pa...</summary><p>10 Pages, Dataset and code:https://pointarena.github.io/</p></details> |
+| **[Beyond Time: Cross-Dimensional Frequency Supervision for Time Series Forecasting](http://arxiv.org/abs/2505.11567v1)** | 2025-05-16 |  |
 | **[Large Vision Model-Enhanced Digital Twin with Deep Reinforcement Learning for User Association and Load Balancing in Dynamic Wireless Networks](http://arxiv.org/abs/2410.07611v2)** | 2025-05-16 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2407.19765. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Call for Rigor in Reporting Quality of Instruction Tuning Data](http://arxiv.org/abs/2503.04807v3)** | 2025-05-16 | <details><summary>Accep...</summary><p>Accepted to the ACL2025-main</p></details> |
 | **[A Conformal Predictive Measure for Assessing Catastrophic Forgetting](http://arxiv.org/abs/2505.10677v1)** | 2025-05-15 |  |
 | **[FitCF: A Framework for Automatic Feature Importance-guided Counterfactual Example Generation](http://arxiv.org/abs/2501.00777v2)** | 2025-05-15 | <details><summary>ACL 2...</summary><p>ACL 2025 Findings; camera-ready version</p></details> |
-| **[PointArena: Probing Multimodal Grounding Through Language-Guided Pointing](http://arxiv.org/abs/2505.09990v1)** | 2025-05-15 | <details><summary>10 Pa...</summary><p>10 Pages, Dataset and code:https://pointarena.github.io/</p></details> |
 | **[ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation](http://arxiv.org/abs/2505.09698v1)** | 2025-05-14 | <details><summary>47 pa...</summary><p>47 pages, 29 figures. Under review</p></details> |
 | **[AdaFortiTran: An Adaptive Transformer Model for Robust OFDM Channel Estimation](http://arxiv.org/abs/2505.09076v1)** | 2025-05-14 |  |
-| **[From Calculation to Adjudication: Examining LLM judges on Mathematical Reasoning Tasks](http://arxiv.org/abs/2409.04168v2)** | 2025-05-12 |  |
-| **[A Combinatorial Approach to Avoiding Weak Keys in the BIKE Cryptosystem](http://arxiv.org/abs/2410.11111v2)** | 2025-05-10 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 6 tables</p></details> |
-| **[Impact of internal noise on convolutional neural networks](http://arxiv.org/abs/2505.06611v1)** | 2025-05-10 | 5 figures |
-| **[Hide & Seek: Transformer Symmetries Obscure Sharpness & Riemannian Geometry Finds It](http://arxiv.org/abs/2505.05409v1)** | 2025-05-08 |  |
-| **[xTrace: A Facial Expressive Behaviour Analysis Tool for Continuous Affect Recognition](http://arxiv.org/abs/2505.05043v1)** | 2025-05-08 |  |
-| **[Are Synthetic Corruptions A Reliable Proxy For Real-World Corruptions?](http://arxiv.org/abs/2505.04835v1)** | 2025-05-07 | <details><summary>Accep...</summary><p>Accepted at CVPR 2025 Workshop on Synthetic Data for Computer Vision</p></details> |
-| **[Learning 6-DoF Fine-grained Grasp Detection Based on Part Affordance Grounding](http://arxiv.org/abs/2301.11564v3)** | 2025-04-30 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 7 tables</p></details> |
-| **[Automatic Legal Writing Evaluation of LLMs](http://arxiv.org/abs/2504.21202v1)** | 2025-04-29 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
