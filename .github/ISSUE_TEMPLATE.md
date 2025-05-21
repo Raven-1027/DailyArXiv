@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 20, 2025
+title: Latest 15 Papers - May 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bayesian Hierarchical Models for Quantitative Estimates for Performance metrics applied to Saddle Search Algorithms](http://arxiv.org/abs/2505.13621v1)** | 2025-05-19 | 15 pages, 5 figures |
 | **[Aitomia: Your Intelligent Assistant for AI-Driven Atomistic and Quantum Chemical Simulations](http://arxiv.org/abs/2505.08195v1)** | 2025-05-13 |  |
 | **[Physics-Informed Weakly Supervised Learning for Interatomic Potentials](http://arxiv.org/abs/2408.05215v2)** | 2025-05-05 | <details><summary>29 pa...</summary><p>29 pages, 4 figures, 31 Tables. Accepted for publication in ICML2025</p></details> |
 | **[El Agente: An Autonomous Agent for Quantum Chemistry](http://arxiv.org/abs/2505.02484v1)** | 2025-05-05 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Auto-ADMET: An Effective and Interpretable AutoML Method for Chemical ADMET Property Prediction](http://arxiv.org/abs/2502.16378v1)** | 2025-02-22 |  |
 | **[Have ASkotch: A Neat Solution for Large-scale Kernel Ridge Regression](http://arxiv.org/abs/2407.10070v2)** | 2025-02-21 | <details><summary>64 pa...</summary><p>64 pages (including appendices), 16 figures, 5 tables</p></details> |
 | **[The dark side of the forces: assessing non-conservative force models for atomistic machine learning](http://arxiv.org/abs/2412.11569v2)** | 2025-02-19 | <details><summary>10 pa...</summary><p>10 pages (including references) + appendix Conference format</p></details> |
-| **[AI-Empowered Catalyst Discovery: A Survey from Classical Machine Learning Approaches to Large Language Models](http://arxiv.org/abs/2502.13626v1)** | 2025-02-19 |  |
 
