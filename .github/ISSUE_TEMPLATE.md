@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 21, 2025
+title: Latest 15 Papers - May 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Exploring the Robustness of Language Models for Tabular Question Answering via Attention Analysis](http://arxiv.org/abs/2406.12719v3)** | 2025-05-21 |  |
 | **[Contextual Paralinguistic Data Creation for Multi-Modal Speech-LLM: Data Condensation and Spoken QA Generation](http://arxiv.org/abs/2505.13338v1)** | 2025-05-19 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2025</p></details> |
 | **[Seeing the Unseen: How EMoE Unveils Bias in Text-to-Image Diffusion Models](http://arxiv.org/abs/2505.13273v1)** | 2025-05-19 |  |
 | **[TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation](http://arxiv.org/abs/2505.12748v1)** | 2025-05-19 | 13 pages |
@@ -21,7 +22,6 @@ labels: documentation
 | **[A Conformal Predictive Measure for Assessing Catastrophic Forgetting](http://arxiv.org/abs/2505.10677v1)** | 2025-05-15 |  |
 | **[FitCF: A Framework for Automatic Feature Importance-guided Counterfactual Example Generation](http://arxiv.org/abs/2501.00777v2)** | 2025-05-15 | <details><summary>ACL 2...</summary><p>ACL 2025 Findings; camera-ready version</p></details> |
 | **[ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation](http://arxiv.org/abs/2505.09698v1)** | 2025-05-14 | <details><summary>47 pa...</summary><p>47 pages, 29 figures. Under review</p></details> |
-| **[AdaFortiTran: An Adaptive Transformer Model for Robust OFDM Channel Estimation](http://arxiv.org/abs/2505.09076v1)** | 2025-05-14 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
