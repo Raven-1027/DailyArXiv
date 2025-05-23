@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 22, 2025
+title: Latest 15 Papers - May 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,13 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VeriFastScore: Speeding up long-form factuality evaluation](http://arxiv.org/abs/2505.16973v1)** | 2025-05-22 |  |
+| **[Towards Better Understanding of Program-of-Thought Reasoning in Cross-Lingual and Multilingual Environments](http://arxiv.org/abs/2502.17956v2)** | 2025-05-22 |  |
+| **[A Novel Generative Model with Causality Constraint for Mitigating Biases in Recommender Systems](http://arxiv.org/abs/2505.16708v1)** | 2025-05-22 | 11 pages |
+| **[Losing is for Cherishing: Data Valuation Based on Machine Unlearning and Shapley Value](http://arxiv.org/abs/2505.16147v1)** | 2025-05-22 |  |
+| **[KoBALT: Korean Benchmark For Advanced Linguistic Tasks](http://arxiv.org/abs/2505.16125v1)** | 2025-05-22 | Under Reveiw |
+| **[SLMEval: Entropy-Based Calibration for Human-Aligned Evaluation of Large Language Models](http://arxiv.org/abs/2505.16003v1)** | 2025-05-21 |  |
+| **[Understanding Synthetic Context Extension via Retrieval Heads](http://arxiv.org/abs/2410.22316v3)** | 2025-05-21 | <details><summary>Publi...</summary><p>Published at ICML 2025</p></details> |
 | **[Exploring the Robustness of Language Models for Tabular Question Answering via Attention Analysis](http://arxiv.org/abs/2406.12719v3)** | 2025-05-21 |  |
 | **[Contextual Paralinguistic Data Creation for Multi-Modal Speech-LLM: Data Condensation and Spoken QA Generation](http://arxiv.org/abs/2505.13338v1)** | 2025-05-19 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2025</p></details> |
 | **[Seeing the Unseen: How EMoE Unveils Bias in Text-to-Image Diffusion Models](http://arxiv.org/abs/2505.13273v1)** | 2025-05-19 |  |
@@ -15,17 +22,11 @@ labels: documentation
 | **[Computational Reasoning of Large Language Models](http://arxiv.org/abs/2504.20771v2)** | 2025-05-19 |  |
 | **[Communication-Efficient Hybrid Language Model via Uncertainty-Aware Opportunistic and Compressed Transmission](http://arxiv.org/abs/2505.11788v1)** | 2025-05-17 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 2 tables; This work has been submitted to the IEEE for possible publication</p></details> |
 | **[BandRC: Band Shifted Raised Cosine Activated Implicit Neural Representations](http://arxiv.org/abs/2505.11640v1)** | 2025-05-16 | <details><summary>Submi...</summary><p>Submitted as a conference paper to ICCV 2025</p></details> |
-| **[PointArena: Probing Multimodal Grounding Through Language-Guided Pointing](http://arxiv.org/abs/2505.09990v2)** | 2025-05-16 | <details><summary>10 Pa...</summary><p>10 Pages, Dataset and code:https://pointarena.github.io/</p></details> |
-| **[Beyond Time: Cross-Dimensional Frequency Supervision for Time Series Forecasting](http://arxiv.org/abs/2505.11567v1)** | 2025-05-16 |  |
-| **[Large Vision Model-Enhanced Digital Twin with Deep Reinforcement Learning for User Association and Load Balancing in Dynamic Wireless Networks](http://arxiv.org/abs/2410.07611v2)** | 2025-05-16 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2407.19765. This work has been submitted to the IEEE for possible publication</p></details> |
-| **[Call for Rigor in Reporting Quality of Instruction Tuning Data](http://arxiv.org/abs/2503.04807v3)** | 2025-05-16 | <details><summary>Accep...</summary><p>Accepted to the ACL2025-main</p></details> |
-| **[A Conformal Predictive Measure for Assessing Catastrophic Forgetting](http://arxiv.org/abs/2505.10677v1)** | 2025-05-15 |  |
-| **[FitCF: A Framework for Automatic Feature Importance-guided Counterfactual Example Generation](http://arxiv.org/abs/2501.00777v2)** | 2025-05-15 | <details><summary>ACL 2...</summary><p>ACL 2025 Findings; camera-ready version</p></details> |
-| **[ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation](http://arxiv.org/abs/2505.09698v1)** | 2025-05-14 | <details><summary>47 pa...</summary><p>47 pages, 29 figures. Under review</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient and Scalable Density Functional Theory Hamiltonian Prediction through Adaptive Sparsity](http://arxiv.org/abs/2502.01171v2)** | 2025-05-22 |  |
 | **[Bayesian Hierarchical Models for Quantitative Estimates for Performance metrics applied to Saddle Search Algorithms](http://arxiv.org/abs/2505.13621v1)** | 2025-05-19 | 15 pages, 5 figures |
 | **[Aitomia: Your Intelligent Assistant for AI-Driven Atomistic and Quantum Chemical Simulations](http://arxiv.org/abs/2505.08195v1)** | 2025-05-13 |  |
 | **[Physics-Informed Weakly Supervised Learning for Interatomic Potentials](http://arxiv.org/abs/2408.05215v2)** | 2025-05-05 | <details><summary>29 pa...</summary><p>29 pages, 4 figures, 31 Tables. Accepted for publication in ICML2025</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Smart Reaction Templating: A Graph-Based Method for Automated Molecular Dynamics Input Generation](http://arxiv.org/abs/2503.02678v1)** | 2025-03-04 | 21 pages, 4 figures |
 | **[Auto-ADMET: An Effective and Interpretable AutoML Method for Chemical ADMET Property Prediction](http://arxiv.org/abs/2502.16378v1)** | 2025-02-22 |  |
 | **[Have ASkotch: A Neat Solution for Large-scale Kernel Ridge Regression](http://arxiv.org/abs/2407.10070v2)** | 2025-02-21 | <details><summary>64 pa...</summary><p>64 pages (including appendices), 16 figures, 5 tables</p></details> |
-| **[The dark side of the forces: assessing non-conservative force models for atomistic machine learning](http://arxiv.org/abs/2412.11569v2)** | 2025-02-19 | <details><summary>10 pa...</summary><p>10 pages (including references) + appendix Conference format</p></details> |
 
