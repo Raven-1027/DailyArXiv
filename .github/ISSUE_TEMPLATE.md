@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 25, 2025
+title: Latest 15 Papers - May 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,10 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VeriFastScore: Speeding up long-form factuality evaluation](http://arxiv.org/abs/2505.16973v1)** | 2025-05-22 |  |
+| **[VeriFastScore: Speeding up long-form factuality evaluation](http://arxiv.org/abs/2505.16973v2)** | 2025-05-23 |  |
+| **[How Knowledge Popularity Influences and Enhances LLM Knowledge Boundary Perception](http://arxiv.org/abs/2505.17537v1)** | 2025-05-23 |  |
+| **[Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging](http://arxiv.org/abs/2503.20641v2)** | 2025-05-23 | Technical report |
+| **[Mitigate One, Skew Another? Tackling Intersectional Biases in Text-to-Image Models](http://arxiv.org/abs/2505.17280v1)** | 2025-05-22 |  |
 | **[Towards Better Understanding of Program-of-Thought Reasoning in Cross-Lingual and Multilingual Environments](http://arxiv.org/abs/2502.17956v2)** | 2025-05-22 |  |
 | **[A Novel Generative Model with Causality Constraint for Mitigating Biases in Recommender Systems](http://arxiv.org/abs/2505.16708v1)** | 2025-05-22 | 11 pages |
 | **[Losing is for Cherishing: Data Valuation Based on Machine Unlearning and Shapley Value](http://arxiv.org/abs/2505.16147v1)** | 2025-05-22 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Seeing the Unseen: How EMoE Unveils Bias in Text-to-Image Diffusion Models](http://arxiv.org/abs/2505.13273v1)** | 2025-05-19 |  |
 | **[TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation](http://arxiv.org/abs/2505.12748v1)** | 2025-05-19 | 13 pages |
 | **[DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories](http://arxiv.org/abs/2505.12705v1)** | 2025-05-19 | <details><summary>See w...</summary><p>See website for videos: https://research.nvidia.com/labs/gear/dreamgen</p></details> |
-| **[Computational Reasoning of Large Language Models](http://arxiv.org/abs/2504.20771v2)** | 2025-05-19 |  |
-| **[Communication-Efficient Hybrid Language Model via Uncertainty-Aware Opportunistic and Compressed Transmission](http://arxiv.org/abs/2505.11788v1)** | 2025-05-17 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 2 tables; This work has been submitted to the IEEE for possible publication</p></details> |
-| **[BandRC: Band Shifted Raised Cosine Activated Implicit Neural Representations](http://arxiv.org/abs/2505.11640v1)** | 2025-05-16 | <details><summary>Submi...</summary><p>Submitted as a conference paper to ICCV 2025</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
