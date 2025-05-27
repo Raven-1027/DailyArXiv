@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 26, 2025
+title: Latest 15 Papers - May 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MMIG-Bench: Towards Comprehensive and Explainable Evaluation of Multi-Modal Image Generation Models](http://arxiv.org/abs/2505.19415v1)** | 2025-05-26 |  |
+| **[PatentMind: A Multi-Aspect Reasoning Graph for Patent Similarity Evaluation](http://arxiv.org/abs/2505.19347v1)** | 2025-05-25 |  |
+| **[PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims](http://arxiv.org/abs/2505.19345v1)** | 2025-05-25 |  |
+| **[WorldEval: World Model as Real-World Robot Policies Evaluator](http://arxiv.org/abs/2505.19017v1)** | 2025-05-25 | <details><summary>The p...</summary><p>The project page is available at https://worldeval.github.io</p></details> |
+| **[Align Beyond Prompts: Evaluating World Knowledge Alignment in Text-to-Image Generation](http://arxiv.org/abs/2505.18730v1)** | 2025-05-24 | <details><summary>Code:...</summary><p>Code: https://github.com/smile365317/ABP</p></details> |
+| **[Response Uncertainty and Probe Modeling: Two Sides of the Same Coin in LLM Interpretability?](http://arxiv.org/abs/2505.18575v1)** | 2025-05-24 | 18 Pages |
 | **[VeriFastScore: Speeding up long-form factuality evaluation](http://arxiv.org/abs/2505.16973v2)** | 2025-05-23 |  |
 | **[How Knowledge Popularity Influences and Enhances LLM Knowledge Boundary Perception](http://arxiv.org/abs/2505.17537v1)** | 2025-05-23 |  |
 | **[Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging](http://arxiv.org/abs/2503.20641v2)** | 2025-05-23 | Technical report |
@@ -16,16 +22,11 @@ labels: documentation
 | **[Losing is for Cherishing: Data Valuation Based on Machine Unlearning and Shapley Value](http://arxiv.org/abs/2505.16147v1)** | 2025-05-22 |  |
 | **[KoBALT: Korean Benchmark For Advanced Linguistic Tasks](http://arxiv.org/abs/2505.16125v1)** | 2025-05-22 | Under Reveiw |
 | **[SLMEval: Entropy-Based Calibration for Human-Aligned Evaluation of Large Language Models](http://arxiv.org/abs/2505.16003v1)** | 2025-05-21 |  |
-| **[Understanding Synthetic Context Extension via Retrieval Heads](http://arxiv.org/abs/2410.22316v3)** | 2025-05-21 | <details><summary>Publi...</summary><p>Published at ICML 2025</p></details> |
-| **[Exploring the Robustness of Language Models for Tabular Question Answering via Attention Analysis](http://arxiv.org/abs/2406.12719v3)** | 2025-05-21 |  |
-| **[Contextual Paralinguistic Data Creation for Multi-Modal Speech-LLM: Data Condensation and Spoken QA Generation](http://arxiv.org/abs/2505.13338v1)** | 2025-05-19 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2025</p></details> |
-| **[Seeing the Unseen: How EMoE Unveils Bias in Text-to-Image Diffusion Models](http://arxiv.org/abs/2505.13273v1)** | 2025-05-19 |  |
-| **[TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation](http://arxiv.org/abs/2505.12748v1)** | 2025-05-19 | 13 pages |
-| **[DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories](http://arxiv.org/abs/2505.12705v1)** | 2025-05-19 | <details><summary>See w...</summary><p>See website for videos: https://research.nvidia.com/labs/gear/dreamgen</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The velocity jump Langevin process and its splitting scheme: long time convergence and numerical accuracy](http://arxiv.org/abs/2410.08846v2)** | 2025-05-24 |  |
 | **[Efficient and Scalable Density Functional Theory Hamiltonian Prediction through Adaptive Sparsity](http://arxiv.org/abs/2502.01171v2)** | 2025-05-22 |  |
 | **[Bayesian Hierarchical Models for Quantitative Estimates for Performance metrics applied to Saddle Search Algorithms](http://arxiv.org/abs/2505.13621v1)** | 2025-05-19 | 15 pages, 5 figures |
 | **[Aitomia: Your Intelligent Assistant for AI-Driven Atomistic and Quantum Chemical Simulations](http://arxiv.org/abs/2505.08195v1)** | 2025-05-13 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Machine Learned Force Fields: Fundamentals, its reach, and challenges](http://arxiv.org/abs/2503.05845v1)** | 2025-03-07 | 9 figures |
 | **[Smart Reaction Templating: A Graph-Based Method for Automated Molecular Dynamics Input Generation](http://arxiv.org/abs/2503.02678v1)** | 2025-03-04 | 21 pages, 4 figures |
 | **[Auto-ADMET: An Effective and Interpretable AutoML Method for Chemical ADMET Property Prediction](http://arxiv.org/abs/2502.16378v1)** | 2025-02-22 |  |
-| **[Have ASkotch: A Neat Solution for Large-scale Kernel Ridge Regression](http://arxiv.org/abs/2407.10070v2)** | 2025-02-21 | <details><summary>64 pa...</summary><p>64 pages (including appendices), 16 figures, 5 tables</p></details> |
 
