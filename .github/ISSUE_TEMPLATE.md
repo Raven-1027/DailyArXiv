@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 27, 2025
+title: Latest 15 Papers - May 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BCDDM: Branch-Corrected Denoising Diffusion Model for Black Hole Image Generation](http://arxiv.org/abs/2502.08528v3)** | 2025-05-27 | 20 pages, 10figures |
+| **[What Changed? Detecting and Evaluating Instruction-Guided Image Edits with Multimodal Large Language Models](http://arxiv.org/abs/2505.20405v1)** | 2025-05-26 |  |
+| **[Prismatic Synthesis: Gradient-based Data Diversification Boosts Generalization in LLM Reasoning](http://arxiv.org/abs/2505.20161v1)** | 2025-05-26 |  |
 | **[MMIG-Bench: Towards Comprehensive and Explainable Evaluation of Multi-Modal Image Generation Models](http://arxiv.org/abs/2505.19415v1)** | 2025-05-26 |  |
 | **[PatentMind: A Multi-Aspect Reasoning Graph for Patent Similarity Evaluation](http://arxiv.org/abs/2505.19347v1)** | 2025-05-25 |  |
 | **[PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims](http://arxiv.org/abs/2505.19345v1)** | 2025-05-25 |  |
@@ -19,13 +22,11 @@ labels: documentation
 | **[Mitigate One, Skew Another? Tackling Intersectional Biases in Text-to-Image Models](http://arxiv.org/abs/2505.17280v1)** | 2025-05-22 |  |
 | **[Towards Better Understanding of Program-of-Thought Reasoning in Cross-Lingual and Multilingual Environments](http://arxiv.org/abs/2502.17956v2)** | 2025-05-22 |  |
 | **[A Novel Generative Model with Causality Constraint for Mitigating Biases in Recommender Systems](http://arxiv.org/abs/2505.16708v1)** | 2025-05-22 | 11 pages |
-| **[Losing is for Cherishing: Data Valuation Based on Machine Unlearning and Shapley Value](http://arxiv.org/abs/2505.16147v1)** | 2025-05-22 |  |
-| **[KoBALT: Korean Benchmark For Advanced Linguistic Tasks](http://arxiv.org/abs/2505.16125v1)** | 2025-05-22 | Under Reveiw |
-| **[SLMEval: Entropy-Based Calibration for Human-Aligned Evaluation of Large Language Models](http://arxiv.org/abs/2505.16003v1)** | 2025-05-21 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The dark side of the forces: assessing non-conservative force models for atomistic machine learning](http://arxiv.org/abs/2412.11569v3)** | 2025-05-27 | <details><summary>10 pa...</summary><p>10 pages (including references) + appendix Conference format</p></details> |
 | **[The velocity jump Langevin process and its splitting scheme: long time convergence and numerical accuracy](http://arxiv.org/abs/2410.08846v2)** | 2025-05-24 |  |
 | **[Efficient and Scalable Density Functional Theory Hamiltonian Prediction through Adaptive Sparsity](http://arxiv.org/abs/2502.01171v2)** | 2025-05-22 |  |
 | **[Bayesian Hierarchical Models for Quantitative Estimates for Performance metrics applied to Saddle Search Algorithms](http://arxiv.org/abs/2505.13621v1)** | 2025-05-19 | 15 pages, 5 figures |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Equivariant Masked Position Prediction for Efficient Molecular Representation](http://arxiv.org/abs/2502.08209v2)** | 2025-03-11 | 24 pages, 6 figures |
 | **[Machine Learned Force Fields: Fundamentals, its reach, and challenges](http://arxiv.org/abs/2503.05845v1)** | 2025-03-07 | 9 figures |
 | **[Smart Reaction Templating: A Graph-Based Method for Automated Molecular Dynamics Input Generation](http://arxiv.org/abs/2503.02678v1)** | 2025-03-04 | 21 pages, 4 figures |
-| **[Auto-ADMET: An Effective and Interpretable AutoML Method for Chemical ADMET Property Prediction](http://arxiv.org/abs/2502.16378v1)** | 2025-02-22 |  |
 
