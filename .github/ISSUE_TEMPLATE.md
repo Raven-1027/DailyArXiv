@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 29, 2025
+title: Latest 15 Papers - May 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,9 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Surf2CT: Cascaded 3D Flow Matching Models for Torso 3D CT Synthesis from Skin Surface](http://arxiv.org/abs/2505.22511v1)** | 2025-05-28 | <details><summary>Neuri...</summary><p>Neurips 2025 submitted</p></details> |
+| **[Diffusion Sampling Path Tells More: An Efficient Plug-and-Play Strategy for Sample Filtering](http://arxiv.org/abs/2505.23343v1)** | 2025-05-29 |  |
+| **[Surf2CT: Cascaded 3D Flow Matching Models for Torso 3D CT Synthesis from Skin Surface](http://arxiv.org/abs/2505.22511v2)** | 2025-05-29 | <details><summary>Neuri...</summary><p>Neurips 2025 submitted</p></details> |
+| **[Minimal Sufficient Views: A DNN model making predictions with more evidence has higher accuracy](http://arxiv.org/abs/2402.01095v2)** | 2025-05-29 | 24 pages |
 | **[FitCF: A Framework for Automatic Feature Importance-guided Counterfactual Example Generation](http://arxiv.org/abs/2501.00777v3)** | 2025-05-28 | <details><summary>ACL 2...</summary><p>ACL 2025 Findings; camera-ready version</p></details> |
 | **[Understanding Synthetic Context Extension via Retrieval Heads](http://arxiv.org/abs/2410.22316v4)** | 2025-05-27 | <details><summary>Publi...</summary><p>Published at ICML 2025</p></details> |
 | **[Controllable Context Sensitivity and the Knob Behind It](http://arxiv.org/abs/2411.07404v3)** | 2025-05-27 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[WorldEval: World Model as Real-World Robot Policies Evaluator](http://arxiv.org/abs/2505.19017v1)** | 2025-05-25 | <details><summary>The p...</summary><p>The project page is available at https://worldeval.github.io</p></details> |
 | **[Align Beyond Prompts: Evaluating World Knowledge Alignment in Text-to-Image Generation](http://arxiv.org/abs/2505.18730v1)** | 2025-05-24 | <details><summary>Code:...</summary><p>Code: https://github.com/smile365317/ABP</p></details> |
 | **[Response Uncertainty and Probe Modeling: Two Sides of the Same Coin in LLM Interpretability?](http://arxiv.org/abs/2505.18575v1)** | 2025-05-24 | 18 Pages |
-| **[VeriFastScore: Speeding up long-form factuality evaluation](http://arxiv.org/abs/2505.16973v2)** | 2025-05-23 |  |
-| **[How Knowledge Popularity Influences and Enhances LLM Knowledge Boundary Perception](http://arxiv.org/abs/2505.17537v1)** | 2025-05-23 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
