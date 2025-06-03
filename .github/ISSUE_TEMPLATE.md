@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 02, 2025
+title: Latest 15 Papers - June 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A personalized time-resolved 3D mesh generative model for unveiling normal heart dynamics](http://arxiv.org/abs/2409.13825v3)** | 2025-06-02 | <details><summary>Accep...</summary><p>Accepted by Nature Machine Intelligence</p></details> |
+| **[A Bayesian Inference Approach for Reducing Inter-Investigator Variability in Sampling-Based Land Cover Classification](http://arxiv.org/abs/2403.15720v3)** | 2025-05-31 | 19 pages, 10 figures |
+| **[Beyond Factual Accuracy: Evaluating Coverage of Diverse Factual Information in Long-form Text Generation](http://arxiv.org/abs/2501.03545v4)** | 2025-05-31 |  |
 | **[Controllable Context Sensitivity and the Knob Behind It](http://arxiv.org/abs/2411.07404v4)** | 2025-05-30 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025</p></details> |
 | **[Decoding Knowledge Attribution in Mixture-of-Experts: A Framework of Basic-Refinement Collaboration and Efficiency Analysis](http://arxiv.org/abs/2505.24593v1)** | 2025-05-30 | ACL 2025 |
 | **[Joint space-time modelling for upper daily maximum and minimum temperature record-breaking](http://arxiv.org/abs/2505.24436v1)** | 2025-05-30 | <details><summary>31 pa...</summary><p>31 pages (+25 pages supplement), 13 figures (+14 figures supplement), 3 tables (+4 tables supplement)</p></details> |
@@ -19,15 +22,12 @@ labels: documentation
 | **[Understanding Synthetic Context Extension via Retrieval Heads](http://arxiv.org/abs/2410.22316v4)** | 2025-05-27 | <details><summary>Publi...</summary><p>Published at ICML 2025</p></details> |
 | **[MMIG-Bench: Towards Comprehensive and Explainable Evaluation of Multi-Modal Image Generation Models](http://arxiv.org/abs/2505.19415v2)** | 2025-05-27 |  |
 | **[BCDDM: Branch-Corrected Denoising Diffusion Model for Black Hole Image Generation](http://arxiv.org/abs/2502.08528v3)** | 2025-05-27 | 20 pages, 10figures |
-| **[What Changed? Detecting and Evaluating Instruction-Guided Image Edits with Multimodal Large Language Models](http://arxiv.org/abs/2505.20405v1)** | 2025-05-26 |  |
-| **[Prismatic Synthesis: Gradient-based Data Diversification Boosts Generalization in LLM Reasoning](http://arxiv.org/abs/2505.20161v1)** | 2025-05-26 |  |
-| **[PatentMind: A Multi-Aspect Reasoning Graph for Patent Similarity Evaluation](http://arxiv.org/abs/2505.19347v1)** | 2025-05-25 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The dark side of the forces: assessing non-conservative force models for atomistic machine learning](http://arxiv.org/abs/2412.11569v4)** | 2025-06-01 | <details><summary>10 pa...</summary><p>10 pages (including references) + appendix Conference format</p></details> |
 | **[Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching](http://arxiv.org/abs/2504.11713v3)** | 2025-05-28 |  |
-| **[The dark side of the forces: assessing non-conservative force models for atomistic machine learning](http://arxiv.org/abs/2412.11569v3)** | 2025-05-27 | <details><summary>10 pa...</summary><p>10 pages (including references) + appendix Conference format</p></details> |
 | **[The velocity jump Langevin process and its splitting scheme: long time convergence and numerical accuracy](http://arxiv.org/abs/2410.08846v2)** | 2025-05-24 |  |
 | **[Efficient and Scalable Density Functional Theory Hamiltonian Prediction through Adaptive Sparsity](http://arxiv.org/abs/2502.01171v2)** | 2025-05-22 |  |
 | **[Bayesian Hierarchical Models for Quantitative Estimates for Performance metrics applied to Saddle Search Algorithms](http://arxiv.org/abs/2505.13621v1)** | 2025-05-19 | 15 pages, 5 figures |
