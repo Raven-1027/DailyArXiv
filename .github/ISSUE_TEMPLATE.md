@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 05, 2025
+title: Latest 15 Papers - June 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion](http://arxiv.org/abs/2506.04648v1)** | 2025-06-05 | <details><summary>Proje...</summary><p>Project Page: https://fps.ziplab.co</p></details> |
 | **[Estimating Total Lung Volume from Pixel-level Thickness Maps of Chest Radiographs Using Deep Learning](http://arxiv.org/abs/2110.12509v6)** | 2025-06-04 |  |
 | **[Reasoning is All You Need for Video Generalization: A Counterfactual Benchmark with Sub-question Evaluation](http://arxiv.org/abs/2503.10691v2)** | 2025-06-04 | <details><summary>It ha...</summary><p>It has been accepted to the ACL-2025 Findings</p></details> |
 | **[From Understanding to Generation: An Efficient Shortcut for Evaluating Language Models](http://arxiv.org/abs/2506.03592v1)** | 2025-06-04 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Beyond Factual Accuracy: Evaluating Coverage of Diverse Factual Information in Long-form Text Generation](http://arxiv.org/abs/2501.03545v4)** | 2025-05-31 |  |
 | **[FACE: A Fine-grained Reference Free Evaluator for Conversational Recommender Systems](http://arxiv.org/abs/2506.00314v1)** | 2025-05-30 |  |
 | **[Direct-to-Cell: A First Look into Starlink's Direct Satellite-to-Device Radio Access Network through Crowdsourced Measurements](http://arxiv.org/abs/2506.00283v1)** | 2025-05-30 | 7 pages, 6 figures |
-| **[Controllable Context Sensitivity and the Knob Behind It](http://arxiv.org/abs/2411.07404v4)** | 2025-05-30 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
