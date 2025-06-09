@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 08, 2025
+title: Latest 15 Papers - June 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,10 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion](http://arxiv.org/abs/2506.04648v1)** | 2025-06-05 | <details><summary>Proje...</summary><p>Project Page: https://fps.ziplab.co</p></details> |
+| **[Bayesian variable selection in a Cox proportional hazards model with the "Sum of Single Effects" prior](http://arxiv.org/abs/2506.06233v1)** | 2025-06-06 |  |
+| **[Direct-to-Cell: A First Look into Starlink's Direct Satellite-to-Device Radio Access Network through Crowdsourced Measurements](http://arxiv.org/abs/2506.00283v2)** | 2025-06-06 | <details><summary>7 pag...</summary><p>7 pages, 6 figures. Correction on the improvement produced by increasing the OOBE limit</p></details> |
+| **[Pruning Spurious Subgraphs for Graph Out-of-Distribtuion Generalization](http://arxiv.org/abs/2506.05957v1)** | 2025-06-06 | <details><summary>Submi...</summary><p>Submission of ICML2025, with score 4/4/3/3</p></details> |
+| **[FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion](http://arxiv.org/abs/2506.04648v2)** | 2025-06-06 | <details><summary>Proje...</summary><p>Project Page: https://fps.ziplab.co</p></details> |
 | **[Estimating Total Lung Volume from Pixel-level Thickness Maps of Chest Radiographs Using Deep Learning](http://arxiv.org/abs/2110.12509v6)** | 2025-06-04 |  |
 | **[Reasoning is All You Need for Video Generalization: A Counterfactual Benchmark with Sub-question Evaluation](http://arxiv.org/abs/2503.10691v2)** | 2025-06-04 | <details><summary>It ha...</summary><p>It has been accepted to the ACL-2025 Findings</p></details> |
 | **[From Understanding to Generation: An Efficient Shortcut for Evaluating Language Models](http://arxiv.org/abs/2506.03592v1)** | 2025-06-04 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[A personalized time-resolved 3D mesh generative model for unveiling normal heart dynamics](http://arxiv.org/abs/2409.13825v3)** | 2025-06-02 | <details><summary>Accep...</summary><p>Accepted by Nature Machine Intelligence</p></details> |
 | **[Ultra-Quantisation: Efficient Embedding Search via 1.58-bit Encodings](http://arxiv.org/abs/2506.00528v1)** | 2025-05-31 | <details><summary>Submi...</summary><p>Submitted to SISAP25 International Conference on Similarity Search and Applications</p></details> |
 | **[A Bayesian Inference Approach for Reducing Inter-Investigator Variability in Sampling-Based Land Cover Classification](http://arxiv.org/abs/2403.15720v3)** | 2025-05-31 | 19 pages, 10 figures |
-| **[Beyond Factual Accuracy: Evaluating Coverage of Diverse Factual Information in Long-form Text Generation](http://arxiv.org/abs/2501.03545v4)** | 2025-05-31 |  |
-| **[FACE: A Fine-grained Reference Free Evaluator for Conversational Recommender Systems](http://arxiv.org/abs/2506.00314v1)** | 2025-05-30 |  |
-| **[Direct-to-Cell: A First Look into Starlink's Direct Satellite-to-Device Radio Access Network through Crowdsourced Measurements](http://arxiv.org/abs/2506.00283v1)** | 2025-05-30 | 7 pages, 6 figures |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
