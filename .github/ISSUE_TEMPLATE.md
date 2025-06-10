@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 09, 2025
+title: Latest 15 Papers - June 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fast Geometric Embedding for Node Influence Maximization](http://arxiv.org/abs/2506.07435v1)** | 2025-06-09 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 18 tables; Github repository available (https://github.com/sashakolpakov/graphem/); Package available on PyPi (https://pypi.org/project/graphem-jax/)</p></details> |
+| **[earEOG via Periauricular Electrodes to Facilitate Eye Tracking in a Natural Headphone Form Factor](http://arxiv.org/abs/2506.07193v1)** | 2025-06-08 | 12 pages |
 | **[Bayesian variable selection in a Cox proportional hazards model with the "Sum of Single Effects" prior](http://arxiv.org/abs/2506.06233v1)** | 2025-06-06 |  |
 | **[Direct-to-Cell: A First Look into Starlink's Direct Satellite-to-Device Radio Access Network through Crowdsourced Measurements](http://arxiv.org/abs/2506.00283v2)** | 2025-06-06 | <details><summary>7 pag...</summary><p>7 pages, 6 figures. Correction on the improvement produced by increasing the OOBE limit</p></details> |
 | **[Pruning Spurious Subgraphs for Graph Out-of-Distribtuion Generalization](http://arxiv.org/abs/2506.05957v1)** | 2025-06-06 | <details><summary>Submi...</summary><p>Submission of ICML2025, with score 4/4/3/3</p></details> |
@@ -20,13 +22,13 @@ labels: documentation
 | **[Contextual Paralinguistic Data Creation for Multi-Modal Speech-LLM: Data Condensation and Spoken QA Generation](http://arxiv.org/abs/2505.13338v2)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2025. [v2]: The dataset has been released, and the link is now updated</p></details> |
 | **[CiteEval: Principle-Driven Citation Evaluation for Source Attribution](http://arxiv.org/abs/2506.01829v1)** | 2025-06-02 | ACL 2025 |
 | **[A personalized time-resolved 3D mesh generative model for unveiling normal heart dynamics](http://arxiv.org/abs/2409.13825v3)** | 2025-06-02 | <details><summary>Accep...</summary><p>Accepted by Nature Machine Intelligence</p></details> |
-| **[Ultra-Quantisation: Efficient Embedding Search via 1.58-bit Encodings](http://arxiv.org/abs/2506.00528v1)** | 2025-05-31 | <details><summary>Submi...</summary><p>Submitted to SISAP25 International Conference on Similarity Search and Applications</p></details> |
-| **[A Bayesian Inference Approach for Reducing Inter-Investigator Variability in Sampling-Based Land Cover Classification](http://arxiv.org/abs/2403.15720v3)** | 2025-05-31 | 19 pages, 10 figures |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unlocking Chemical Insights: Superior Molecular Representations from Intermediate Encoder Layers](http://arxiv.org/abs/2506.06443v1)** | 2025-06-06 |  |
 | **[MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures](http://arxiv.org/abs/2506.04195v1)** | 2025-06-04 |  |
+| **[ChemGraph: An Agentic Framework for Computational Chemistry Workflows](http://arxiv.org/abs/2506.06363v1)** | 2025-06-03 |  |
 | **[Bayesian Hierarchical Models for Quantitative Estimates for Performance metrics applied to Saddle Search Algorithms](http://arxiv.org/abs/2505.13621v2)** | 2025-06-02 | <details><summary>37 pa...</summary><p>37 pages, 30 figures, 7 tables</p></details> |
 | **[The dark side of the forces: assessing non-conservative force models for atomistic machine learning](http://arxiv.org/abs/2412.11569v4)** | 2025-06-01 | <details><summary>10 pa...</summary><p>10 pages (including references) + appendix Conference format</p></details> |
 | **[Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching](http://arxiv.org/abs/2504.11713v3)** | 2025-05-28 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Embrace rejection: Kernel matrix approximation by accelerated randomly pivoted Cholesky](http://arxiv.org/abs/2410.03969v3)** | 2025-04-06 | <details><summary>32 pa...</summary><p>32 pages, 4 figures; v3 new introduction to section 4, reorganization</p></details> |
 | **[Energy-Adaptive Riemannian Conjugate Gradient Method for Density Functional Theory](http://arxiv.org/abs/2503.16225v1)** | 2025-03-20 |  |
 | **[A Transformer Model for Predicting Chemical Reaction Products from Generic Templates](http://arxiv.org/abs/2503.05810v2)** | 2025-03-11 |  |
-| **[Equivariant Masked Position Prediction for Efficient Molecular Representation](http://arxiv.org/abs/2502.08209v2)** | 2025-03-11 | 24 pages, 6 figures |
-| **[Machine Learned Force Fields: Fundamentals, its reach, and challenges](http://arxiv.org/abs/2503.05845v1)** | 2025-03-07 | 9 figures |
 
