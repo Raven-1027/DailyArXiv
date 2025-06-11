@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 10, 2025
+title: Latest 15 Papers - June 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,11 +7,13 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Direct-to-Cell: A First Look into Starlink's Direct Satellite-to-Device Radio Access Network through Crowdsourced Measurements](http://arxiv.org/abs/2506.00283v3)** | 2025-06-10 | <details><summary>7 pag...</summary><p>7 pages, 6 figures. Correction on the improvement produced by increasing the OOBE limit</p></details> |
+| **[Pruning Spurious Subgraphs for Graph Out-of-Distribtuion Generalization](http://arxiv.org/abs/2506.05957v2)** | 2025-06-10 | <details><summary>Submi...</summary><p>Submission of ICML2025, with score 4/4/3/3</p></details> |
+| **[Draft-based Approximate Inference for LLMs](http://arxiv.org/abs/2506.08373v1)** | 2025-06-10 |  |
+| **[Scaling Laws of Motion Forecasting and Planning -- A Technical Report](http://arxiv.org/abs/2506.08228v1)** | 2025-06-09 |  |
 | **[Fast Geometric Embedding for Node Influence Maximization](http://arxiv.org/abs/2506.07435v1)** | 2025-06-09 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 18 tables; Github repository available (https://github.com/sashakolpakov/graphem/); Package available on PyPi (https://pypi.org/project/graphem-jax/)</p></details> |
 | **[earEOG via Periauricular Electrodes to Facilitate Eye Tracking in a Natural Headphone Form Factor](http://arxiv.org/abs/2506.07193v1)** | 2025-06-08 | 12 pages |
 | **[Bayesian variable selection in a Cox proportional hazards model with the "Sum of Single Effects" prior](http://arxiv.org/abs/2506.06233v1)** | 2025-06-06 |  |
-| **[Direct-to-Cell: A First Look into Starlink's Direct Satellite-to-Device Radio Access Network through Crowdsourced Measurements](http://arxiv.org/abs/2506.00283v2)** | 2025-06-06 | <details><summary>7 pag...</summary><p>7 pages, 6 figures. Correction on the improvement produced by increasing the OOBE limit</p></details> |
-| **[Pruning Spurious Subgraphs for Graph Out-of-Distribtuion Generalization](http://arxiv.org/abs/2506.05957v1)** | 2025-06-06 | <details><summary>Submi...</summary><p>Submission of ICML2025, with score 4/4/3/3</p></details> |
 | **[FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion](http://arxiv.org/abs/2506.04648v2)** | 2025-06-06 | <details><summary>Proje...</summary><p>Project Page: https://fps.ziplab.co</p></details> |
 | **[Estimating Total Lung Volume from Pixel-level Thickness Maps of Chest Radiographs Using Deep Learning](http://arxiv.org/abs/2110.12509v6)** | 2025-06-04 |  |
 | **[Reasoning is All You Need for Video Generalization: A Counterfactual Benchmark with Sub-question Evaluation](http://arxiv.org/abs/2503.10691v2)** | 2025-06-04 | <details><summary>It ha...</summary><p>It has been accepted to the ACL-2025 Findings</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[A Multimodal, Multilingual, and Multidimensional Pipeline for Fine-grained Crowdsourcing Earthquake Damage Evaluation](http://arxiv.org/abs/2506.03360v1)** | 2025-06-03 |  |
 | **[Sample-efficient Learning of Concepts with Theoretical Guarantees: from Data to Concepts without Interventions](http://arxiv.org/abs/2502.06536v2)** | 2025-06-03 | <details><summary>55 pa...</summary><p>55 pages, 20 figures, 12 Tables, Preprint</p></details> |
 | **[Contextual Paralinguistic Data Creation for Multi-Modal Speech-LLM: Data Condensation and Spoken QA Generation](http://arxiv.org/abs/2505.13338v2)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2025. [v2]: The dataset has been released, and the link is now updated</p></details> |
-| **[CiteEval: Principle-Driven Citation Evaluation for Source Attribution](http://arxiv.org/abs/2506.01829v1)** | 2025-06-02 | ACL 2025 |
-| **[A personalized time-resolved 3D mesh generative model for unveiling normal heart dynamics](http://arxiv.org/abs/2409.13825v3)** | 2025-06-02 | <details><summary>Accep...</summary><p>Accepted by Nature Machine Intelligence</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
