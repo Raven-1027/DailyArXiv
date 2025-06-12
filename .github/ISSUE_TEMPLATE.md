@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 11, 2025
+title: Latest 15 Papers - June 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,10 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Emphasising Structured Information: Integrating Abstract Meaning Representation into LLMs for Enhanced Open-Domain Dialogue Evaluation](http://arxiv.org/abs/2404.01129v4)** | 2025-06-11 |  |
+| **[Pruning Spurious Subgraphs for Graph Out-of-Distribtuion Generalization](http://arxiv.org/abs/2506.05957v3)** | 2025-06-11 | <details><summary>Submi...</summary><p>Submission of ICML2025, with score 4/4/3/3</p></details> |
+| **[Decoding Knowledge Attribution in Mixture-of-Experts: A Framework of Basic-Refinement Collaboration and Efficiency Analysis](http://arxiv.org/abs/2505.24593v2)** | 2025-06-11 | ACL 2025 |
 | **[Direct-to-Cell: A First Look into Starlink's Direct Satellite-to-Device Radio Access Network through Crowdsourced Measurements](http://arxiv.org/abs/2506.00283v3)** | 2025-06-10 | <details><summary>7 pag...</summary><p>7 pages, 6 figures. Correction on the improvement produced by increasing the OOBE limit</p></details> |
-| **[Pruning Spurious Subgraphs for Graph Out-of-Distribtuion Generalization](http://arxiv.org/abs/2506.05957v2)** | 2025-06-10 | <details><summary>Submi...</summary><p>Submission of ICML2025, with score 4/4/3/3</p></details> |
 | **[Draft-based Approximate Inference for LLMs](http://arxiv.org/abs/2506.08373v1)** | 2025-06-10 |  |
 | **[Scaling Laws of Motion Forecasting and Planning -- A Technical Report](http://arxiv.org/abs/2506.08228v1)** | 2025-06-09 |  |
 | **[Fast Geometric Embedding for Node Influence Maximization](http://arxiv.org/abs/2506.07435v1)** | 2025-06-09 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 18 tables; Github repository available (https://github.com/sashakolpakov/graphem/); Package available on PyPi (https://pypi.org/project/graphem-jax/)</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[From Understanding to Generation: An Efficient Shortcut for Evaluating Language Models](http://arxiv.org/abs/2506.03592v1)** | 2025-06-04 |  |
 | **[Local Equivariance Error-Based Metrics for Evaluating Sampling-Frequency-Independent Property of Neural Network](http://arxiv.org/abs/2506.03550v1)** | 2025-06-04 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, accepted for European Signal Processing Conference 2025 (EUSIPCO 2025)</p></details> |
 | **[A Multimodal, Multilingual, and Multidimensional Pipeline for Fine-grained Crowdsourcing Earthquake Damage Evaluation](http://arxiv.org/abs/2506.03360v1)** | 2025-06-03 |  |
-| **[Sample-efficient Learning of Concepts with Theoretical Guarantees: from Data to Concepts without Interventions](http://arxiv.org/abs/2502.06536v2)** | 2025-06-03 | <details><summary>55 pa...</summary><p>55 pages, 20 figures, 12 Tables, Preprint</p></details> |
-| **[Contextual Paralinguistic Data Creation for Multi-Modal Speech-LLM: Data Condensation and Spoken QA Generation](http://arxiv.org/abs/2505.13338v2)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2025. [v2]: The dataset has been released, and the link is now updated</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
