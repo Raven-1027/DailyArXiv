@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 15, 2025
+title: Latest 15 Papers - June 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Long-Short Alignment for Effective Long-Context Modeling in LLMs](http://arxiv.org/abs/2506.11769v1)** | 2025-06-13 | ICML 2025 |
 | **[Correlation vs causation in Alzheimer's disease: an interpretability-driven study](http://arxiv.org/abs/2506.10179v1)** | 2025-06-11 |  |
 | **[Emphasising Structured Information: Integrating Abstract Meaning Representation into LLMs for Enhanced Open-Domain Dialogue Evaluation](http://arxiv.org/abs/2404.01129v4)** | 2025-06-11 |  |
 | **[Pruning Spurious Subgraphs for Graph Out-of-Distribtuion Generalization](http://arxiv.org/abs/2506.05957v3)** | 2025-06-11 | <details><summary>Submi...</summary><p>Submission of ICML2025, with score 4/4/3/3</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Estimating Total Lung Volume from Pixel-level Thickness Maps of Chest Radiographs Using Deep Learning](http://arxiv.org/abs/2110.12509v6)** | 2025-06-04 |  |
 | **[Reasoning is All You Need for Video Generalization: A Counterfactual Benchmark with Sub-question Evaluation](http://arxiv.org/abs/2503.10691v2)** | 2025-06-04 | <details><summary>It ha...</summary><p>It has been accepted to the ACL-2025 Findings</p></details> |
 | **[From Understanding to Generation: An Efficient Shortcut for Evaluating Language Models](http://arxiv.org/abs/2506.03592v1)** | 2025-06-04 |  |
-| **[Local Equivariance Error-Based Metrics for Evaluating Sampling-Frequency-Independent Property of Neural Network](http://arxiv.org/abs/2506.03550v1)** | 2025-06-04 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, accepted for European Signal Processing Conference 2025 (EUSIPCO 2025)</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
