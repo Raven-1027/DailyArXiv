@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 16, 2025
+title: Latest 15 Papers - June 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Manifold Metric: A Loss Landscape Approach for Predicting Model Performance](http://arxiv.org/abs/2405.15895v2)** | 2025-06-16 | <details><summary>Publi...</summary><p>Published at 4th Conference on Lifelong Learning Agents (CoLLAs), 2025</p></details> |
+| **[Mind the XAI Gap: A Human-Centered LLM Framework for Democratizing Explainable AI](http://arxiv.org/abs/2506.12240v1)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 3rd World Conference on eXplainable Artificial Intelligence. This version corresponds to the camera-ready manuscript submitted to the conference proceedings</p></details> |
 | **[Long-Short Alignment for Effective Long-Context Modeling in LLMs](http://arxiv.org/abs/2506.11769v1)** | 2025-06-13 | ICML 2025 |
 | **[Correlation vs causation in Alzheimer's disease: an interpretability-driven study](http://arxiv.org/abs/2506.10179v1)** | 2025-06-11 |  |
 | **[Emphasising Structured Information: Integrating Abstract Meaning Representation into LLMs for Enhanced Open-Domain Dialogue Evaluation](http://arxiv.org/abs/2404.01129v4)** | 2025-06-11 |  |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Bayesian variable selection in a Cox proportional hazards model with the "Sum of Single Effects" prior](http://arxiv.org/abs/2506.06233v1)** | 2025-06-06 |  |
 | **[FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion](http://arxiv.org/abs/2506.04648v2)** | 2025-06-06 | <details><summary>Proje...</summary><p>Project Page: https://fps.ziplab.co</p></details> |
 | **[Estimating Total Lung Volume from Pixel-level Thickness Maps of Chest Radiographs Using Deep Learning](http://arxiv.org/abs/2110.12509v6)** | 2025-06-04 |  |
-| **[Reasoning is All You Need for Video Generalization: A Counterfactual Benchmark with Sub-question Evaluation](http://arxiv.org/abs/2503.10691v2)** | 2025-06-04 | <details><summary>It ha...</summary><p>It has been accepted to the ACL-2025 Findings</p></details> |
-| **[From Understanding to Generation: An Efficient Shortcut for Evaluating Language Models](http://arxiv.org/abs/2506.03592v1)** | 2025-06-04 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ILVES: Accurate and efficient bond length and angle constraints in molecular dynamics](http://arxiv.org/abs/2503.13075v3)** | 2025-06-16 |  |
 | **[Unlocking Chemical Insights: Superior Molecular Representations from Intermediate Encoder Layers](http://arxiv.org/abs/2506.06443v1)** | 2025-06-06 |  |
 | **[MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures](http://arxiv.org/abs/2506.04195v1)** | 2025-06-04 |  |
 | **[ChemGraph: An Agentic Framework for Computational Chemistry Workflows](http://arxiv.org/abs/2506.06363v1)** | 2025-06-03 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension](http://arxiv.org/abs/2410.05298v2)** | 2025-04-20 | <details><summary>The p...</summary><p>The paper is published in ICLR 2025</p></details> |
 | **[Embrace rejection: Kernel matrix approximation by accelerated randomly pivoted Cholesky](http://arxiv.org/abs/2410.03969v3)** | 2025-04-06 | <details><summary>32 pa...</summary><p>32 pages, 4 figures; v3 new introduction to section 4, reorganization</p></details> |
 | **[Energy-Adaptive Riemannian Conjugate Gradient Method for Density Functional Theory](http://arxiv.org/abs/2503.16225v1)** | 2025-03-20 |  |
-| **[A Transformer Model for Predicting Chemical Reaction Products from Generic Templates](http://arxiv.org/abs/2503.05810v2)** | 2025-03-11 |  |
 
