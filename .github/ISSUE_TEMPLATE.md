@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 18, 2025
+title: Latest 15 Papers - June 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Skew-Induced Insertion Loss Deviation (SILD) and FOM_SILD: Metrics for Quantifying P/N Skew Effects in High-Speed Channels](http://arxiv.org/abs/2506.15105v1)** | 2025-06-18 |  |
+| **[DreamGen: Unlocking Generalization in Robot Learning through Video World Models](http://arxiv.org/abs/2505.12705v2)** | 2025-06-17 | <details><summary>See w...</summary><p>See website for videos: https://research.nvidia.com/labs/gear/dreamgen</p></details> |
 | **[Rademacher learning rates for iterated random functions](http://arxiv.org/abs/2506.13946v1)** | 2025-06-16 |  |
 | **[Manifold Metric: A Loss Landscape Approach for Predicting Model Performance](http://arxiv.org/abs/2405.15895v2)** | 2025-06-16 | <details><summary>Publi...</summary><p>Published at 4th Conference on Lifelong Learning Agents (CoLLAs), 2025</p></details> |
 | **[Mind the XAI Gap: A Human-Centered LLM Framework for Democratizing Explainable AI](http://arxiv.org/abs/2506.12240v1)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 3rd World Conference on eXplainable Artificial Intelligence. This version corresponds to the camera-ready manuscript submitted to the conference proceedings</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Scaling Laws of Motion Forecasting and Planning -- A Technical Report](http://arxiv.org/abs/2506.08228v1)** | 2025-06-09 |  |
 | **[Fast Geometric Embedding for Node Influence Maximization](http://arxiv.org/abs/2506.07435v1)** | 2025-06-09 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 18 tables; Github repository available (https://github.com/sashakolpakov/graphem/); Package available on PyPi (https://pypi.org/project/graphem-jax/)</p></details> |
 | **[earEOG via Periauricular Electrodes to Facilitate Eye Tracking in a Natural Headphone Form Factor](http://arxiv.org/abs/2506.07193v1)** | 2025-06-08 | 12 pages |
-| **[Bayesian variable selection in a Cox proportional hazards model with the "Sum of Single Effects" prior](http://arxiv.org/abs/2506.06233v1)** | 2025-06-06 |  |
-| **[FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion](http://arxiv.org/abs/2506.04648v2)** | 2025-06-06 | <details><summary>Proje...</summary><p>Project Page: https://fps.ziplab.co</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
