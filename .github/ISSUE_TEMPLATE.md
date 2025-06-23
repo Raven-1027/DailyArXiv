@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 22, 2025
+title: Latest 15 Papers - June 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Boltzmann Classifier: A Thermodynamic-Inspired Approach to Supervised Learning](http://arxiv.org/abs/2505.06753v2)** | 2025-06-20 |  |
+| **[Assessing the impact of Binarization for Writer Identification in Greek Papyrus](http://arxiv.org/abs/2506.15852v1)** | 2025-06-18 | <details><summary>Accep...</summary><p>Accepted for publication for AIROV 2025</p></details> |
 | **[Skew-Induced Insertion Loss Deviation (SILD) and FOM_SILD: Metrics for Quantifying P/N Skew Effects in High-Speed Channels](http://arxiv.org/abs/2506.15105v1)** | 2025-06-18 |  |
 | **[DreamGen: Unlocking Generalization in Robot Learning through Video World Models](http://arxiv.org/abs/2505.12705v2)** | 2025-06-17 | <details><summary>See w...</summary><p>See website for videos: https://research.nvidia.com/labs/gear/dreamgen</p></details> |
 | **[Rademacher learning rates for iterated random functions](http://arxiv.org/abs/2506.13946v1)** | 2025-06-16 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Direct-to-Cell: A First Look into Starlink's Direct Satellite-to-Device Radio Access Network through Crowdsourced Measurements](http://arxiv.org/abs/2506.00283v3)** | 2025-06-10 | <details><summary>7 pag...</summary><p>7 pages, 6 figures. Correction on the improvement produced by increasing the OOBE limit</p></details> |
 | **[Draft-based Approximate Inference for LLMs](http://arxiv.org/abs/2506.08373v1)** | 2025-06-10 |  |
 | **[Scaling Laws of Motion Forecasting and Planning -- A Technical Report](http://arxiv.org/abs/2506.08228v1)** | 2025-06-09 |  |
-| **[Fast Geometric Embedding for Node Influence Maximization](http://arxiv.org/abs/2506.07435v1)** | 2025-06-09 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 18 tables; Github repository available (https://github.com/sashakolpakov/graphem/); Package available on PyPi (https://pypi.org/project/graphem-jax/)</p></details> |
-| **[earEOG via Periauricular Electrodes to Facilitate Eye Tracking in a Natural Headphone Form Factor](http://arxiv.org/abs/2506.07193v1)** | 2025-06-08 | 12 pages |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
