@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 23, 2025
+title: Latest 15 Papers - June 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Kernel Limit of Recurrent Neural Networks Trained on Ergodic Data Sequences](http://arxiv.org/abs/2308.14555v3)** | 2025-06-21 | <details><summary>Revis...</summary><p>Revision in response to reviewers' comments. The mean-field random function has been replaced by a mean-field term. Some typos fixed</p></details> |
+| **[Gaussian Process Latent Variable Modeling for Few-shot Time Series Forecasting](http://arxiv.org/abs/2212.10306v2)** | 2025-06-21 |  |
 | **[Boltzmann Classifier: A Thermodynamic-Inspired Approach to Supervised Learning](http://arxiv.org/abs/2505.06753v2)** | 2025-06-20 |  |
 | **[Assessing the impact of Binarization for Writer Identification in Greek Papyrus](http://arxiv.org/abs/2506.15852v1)** | 2025-06-18 | <details><summary>Accep...</summary><p>Accepted for publication for AIROV 2025</p></details> |
 | **[Skew-Induced Insertion Loss Deviation (SILD) and FOM_SILD: Metrics for Quantifying P/N Skew Effects in High-Speed Channels](http://arxiv.org/abs/2506.15105v1)** | 2025-06-18 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Pruning Spurious Subgraphs for Graph Out-of-Distribtuion Generalization](http://arxiv.org/abs/2506.05957v3)** | 2025-06-11 | <details><summary>Submi...</summary><p>Submission of ICML2025, with score 4/4/3/3</p></details> |
 | **[Decoding Knowledge Attribution in Mixture-of-Experts: A Framework of Basic-Refinement Collaboration and Efficiency Analysis](http://arxiv.org/abs/2505.24593v2)** | 2025-06-11 | ACL 2025 |
 | **[Direct-to-Cell: A First Look into Starlink's Direct Satellite-to-Device Radio Access Network through Crowdsourced Measurements](http://arxiv.org/abs/2506.00283v3)** | 2025-06-10 | <details><summary>7 pag...</summary><p>7 pages, 6 figures. Correction on the improvement produced by increasing the OOBE limit</p></details> |
-| **[Draft-based Approximate Inference for LLMs](http://arxiv.org/abs/2506.08373v1)** | 2025-06-10 |  |
-| **[Scaling Laws of Motion Forecasting and Planning -- A Technical Report](http://arxiv.org/abs/2506.08228v1)** | 2025-06-09 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
