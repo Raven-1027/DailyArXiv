@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 26, 2025
+title: Latest 15 Papers - June 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evaluating Rare Disease Diagnostic Performance in Symptom Checkers: A Synthetic Vignette Simulation Approach](http://arxiv.org/abs/2506.19750v3)** | 2025-06-26 |  |
+| **[High Temporal Consistency through Semantic Similarity Propagation in Semi-Supervised Video Semantic Segmentation for Autonomous Flight](http://arxiv.org/abs/2503.15676v2)** | 2025-06-26 | Accepted by CVPR2025 |
 | **[Alleviating User-Sensitive bias with Fair Generative Sequential Recommendation Model](http://arxiv.org/abs/2506.19777v1)** | 2025-06-24 |  |
 | **[Recurrent Visual Feature Extraction and Stereo Attentions for CT Report Generation](http://arxiv.org/abs/2506.19665v1)** | 2025-06-24 | 7 pages, 3 figures |
 | **[Kernel Limit of Recurrent Neural Networks Trained on Ergodic Data Sequences](http://arxiv.org/abs/2308.14555v3)** | 2025-06-21 | <details><summary>Revis...</summary><p>Revision in response to reviewers' comments. The mean-field random function has been replaced by a mean-field term. Some typos fixed</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Mind the XAI Gap: A Human-Centered LLM Framework for Democratizing Explainable AI](http://arxiv.org/abs/2506.12240v1)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 3rd World Conference on eXplainable Artificial Intelligence. This version corresponds to the camera-ready manuscript submitted to the conference proceedings</p></details> |
 | **[Long-Short Alignment for Effective Long-Context Modeling in LLMs](http://arxiv.org/abs/2506.11769v1)** | 2025-06-13 | ICML 2025 |
 | **[Correlation vs causation in Alzheimer's disease: an interpretability-driven study](http://arxiv.org/abs/2506.10179v1)** | 2025-06-11 |  |
-| **[Emphasising Structured Information: Integrating Abstract Meaning Representation into LLMs for Enhanced Open-Domain Dialogue Evaluation](http://arxiv.org/abs/2404.01129v4)** | 2025-06-11 |  |
-| **[Pruning Spurious Subgraphs for Graph Out-of-Distribtuion Generalization](http://arxiv.org/abs/2506.05957v3)** | 2025-06-11 | <details><summary>Submi...</summary><p>Submission of ICML2025, with score 4/4/3/3</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
