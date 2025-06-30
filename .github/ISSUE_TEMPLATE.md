@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 29, 2025
+title: Latest 15 Papers - June 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -9,19 +9,6 @@ labels: documentation
 | --- | --- | --- |
 | **[Evaluating Rare Disease Diagnostic Performance in Symptom Checkers: A Synthetic Vignette Simulation Approach](http://arxiv.org/abs/2506.19750v3)** | 2025-06-26 |  |
 | **[High Temporal Consistency through Semantic Similarity Propagation in Semi-Supervised Video Semantic Segmentation for Autonomous Flight](http://arxiv.org/abs/2503.15676v2)** | 2025-06-26 | Accepted by CVPR2025 |
-| **[Alleviating User-Sensitive bias with Fair Generative Sequential Recommendation Model](http://arxiv.org/abs/2506.19777v1)** | 2025-06-24 |  |
-| **[Recurrent Visual Feature Extraction and Stereo Attentions for CT Report Generation](http://arxiv.org/abs/2506.19665v1)** | 2025-06-24 | 7 pages, 3 figures |
-| **[Kernel Limit of Recurrent Neural Networks Trained on Ergodic Data Sequences](http://arxiv.org/abs/2308.14555v3)** | 2025-06-21 | <details><summary>Revis...</summary><p>Revision in response to reviewers' comments. The mean-field random function has been replaced by a mean-field term. Some typos fixed</p></details> |
-| **[Gaussian Process Latent Variable Modeling for Few-shot Time Series Forecasting](http://arxiv.org/abs/2212.10306v2)** | 2025-06-21 |  |
-| **[Boltzmann Classifier: A Thermodynamic-Inspired Approach to Supervised Learning](http://arxiv.org/abs/2505.06753v2)** | 2025-06-20 |  |
-| **[Assessing the impact of Binarization for Writer Identification in Greek Papyrus](http://arxiv.org/abs/2506.15852v1)** | 2025-06-18 | <details><summary>Accep...</summary><p>Accepted for publication for AIROV 2025</p></details> |
-| **[Skew-Induced Insertion Loss Deviation (SILD) and FOM_SILD: Metrics for Quantifying P/N Skew Effects in High-Speed Channels](http://arxiv.org/abs/2506.15105v1)** | 2025-06-18 |  |
-| **[DreamGen: Unlocking Generalization in Robot Learning through Video World Models](http://arxiv.org/abs/2505.12705v2)** | 2025-06-17 | <details><summary>See w...</summary><p>See website for videos: https://research.nvidia.com/labs/gear/dreamgen</p></details> |
-| **[Rademacher learning rates for iterated random functions](http://arxiv.org/abs/2506.13946v1)** | 2025-06-16 |  |
-| **[Manifold Metric: A Loss Landscape Approach for Predicting Model Performance](http://arxiv.org/abs/2405.15895v2)** | 2025-06-16 | <details><summary>Publi...</summary><p>Published at 4th Conference on Lifelong Learning Agents (CoLLAs), 2025</p></details> |
-| **[Mind the XAI Gap: A Human-Centered LLM Framework for Democratizing Explainable AI](http://arxiv.org/abs/2506.12240v1)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 3rd World Conference on eXplainable Artificial Intelligence. This version corresponds to the camera-ready manuscript submitted to the conference proceedings</p></details> |
-| **[Long-Short Alignment for Effective Long-Context Modeling in LLMs](http://arxiv.org/abs/2506.11769v1)** | 2025-06-13 | ICML 2025 |
-| **[Correlation vs causation in Alzheimer's disease: an interpretability-driven study](http://arxiv.org/abs/2506.10179v1)** | 2025-06-11 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
