@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 30, 2025
+title: Latest 15 Papers - July 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,21 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Evaluating Rare Disease Diagnostic Performance in Symptom Checkers: A Synthetic Vignette Simulation Approach](http://arxiv.org/abs/2506.19750v3)** | 2025-06-26 |  |
+| **[earEOG via Periauricular Electrodes to Facilitate Eye Tracking in a Natural Headphone Form Factor](http://arxiv.org/abs/2506.07193v2)** | 2025-06-30 | 12 pages |
+| **[Evaluating Rare Disease Diagnostic Performance in Symptom Checkers: A Synthetic Vignette Simulation Approach](http://arxiv.org/abs/2506.19750v4)** | 2025-06-29 |  |
+| **[How Semantically Informative is an Image?: Measuring the Covariance-Weighted Norm of Contrastive Learning Embeddings](http://arxiv.org/abs/2506.22881v1)** | 2025-06-28 |  |
+| **[Better Aligned with Survey Respondents or Training Data? Unveiling Political Leanings of LLMs on U.S. Supreme Court Cases](http://arxiv.org/abs/2502.18282v3)** | 2025-06-28 |  |
+| **[BandRC: Band Shifted Raised Cosine Activated Implicit Neural Representations](http://arxiv.org/abs/2505.11640v2)** | 2025-06-28 |  |
 | **[High Temporal Consistency through Semantic Similarity Propagation in Semi-Supervised Video Semantic Segmentation for Autonomous Flight](http://arxiv.org/abs/2503.15676v2)** | 2025-06-26 | Accepted by CVPR2025 |
+| **[Alleviating User-Sensitive bias with Fair Generative Sequential Recommendation Model](http://arxiv.org/abs/2506.19777v1)** | 2025-06-24 |  |
+| **[Recurrent Visual Feature Extraction and Stereo Attentions for CT Report Generation](http://arxiv.org/abs/2506.19665v1)** | 2025-06-24 | 7 pages, 3 figures |
+| **[Kernel Limit of Recurrent Neural Networks Trained on Ergodic Data Sequences](http://arxiv.org/abs/2308.14555v3)** | 2025-06-21 | <details><summary>Revis...</summary><p>Revision in response to reviewers' comments. The mean-field random function has been replaced by a mean-field term. Some typos fixed</p></details> |
+| **[Gaussian Process Latent Variable Modeling for Few-shot Time Series Forecasting](http://arxiv.org/abs/2212.10306v2)** | 2025-06-21 |  |
+| **[Boltzmann Classifier: A Thermodynamic-Inspired Approach to Supervised Learning](http://arxiv.org/abs/2505.06753v2)** | 2025-06-20 |  |
+| **[Dimensionality Reduction on IoT Monitoring Data of Smart Building for Energy Consumption Forecasting](http://arxiv.org/abs/2506.22468v1)** | 2025-06-19 | <details><summary>Versi...</summary><p>Version of submitted paper on 2023 IEEE International Smart Cities Conference (ISC2), 1-6, 2023</p></details> |
+| **[Assessing the impact of Binarization for Writer Identification in Greek Papyrus](http://arxiv.org/abs/2506.15852v1)** | 2025-06-18 | <details><summary>Accep...</summary><p>Accepted for publication for AIROV 2025</p></details> |
+| **[Skew-Induced Insertion Loss Deviation (SILD) and FOM_SILD: Metrics for Quantifying P/N Skew Effects in High-Speed Channels](http://arxiv.org/abs/2506.15105v1)** | 2025-06-18 |  |
+| **[DreamGen: Unlocking Generalization in Robot Learning through Video World Models](http://arxiv.org/abs/2505.12705v2)** | 2025-06-17 | <details><summary>See w...</summary><p>See website for videos: https://research.nvidia.com/labs/gear/dreamgen</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
