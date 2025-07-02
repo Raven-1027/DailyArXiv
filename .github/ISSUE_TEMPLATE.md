@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 01, 2025
+title: Latest 15 Papers - July 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Assessing Correctness in LLM-Based Code Generation via Uncertainty Estimation](http://arxiv.org/abs/2502.11620v3)** | 2025-07-01 | <details><summary>18 pa...</summary><p>18 pages and 3 References Pages</p></details> |
+| **[Contrastive Conditional Latent Diffusion for Audio-visual Segmentation](http://arxiv.org/abs/2307.16579v2)** | 2025-07-01 |  |
+| **[Outlier Weighed Layerwise Sparsity (OWL): A Missing Secret Sauce for Pruning LLMs to High Sparsity](http://arxiv.org/abs/2310.05175v4)** | 2025-06-30 | <details><summary>Publi...</summary><p>Published at ICML 2024</p></details> |
 | **[earEOG via Periauricular Electrodes to Facilitate Eye Tracking in a Natural Headphone Form Factor](http://arxiv.org/abs/2506.07193v2)** | 2025-06-30 | 12 pages |
 | **[Evaluating Rare Disease Diagnostic Performance in Symptom Checkers: A Synthetic Vignette Simulation Approach](http://arxiv.org/abs/2506.19750v4)** | 2025-06-29 |  |
 | **[How Semantically Informative is an Image?: Measuring the Covariance-Weighted Norm of Contrastive Learning Embeddings](http://arxiv.org/abs/2506.22881v1)** | 2025-06-28 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Gaussian Process Latent Variable Modeling for Few-shot Time Series Forecasting](http://arxiv.org/abs/2212.10306v2)** | 2025-06-21 |  |
 | **[Boltzmann Classifier: A Thermodynamic-Inspired Approach to Supervised Learning](http://arxiv.org/abs/2505.06753v2)** | 2025-06-20 |  |
 | **[Dimensionality Reduction on IoT Monitoring Data of Smart Building for Energy Consumption Forecasting](http://arxiv.org/abs/2506.22468v1)** | 2025-06-19 | <details><summary>Versi...</summary><p>Version of submitted paper on 2023 IEEE International Smart Cities Conference (ISC2), 1-6, 2023</p></details> |
-| **[Assessing the impact of Binarization for Writer Identification in Greek Papyrus](http://arxiv.org/abs/2506.15852v1)** | 2025-06-18 | <details><summary>Accep...</summary><p>Accepted for publication for AIROV 2025</p></details> |
-| **[Skew-Induced Insertion Loss Deviation (SILD) and FOM_SILD: Metrics for Quantifying P/N Skew Effects in High-Speed Channels](http://arxiv.org/abs/2506.15105v1)** | 2025-06-18 |  |
-| **[DreamGen: Unlocking Generalization in Robot Learning through Video World Models](http://arxiv.org/abs/2505.12705v2)** | 2025-06-17 | <details><summary>See w...</summary><p>See website for videos: https://research.nvidia.com/labs/gear/dreamgen</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
