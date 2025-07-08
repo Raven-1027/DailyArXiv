@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 07, 2025
+title: Latest 15 Papers - July 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Forward Variable Selection in Ultra-High Dimensional Linear Regression Using Gram-Schmidt Orthogonalization](http://arxiv.org/abs/2507.04668v1)** | 2025-07-07 |  |
 | **[From Sentences to Sequences: Rethinking Languages in Biological System](http://arxiv.org/abs/2507.00953v2)** | 2025-07-03 |  |
 | **[Robust brain age estimation from structural MRI with contrastive learning](http://arxiv.org/abs/2507.01794v1)** | 2025-07-02 | 11 pages |
 | **[Assessing Correctness in LLM-Based Code Generation via Uncertainty Estimation](http://arxiv.org/abs/2502.11620v3)** | 2025-07-01 | <details><summary>18 pa...</summary><p>18 pages and 3 References Pages</p></details> |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Alleviating User-Sensitive bias with Fair Generative Sequential Recommendation Model](http://arxiv.org/abs/2506.19777v1)** | 2025-06-24 |  |
 | **[Recurrent Visual Feature Extraction and Stereo Attentions for CT Report Generation](http://arxiv.org/abs/2506.19665v1)** | 2025-06-24 | 7 pages, 3 figures |
 | **[Kernel Limit of Recurrent Neural Networks Trained on Ergodic Data Sequences](http://arxiv.org/abs/2308.14555v3)** | 2025-06-21 | <details><summary>Revis...</summary><p>Revision in response to reviewers' comments. The mean-field random function has been replaced by a mean-field term. Some typos fixed</p></details> |
-| **[Gaussian Process Latent Variable Modeling for Few-shot Time Series Forecasting](http://arxiv.org/abs/2212.10306v2)** | 2025-06-21 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MolVision: Molecular Property Prediction with Vision Language Models](http://arxiv.org/abs/2507.03283v1)** | 2025-07-04 |  |
 | **[Aitomia: Your Intelligent Assistant for AI-Driven Atomistic and Quantum Chemical Simulations](http://arxiv.org/abs/2505.08195v2)** | 2025-07-02 |  |
 | **[ILVES: Accurate and efficient bond length and angle constraints in molecular dynamics](http://arxiv.org/abs/2503.13075v3)** | 2025-06-16 |  |
 | **[Unlocking Chemical Insights: Superior Molecular Representations from Intermediate Encoder Layers](http://arxiv.org/abs/2506.06443v1)** | 2025-06-06 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[El Agente: An Autonomous Agent for Quantum Chemistry](http://arxiv.org/abs/2505.02484v1)** | 2025-05-05 |  |
 | **[How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension](http://arxiv.org/abs/2410.05298v2)** | 2025-04-20 | <details><summary>The p...</summary><p>The paper is published in ICLR 2025</p></details> |
 | **[Embrace rejection: Kernel matrix approximation by accelerated randomly pivoted Cholesky](http://arxiv.org/abs/2410.03969v3)** | 2025-04-06 | <details><summary>32 pa...</summary><p>32 pages, 4 figures; v3 new introduction to section 4, reorganization</p></details> |
-| **[Energy-Adaptive Riemannian Conjugate Gradient Method for Density Functional Theory](http://arxiv.org/abs/2503.16225v1)** | 2025-03-20 |  |
 
