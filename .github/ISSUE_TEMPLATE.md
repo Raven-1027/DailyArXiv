@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 08, 2025
+title: Latest 15 Papers - July 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Incorporating Interventional Independence Improves Robustness against Interventional Distribution Shift](http://arxiv.org/abs/2507.05412v1)** | 2025-07-07 |  |
 | **[Forward Variable Selection in Ultra-High Dimensional Linear Regression Using Gram-Schmidt Orthogonalization](http://arxiv.org/abs/2507.04668v1)** | 2025-07-07 |  |
 | **[From Sentences to Sequences: Rethinking Languages in Biological System](http://arxiv.org/abs/2507.00953v2)** | 2025-07-03 |  |
 | **[Robust brain age estimation from structural MRI with contrastive learning](http://arxiv.org/abs/2507.01794v1)** | 2025-07-02 | 11 pages |
@@ -21,7 +22,6 @@ labels: documentation
 | **[High Temporal Consistency through Semantic Similarity Propagation in Semi-Supervised Video Semantic Segmentation for Autonomous Flight](http://arxiv.org/abs/2503.15676v2)** | 2025-06-26 | Accepted by CVPR2025 |
 | **[Alleviating User-Sensitive bias with Fair Generative Sequential Recommendation Model](http://arxiv.org/abs/2506.19777v1)** | 2025-06-24 |  |
 | **[Recurrent Visual Feature Extraction and Stereo Attentions for CT Report Generation](http://arxiv.org/abs/2506.19665v1)** | 2025-06-24 | 7 pages, 3 figures |
-| **[Kernel Limit of Recurrent Neural Networks Trained on Ergodic Data Sequences](http://arxiv.org/abs/2308.14555v3)** | 2025-06-21 | <details><summary>Revis...</summary><p>Revision in response to reviewers' comments. The mean-field random function has been replaced by a mean-field term. Some typos fixed</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
