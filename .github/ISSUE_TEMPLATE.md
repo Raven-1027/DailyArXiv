@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 10, 2025
+title: Latest 15 Papers - July 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Impact of Pretraining Word Co-occurrence on Compositional Generalization in Multimodal Models](http://arxiv.org/abs/2507.08000v1)** | 2025-07-10 |  |
+| **[Direct-to-Cell: A First Look into Starlink's Direct Satellite-to-Device Radio Access Network through Crowdsourced Measurements](http://arxiv.org/abs/2506.00283v4)** | 2025-07-09 | <details><summary>7 pag...</summary><p>7 pages, 6 figures. Several corrections</p></details> |
 | **[Incorporating Interventional Independence Improves Robustness against Interventional Distribution Shift](http://arxiv.org/abs/2507.05412v1)** | 2025-07-07 |  |
 | **[Forward Variable Selection in Ultra-High Dimensional Linear Regression Using Gram-Schmidt Orthogonalization](http://arxiv.org/abs/2507.04668v1)** | 2025-07-07 |  |
 | **[From Sentences to Sequences: Rethinking Languages in Biological System](http://arxiv.org/abs/2507.00953v2)** | 2025-07-03 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Better Aligned with Survey Respondents or Training Data? Unveiling Political Leanings of LLMs on U.S. Supreme Court Cases](http://arxiv.org/abs/2502.18282v3)** | 2025-06-28 |  |
 | **[BandRC: Band Shifted Raised Cosine Activated Implicit Neural Representations](http://arxiv.org/abs/2505.11640v2)** | 2025-06-28 |  |
 | **[High Temporal Consistency through Semantic Similarity Propagation in Semi-Supervised Video Semantic Segmentation for Autonomous Flight](http://arxiv.org/abs/2503.15676v2)** | 2025-06-26 | Accepted by CVPR2025 |
-| **[Alleviating User-Sensitive bias with Fair Generative Sequential Recommendation Model](http://arxiv.org/abs/2506.19777v1)** | 2025-06-24 |  |
-| **[Recurrent Visual Feature Extraction and Stereo Attentions for CT Report Generation](http://arxiv.org/abs/2506.19665v1)** | 2025-06-24 | 7 pages, 3 figures |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
