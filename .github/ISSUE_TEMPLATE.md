@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 21, 2025
+title: Latest 15 Papers - July 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Forecasting Faculty Placement from Patterns in Co-authorship Networks](http://arxiv.org/abs/2507.14696v1)** | 2025-07-19 |  |
+| **[VMask: Tunable Label Privacy Protection for Vertical Federated Learning via Layer Masking](http://arxiv.org/abs/2507.14629v1)** | 2025-07-19 |  |
+| **[Draft-based Approximate Inference for LLMs](http://arxiv.org/abs/2506.08373v2)** | 2025-07-19 | <details><summary>Added...</summary><p>Added discussion and comparison with SpecPrefill</p></details> |
+| **[Hallucination Score: Towards Mitigating Hallucinations in Generative Image Super-Resolution](http://arxiv.org/abs/2507.14367v1)** | 2025-07-18 | <details><summary>12 pa...</summary><p>12 pages, 17 figures and 7 tables</p></details> |
 | **[Generalist Forecasting with Frozen Video Models via Latent Diffusion](http://arxiv.org/abs/2507.13942v1)** | 2025-07-18 |  |
 | **[CorMulT: A Semi-supervised Modality Correlation-aware Multimodal Transformer for Sentiment Analysis](http://arxiv.org/abs/2407.07046v3)** | 2025-07-18 |  |
 | **[Time Series Forecastability Measures](http://arxiv.org/abs/2507.13556v1)** | 2025-07-17 |  |
@@ -18,10 +22,6 @@ labels: documentation
 | **[Using AI to replicate human experimental results: a motion study](http://arxiv.org/abs/2507.10342v1)** | 2025-07-14 |  |
 | **[Direct-to-Cell: A First Look into Starlink's Direct Satellite-to-Device Radio Access Network through Crowdsourced Measurements](http://arxiv.org/abs/2506.00283v5)** | 2025-07-13 | <details><summary>7 pag...</summary><p>7 pages, 6 figures. Minor correction</p></details> |
 | **[Remote Sensing Reveals Adoption of Sustainable Rice Farming Practices Across Punjab, India](http://arxiv.org/abs/2507.08605v1)** | 2025-07-11 | <details><summary>Datas...</summary><p>Dataset and code will be published shortly and links updated in v2</p></details> |
-| **[AthletePose3D: A Benchmark Dataset for 3D Human Pose Estimation and Kinematic Validation in Athletic Movements](http://arxiv.org/abs/2503.07499v3)** | 2025-07-11 | <details><summary>Errat...</summary><p>Erratum: A preprocessing mistake occurred in one camera angle of the running motions. This has been corrected, the experiment re-run, and the results updated accordingly. Please note that the conclusions of the experiment and the overall paper remain unchanged</p></details> |
-| **[Impact of Pretraining Word Co-occurrence on Compositional Generalization in Multimodal Models](http://arxiv.org/abs/2507.08000v1)** | 2025-07-10 |  |
-| **[Forward Variable Selection in Ultra-High Dimensional Linear Regression Using Gram-Schmidt Orthogonalization](http://arxiv.org/abs/2507.04668v1)** | 2025-07-07 |  |
-| **[From Sentences to Sequences: Rethinking Languages in Biological System](http://arxiv.org/abs/2507.00953v2)** | 2025-07-03 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
