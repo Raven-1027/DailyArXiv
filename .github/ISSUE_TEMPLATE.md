@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 27, 2025
+title: Latest 15 Papers - July 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Assessing the Reliability and Validity of a Balance Mat for Measuring Postural Stability: A Combined Robot-Human Approach](http://arxiv.org/abs/2507.18943v1)** | 2025-07-25 |  |
 | **[Weather-Aware AI Systems versus Route-Optimization AI: A Comprehensive Analysis of AI Applications in Transportation Productivity](http://arxiv.org/abs/2507.17099v1)** | 2025-07-23 | 41 pages, 5 figures |
 | **[Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots](http://arxiv.org/abs/2507.17049v1)** | 2025-07-22 |  |
 | **[Forecasting Faculty Placement from Patterns in Co-authorship Networks](http://arxiv.org/abs/2507.14696v1)** | 2025-07-19 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Estimating transformative agreement impact on hybrid open access: A comparative large-scale study using Scopus, Web of Science and open metadata](http://arxiv.org/abs/2504.15038v2)** | 2025-07-15 | 28 pages, 6 figures |
 | **[Incorporating Interventional Independence Improves Robustness against Interventional Distribution Shift](http://arxiv.org/abs/2507.05412v2)** | 2025-07-14 |  |
 | **[Skew-Induced Insertion Loss Deviation (SILD) and FOM_SILD: Metrics for Quantifying P/N Skew Effects in High-Speed Channels](http://arxiv.org/abs/2506.15105v2)** | 2025-07-14 |  |
-| **[Using AI to replicate human experimental results: a motion study](http://arxiv.org/abs/2507.10342v1)** | 2025-07-14 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
