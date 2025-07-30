@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 29, 2025
+title: Latest 15 Papers - July 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[IRASim: A Fine-Grained World Model for Robot Manipulation](http://arxiv.org/abs/2406.14540v2)** | 2025-07-29 | <details><summary>Opens...</summary><p>Opensource, project website: https://gen-irasim.github.io</p></details> |
+| **[Relationship between objective and subjective perceptual measures of speech in individuals with head and neck cancer](http://arxiv.org/abs/2507.21426v1)** | 2025-07-29 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 1 table. Accepted at Interspeech 2025</p></details> |
 | **[Self-Supervised Continuous Colormap Recovery from a 2D Scalar Field Visualization without a Legend](http://arxiv.org/abs/2507.20632v1)** | 2025-07-28 | <details><summary>Submi...</summary><p>Submitted to IEEE VIS 2025</p></details> |
 | **[Communication-Efficient Distributed Training for Collaborative Flat Optima Recovery in Deep Learning](http://arxiv.org/abs/2507.20424v1)** | 2025-07-27 | <details><summary>9 pag...</summary><p>9 pages main body, 32 pages of supplementary material for detailed derivations and more experiment results</p></details> |
 | **[NeuroCLIP: A Multimodal Contrastive Learning Method for rTMS-treated Methamphetamine Addiction Analysis](http://arxiv.org/abs/2507.20189v1)** | 2025-07-27 |  |
 | **[Assessing the Reliability and Validity of a Balance Mat for Measuring Postural Stability: A Combined Robot-Human Approach](http://arxiv.org/abs/2507.18943v1)** | 2025-07-25 |  |
 | **[Origin-Destination Extraction from Large-Scale Route Search Records for Tourism Trend Analysis](http://arxiv.org/abs/2507.19544v1)** | 2025-07-24 |  |
 | **[Weather-Aware AI Systems versus Route-Optimization AI: A Comprehensive Analysis of AI Applications in Transportation Productivity](http://arxiv.org/abs/2507.17099v1)** | 2025-07-23 | 41 pages, 5 figures |
+| **[Project Patti: Why can You Solve Diabolical Puzzles on one Sudoku Website but not Easy Puzzles on another Sudoku Website?](http://arxiv.org/abs/2507.21137v1)** | 2025-07-22 | 24 pages, 8 Figures |
 | **[Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots](http://arxiv.org/abs/2507.17049v1)** | 2025-07-22 |  |
+| **[INTEGRALBENCH: Benchmarking LLMs with Definite Integral Problems](http://arxiv.org/abs/2507.21130v1)** | 2025-07-22 | 19 pages, 5 figures |
 | **[Forecasting Faculty Placement from Patterns in Co-authorship Networks](http://arxiv.org/abs/2507.14696v1)** | 2025-07-19 |  |
 | **[VMask: Tunable Label Privacy Protection for Vertical Federated Learning via Layer Masking](http://arxiv.org/abs/2507.14629v1)** | 2025-07-19 |  |
 | **[Draft-based Approximate Inference for LLMs](http://arxiv.org/abs/2506.08373v2)** | 2025-07-19 | <details><summary>Added...</summary><p>Added discussion and comparison with SpecPrefill</p></details> |
 | **[Hallucination Score: Towards Mitigating Hallucinations in Generative Image Super-Resolution](http://arxiv.org/abs/2507.14367v1)** | 2025-07-18 | <details><summary>12 pa...</summary><p>12 pages, 17 figures and 7 tables</p></details> |
-| **[Generalist Forecasting with Frozen Video Models via Latent Diffusion](http://arxiv.org/abs/2507.13942v1)** | 2025-07-18 |  |
-| **[CorMulT: A Semi-supervised Modality Correlation-aware Multimodal Transformer for Sentiment Analysis](http://arxiv.org/abs/2407.07046v3)** | 2025-07-18 |  |
-| **[Time Series Forecastability Measures](http://arxiv.org/abs/2507.13556v1)** | 2025-07-17 |  |
-| **[Multi-Agent Synergy-Driven Iterative Visual Narrative Synthesis](http://arxiv.org/abs/2507.13285v1)** | 2025-07-17 | <details><summary>22 pa...</summary><p>22 pages, 7 figures, 3 tables. Submitted to an ACL-style conference</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
