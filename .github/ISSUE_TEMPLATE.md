@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 31, 2025
+title: Latest 15 Papers - August 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Simulation-based inference for Precision Neutrino Physics through Neural Monte Carlo tuning](http://arxiv.org/abs/2507.23297v1)** | 2025-07-31 |  |
+| **[Evaluating and Improving the Robustness of Speech Command Recognition Models to Noise and Distribution Shifts](http://arxiv.org/abs/2507.23128v1)** | 2025-07-30 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[IRASim: A Fine-Grained World Model for Robot Manipulation](http://arxiv.org/abs/2406.14540v2)** | 2025-07-29 | <details><summary>Opens...</summary><p>Opensource, project website: https://gen-irasim.github.io</p></details> |
 | **[Relationship between objective and subjective perceptual measures of speech in individuals with head and neck cancer](http://arxiv.org/abs/2507.21426v1)** | 2025-07-29 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 1 table. Accepted at Interspeech 2025</p></details> |
 | **[Self-Supervised Continuous Colormap Recovery from a 2D Scalar Field Visualization without a Legend](http://arxiv.org/abs/2507.20632v1)** | 2025-07-28 | <details><summary>Submi...</summary><p>Submitted to IEEE VIS 2025</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[INTEGRALBENCH: Benchmarking LLMs with Definite Integral Problems](http://arxiv.org/abs/2507.21130v1)** | 2025-07-22 | 19 pages, 5 figures |
 | **[Forecasting Faculty Placement from Patterns in Co-authorship Networks](http://arxiv.org/abs/2507.14696v1)** | 2025-07-19 |  |
 | **[VMask: Tunable Label Privacy Protection for Vertical Federated Learning via Layer Masking](http://arxiv.org/abs/2507.14629v1)** | 2025-07-19 |  |
-| **[Draft-based Approximate Inference for LLMs](http://arxiv.org/abs/2506.08373v2)** | 2025-07-19 | <details><summary>Added...</summary><p>Added discussion and comparison with SpecPrefill</p></details> |
-| **[Hallucination Score: Towards Mitigating Hallucinations in Generative Image Super-Resolution](http://arxiv.org/abs/2507.14367v1)** | 2025-07-18 | <details><summary>12 pa...</summary><p>12 pages, 17 figures and 7 tables</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
