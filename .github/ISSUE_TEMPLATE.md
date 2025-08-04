@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 03, 2025
+title: Latest 15 Papers - August 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Contact Sensors to Remote Cameras: Quantifying Cardiorespiratory Coupling in High-Altitude Exercise Recovery](http://arxiv.org/abs/2508.00773v1)** | 2025-08-01 | UbiComp 25 |
+| **[MIHBench: Benchmarking and Mitigating Multi-Image Hallucinations in Multimodal Large Language Models](http://arxiv.org/abs/2508.00726v1)** | 2025-08-01 | <details><summary>ACM M...</summary><p>ACM MM25 has accepted this paper</p></details> |
+| **[Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots](http://arxiv.org/abs/2507.17049v2)** | 2025-07-31 |  |
 | **[Simulation-based inference for Precision Neutrino Physics through Neural Monte Carlo tuning](http://arxiv.org/abs/2507.23297v1)** | 2025-07-31 |  |
 | **[Evaluating and Improving the Robustness of Speech Command Recognition Models to Noise and Distribution Shifts](http://arxiv.org/abs/2507.23128v1)** | 2025-07-30 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 | **[IRASim: A Fine-Grained World Model for Robot Manipulation](http://arxiv.org/abs/2406.14540v2)** | 2025-07-29 | <details><summary>Opens...</summary><p>Opensource, project website: https://gen-irasim.github.io</p></details> |
@@ -18,10 +21,7 @@ labels: documentation
 | **[Origin-Destination Extraction from Large-Scale Route Search Records for Tourism Trend Analysis](http://arxiv.org/abs/2507.19544v1)** | 2025-07-24 |  |
 | **[Weather-Aware AI Systems versus Route-Optimization AI: A Comprehensive Analysis of AI Applications in Transportation Productivity](http://arxiv.org/abs/2507.17099v1)** | 2025-07-23 | 41 pages, 5 figures |
 | **[Project Patti: Why can You Solve Diabolical Puzzles on one Sudoku Website but not Easy Puzzles on another Sudoku Website?](http://arxiv.org/abs/2507.21137v1)** | 2025-07-22 | 24 pages, 8 Figures |
-| **[Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots](http://arxiv.org/abs/2507.17049v1)** | 2025-07-22 |  |
 | **[INTEGRALBENCH: Benchmarking LLMs with Definite Integral Problems](http://arxiv.org/abs/2507.21130v1)** | 2025-07-22 | 19 pages, 5 figures |
-| **[Forecasting Faculty Placement from Patterns in Co-authorship Networks](http://arxiv.org/abs/2507.14696v1)** | 2025-07-19 |  |
-| **[VMask: Tunable Label Privacy Protection for Vertical Federated Learning via Layer Masking](http://arxiv.org/abs/2507.14629v1)** | 2025-07-19 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
