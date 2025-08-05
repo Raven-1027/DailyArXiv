@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 04, 2025
+title: Latest 15 Papers - August 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Accelerating LLM Reasoning via Early Rejection with Partial Reward Modeling](http://arxiv.org/abs/2508.01969v1)** | 2025-08-04 |  |
 | **[Contact Sensors to Remote Cameras: Quantifying Cardiorespiratory Coupling in High-Altitude Exercise Recovery](http://arxiv.org/abs/2508.00773v1)** | 2025-08-01 | UbiComp 25 |
 | **[MIHBench: Benchmarking and Mitigating Multi-Image Hallucinations in Multimodal Large Language Models](http://arxiv.org/abs/2508.00726v1)** | 2025-08-01 | <details><summary>ACM M...</summary><p>ACM MM25 has accepted this paper</p></details> |
 | **[Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots](http://arxiv.org/abs/2507.17049v2)** | 2025-07-31 |  |
@@ -15,17 +16,17 @@ labels: documentation
 | **[IRASim: A Fine-Grained World Model for Robot Manipulation](http://arxiv.org/abs/2406.14540v2)** | 2025-07-29 | <details><summary>Opens...</summary><p>Opensource, project website: https://gen-irasim.github.io</p></details> |
 | **[Relationship between objective and subjective perceptual measures of speech in individuals with head and neck cancer](http://arxiv.org/abs/2507.21426v1)** | 2025-07-29 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 1 table. Accepted at Interspeech 2025</p></details> |
 | **[Self-Supervised Continuous Colormap Recovery from a 2D Scalar Field Visualization without a Legend](http://arxiv.org/abs/2507.20632v1)** | 2025-07-28 | <details><summary>Submi...</summary><p>Submitted to IEEE VIS 2025</p></details> |
+| **[Maximize margins for robust splicing detection](http://arxiv.org/abs/2508.00897v1)** | 2025-07-28 | <details><summary>in Fr...</summary><p>in French language. GRETSI 2025 - Colloque Francophone de Traitement du Signal et des Images, https://gretsi.fr/colloque2025/, Aug 2025, Strasbourg, France</p></details> |
 | **[Communication-Efficient Distributed Training for Collaborative Flat Optima Recovery in Deep Learning](http://arxiv.org/abs/2507.20424v1)** | 2025-07-27 | <details><summary>9 pag...</summary><p>9 pages main body, 32 pages of supplementary material for detailed derivations and more experiment results</p></details> |
 | **[NeuroCLIP: A Multimodal Contrastive Learning Method for rTMS-treated Methamphetamine Addiction Analysis](http://arxiv.org/abs/2507.20189v1)** | 2025-07-27 |  |
 | **[Assessing the Reliability and Validity of a Balance Mat for Measuring Postural Stability: A Combined Robot-Human Approach](http://arxiv.org/abs/2507.18943v1)** | 2025-07-25 |  |
 | **[Origin-Destination Extraction from Large-Scale Route Search Records for Tourism Trend Analysis](http://arxiv.org/abs/2507.19544v1)** | 2025-07-24 |  |
 | **[Weather-Aware AI Systems versus Route-Optimization AI: A Comprehensive Analysis of AI Applications in Transportation Productivity](http://arxiv.org/abs/2507.17099v1)** | 2025-07-23 | 41 pages, 5 figures |
-| **[Project Patti: Why can You Solve Diabolical Puzzles on one Sudoku Website but not Easy Puzzles on another Sudoku Website?](http://arxiv.org/abs/2507.21137v1)** | 2025-07-22 | 24 pages, 8 Figures |
-| **[INTEGRALBENCH: Benchmarking LLMs with Definite Integral Problems](http://arxiv.org/abs/2507.21130v1)** | 2025-07-22 | 19 pages, 5 figures |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[QCBench: Evaluating Large Language Models on Domain-Specific Quantitative Chemistry](http://arxiv.org/abs/2508.01670v1)** | 2025-08-03 | 13 pages, 8 figures |
 | **[The dark side of the forces: assessing non-conservative force models for atomistic machine learning](http://arxiv.org/abs/2412.11569v5)** | 2025-07-26 | <details><summary>10 pa...</summary><p>10 pages (including references) + appendix Conference format</p></details> |
 | **[Bayesian Hierarchical Models for Quantitative Estimates for Performance metrics applied to Saddle Search Algorithms](http://arxiv.org/abs/2505.13621v3)** | 2025-07-22 | <details><summary>37 pa...</summary><p>37 pages, 30 figures, 7 tables</p></details> |
 | **[Aitomia: Your Intelligent Assistant for AI-Driven Atomistic and Quantum Chemical Simulations](http://arxiv.org/abs/2505.08195v3)** | 2025-07-22 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[The velocity jump Langevin process and its splitting scheme: long time convergence and numerical accuracy](http://arxiv.org/abs/2410.08846v2)** | 2025-05-24 |  |
 | **[Efficient and Scalable Density Functional Theory Hamiltonian Prediction through Adaptive Sparsity](http://arxiv.org/abs/2502.01171v2)** | 2025-05-22 |  |
 | **[Physics-Informed Weakly Supervised Learning for Interatomic Potentials](http://arxiv.org/abs/2408.05215v2)** | 2025-05-05 | <details><summary>29 pa...</summary><p>29 pages, 4 figures, 31 Tables. Accepted for publication in ICML2025</p></details> |
-| **[El Agente: An Autonomous Agent for Quantum Chemistry](http://arxiv.org/abs/2505.02484v1)** | 2025-05-05 |  |
 
