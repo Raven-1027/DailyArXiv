@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 07, 2025
+title: Latest 15 Papers - August 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Skew-Induced Insertion Loss Deviation (SILD) and FOM_SILD: Metrics for Quantifying P/N Skew Effects in High-Speed Channels](http://arxiv.org/abs/2506.15105v3)** | 2025-08-07 |  |
 | **[A Causal Framework for Aligning Image Quality Metrics and Deep Neural Network Robustness](http://arxiv.org/abs/2503.02797v2)** | 2025-08-05 |  |
 | **[Accelerating LLM Reasoning via Early Rejection with Partial Reward Modeling](http://arxiv.org/abs/2508.01969v1)** | 2025-08-04 |  |
 | **[Contact Sensors to Remote Cameras: Quantifying Cardiorespiratory Coupling in High-Altitude Exercise Recovery](http://arxiv.org/abs/2508.00773v1)** | 2025-08-01 | UbiComp 25 |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Communication-Efficient Distributed Training for Collaborative Flat Optima Recovery in Deep Learning](http://arxiv.org/abs/2507.20424v1)** | 2025-07-27 | <details><summary>9 pag...</summary><p>9 pages main body, 32 pages of supplementary material for detailed derivations and more experiment results</p></details> |
 | **[NeuroCLIP: A Multimodal Contrastive Learning Method for rTMS-treated Methamphetamine Addiction Analysis](http://arxiv.org/abs/2507.20189v1)** | 2025-07-27 |  |
 | **[Assessing the Reliability and Validity of a Balance Mat for Measuring Postural Stability: A Combined Robot-Human Approach](http://arxiv.org/abs/2507.18943v1)** | 2025-07-25 |  |
-| **[Origin-Destination Extraction from Large-Scale Route Search Records for Tourism Trend Analysis](http://arxiv.org/abs/2507.19544v1)** | 2025-07-24 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MolSnap: Snap-Fast Molecular Generation with Latent Variational Mean Flow](http://arxiv.org/abs/2508.05411v1)** | 2025-08-07 |  |
 | **[QCBench: Evaluating Large Language Models on Domain-Specific Quantitative Chemistry](http://arxiv.org/abs/2508.01670v1)** | 2025-08-03 | 13 pages, 8 figures |
 | **[The dark side of the forces: assessing non-conservative force models for atomistic machine learning](http://arxiv.org/abs/2412.11569v5)** | 2025-07-26 | <details><summary>10 pa...</summary><p>10 pages (including references) + appendix Conference format</p></details> |
 | **[Bayesian Hierarchical Models for Quantitative Estimates for Performance metrics applied to Saddle Search Algorithms](http://arxiv.org/abs/2505.13621v3)** | 2025-07-22 | <details><summary>37 pa...</summary><p>37 pages, 30 figures, 7 tables</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching](http://arxiv.org/abs/2504.11713v3)** | 2025-05-28 |  |
 | **[The velocity jump Langevin process and its splitting scheme: long time convergence and numerical accuracy](http://arxiv.org/abs/2410.08846v2)** | 2025-05-24 |  |
 | **[Efficient and Scalable Density Functional Theory Hamiltonian Prediction through Adaptive Sparsity](http://arxiv.org/abs/2502.01171v2)** | 2025-05-22 |  |
-| **[Physics-Informed Weakly Supervised Learning for Interatomic Potentials](http://arxiv.org/abs/2408.05215v2)** | 2025-05-05 | <details><summary>29 pa...</summary><p>29 pages, 4 figures, 31 Tables. Accepted for publication in ICML2025</p></details> |
 
