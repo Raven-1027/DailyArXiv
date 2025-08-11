@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 10, 2025
+title: Latest 15 Papers - August 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Decorrelated feature importance from local sample weighting](http://arxiv.org/abs/2508.06337v1)** | 2025-08-08 |  |
 | **[Skew-Induced Insertion Loss Deviation (SILD) and FOM_SILD: Metrics for Quantifying P/N Skew Effects in High-Speed Channels](http://arxiv.org/abs/2506.15105v3)** | 2025-08-07 |  |
 | **[A Causal Framework for Aligning Image Quality Metrics and Deep Neural Network Robustness](http://arxiv.org/abs/2503.02797v2)** | 2025-08-05 |  |
 | **[Accelerating LLM Reasoning via Early Rejection with Partial Reward Modeling](http://arxiv.org/abs/2508.01969v1)** | 2025-08-04 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Maximize margins for robust splicing detection](http://arxiv.org/abs/2508.00897v1)** | 2025-07-28 | <details><summary>in Fr...</summary><p>in French language. GRETSI 2025 - Colloque Francophone de Traitement du Signal et des Images, https://gretsi.fr/colloque2025/, Aug 2025, Strasbourg, France</p></details> |
 | **[Communication-Efficient Distributed Training for Collaborative Flat Optima Recovery in Deep Learning](http://arxiv.org/abs/2507.20424v1)** | 2025-07-27 | <details><summary>9 pag...</summary><p>9 pages main body, 32 pages of supplementary material for detailed derivations and more experiment results</p></details> |
 | **[NeuroCLIP: A Multimodal Contrastive Learning Method for rTMS-treated Methamphetamine Addiction Analysis](http://arxiv.org/abs/2507.20189v1)** | 2025-07-27 |  |
-| **[Assessing the Reliability and Validity of a Balance Mat for Measuring Postural Stability: A Combined Robot-Human Approach](http://arxiv.org/abs/2507.18943v1)** | 2025-07-25 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
