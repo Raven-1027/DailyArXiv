@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 11, 2025
+title: Latest 15 Papers - August 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Expert Preference-based Evaluation of Automated Related Work Generation](http://arxiv.org/abs/2508.07955v1)** | 2025-08-11 | <details><summary>Proje...</summary><p>Project page: https://ukplab.github.io/arxiv2025-expert-eval-rw/</p></details> |
+| **[Generative AI for Strategic Plan Development](http://arxiv.org/abs/2508.07405v1)** | 2025-08-10 | 11 pages, 9 figures |
 | **[Decorrelated feature importance from local sample weighting](http://arxiv.org/abs/2508.06337v1)** | 2025-08-08 |  |
 | **[Skew-Induced Insertion Loss Deviation (SILD) and FOM_SILD: Metrics for Quantifying P/N Skew Effects in High-Speed Channels](http://arxiv.org/abs/2506.15105v3)** | 2025-08-07 |  |
 | **[A Causal Framework for Aligning Image Quality Metrics and Deep Neural Network Robustness](http://arxiv.org/abs/2503.02797v2)** | 2025-08-05 |  |
@@ -20,12 +22,12 @@ labels: documentation
 | **[Relationship between objective and subjective perceptual measures of speech in individuals with head and neck cancer](http://arxiv.org/abs/2507.21426v1)** | 2025-07-29 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 1 table. Accepted at Interspeech 2025</p></details> |
 | **[Self-Supervised Continuous Colormap Recovery from a 2D Scalar Field Visualization without a Legend](http://arxiv.org/abs/2507.20632v1)** | 2025-07-28 | <details><summary>Submi...</summary><p>Submitted to IEEE VIS 2025</p></details> |
 | **[Maximize margins for robust splicing detection](http://arxiv.org/abs/2508.00897v1)** | 2025-07-28 | <details><summary>in Fr...</summary><p>in French language. GRETSI 2025 - Colloque Francophone de Traitement du Signal et des Images, https://gretsi.fr/colloque2025/, Aug 2025, Strasbourg, France</p></details> |
-| **[Communication-Efficient Distributed Training for Collaborative Flat Optima Recovery in Deep Learning](http://arxiv.org/abs/2507.20424v1)** | 2025-07-27 | <details><summary>9 pag...</summary><p>9 pages main body, 32 pages of supplementary material for detailed derivations and more experiment results</p></details> |
-| **[NeuroCLIP: A Multimodal Contrastive Learning Method for rTMS-treated Methamphetamine Addiction Analysis](http://arxiv.org/abs/2507.20189v1)** | 2025-07-27 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Combinatorial Parameterized Algorithms for Chemical Descriptors based on Molecular Graph Sparsity](http://arxiv.org/abs/2303.13279v2)** | 2025-08-11 |  |
+| **[El Agente: An Autonomous Agent for Quantum Chemistry](http://arxiv.org/abs/2505.02484v2)** | 2025-08-08 |  |
 | **[MolSnap: Snap-Fast Molecular Generation with Latent Variational Mean Flow](http://arxiv.org/abs/2508.05411v1)** | 2025-08-07 |  |
 | **[QCBench: Evaluating Large Language Models on Domain-Specific Quantitative Chemistry](http://arxiv.org/abs/2508.01670v1)** | 2025-08-03 | 13 pages, 8 figures |
 | **[The dark side of the forces: assessing non-conservative force models for atomistic machine learning](http://arxiv.org/abs/2412.11569v5)** | 2025-07-26 | <details><summary>10 pa...</summary><p>10 pages (including references) + appendix Conference format</p></details> |
@@ -39,6 +41,4 @@ labels: documentation
 | **[MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures](http://arxiv.org/abs/2506.04195v1)** | 2025-06-04 |  |
 | **[ChemGraph: An Agentic Framework for Computational Chemistry Workflows](http://arxiv.org/abs/2506.06363v1)** | 2025-06-03 |  |
 | **[Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching](http://arxiv.org/abs/2504.11713v3)** | 2025-05-28 |  |
-| **[The velocity jump Langevin process and its splitting scheme: long time convergence and numerical accuracy](http://arxiv.org/abs/2410.08846v2)** | 2025-05-24 |  |
-| **[Efficient and Scalable Density Functional Theory Hamiltonian Prediction through Adaptive Sparsity](http://arxiv.org/abs/2502.01171v2)** | 2025-05-22 |  |
 
