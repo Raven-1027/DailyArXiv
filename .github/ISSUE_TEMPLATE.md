@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 14, 2025
+title: Latest 15 Papers - August 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Processing and acquisition traces in visual encoders: What does CLIP know about your camera?](http://arxiv.org/abs/2508.10637v1)** | 2025-08-14 | <details><summary>8 mai...</summary><p>8 main pages, supplementary attached, ICCV 2025 highlight</p></details> |
+| **[Prompt Attacks Reveal Superficial Knowledge Removal in Unlearning Methods](http://arxiv.org/abs/2506.10236v2)** | 2025-08-14 | <details><summary>19 pa...</summary><p>19 pages, 6 figures. Accepted at COLM 2025 SoLaR Workshop</p></details> |
+| **[Fleurs-SLU: A Massively Multilingual Benchmark for Spoken Language Understanding](http://arxiv.org/abs/2501.06117v3)** | 2025-08-13 |  |
 | **[CrossWordBench: Evaluating the Reasoning Capabilities of LLMs and LVLMs with Controllable Puzzle Generation](http://arxiv.org/abs/2504.00043v2)** | 2025-08-11 |  |
 | **[Expert Preference-based Evaluation of Automated Related Work Generation](http://arxiv.org/abs/2508.07955v1)** | 2025-08-11 | <details><summary>Proje...</summary><p>Project page: https://ukplab.github.io/arxiv2025-expert-eval-rw/</p></details> |
 | **[Generative AI for Strategic Plan Development](http://arxiv.org/abs/2508.07405v1)** | 2025-08-10 | 11 pages, 9 figures |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots](http://arxiv.org/abs/2507.17049v2)** | 2025-07-31 |  |
 | **[Simulation-based inference for Precision Neutrino Physics through Neural Monte Carlo tuning](http://arxiv.org/abs/2507.23297v1)** | 2025-07-31 |  |
 | **[Evaluating and Improving the Robustness of Speech Command Recognition Models to Noise and Distribution Shifts](http://arxiv.org/abs/2507.23128v1)** | 2025-07-30 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
-| **[IRASim: A Fine-Grained World Model for Robot Manipulation](http://arxiv.org/abs/2406.14540v2)** | 2025-07-29 | <details><summary>Opens...</summary><p>Opensource, project website: https://gen-irasim.github.io</p></details> |
-| **[Relationship between objective and subjective perceptual measures of speech in individuals with head and neck cancer](http://arxiv.org/abs/2507.21426v1)** | 2025-07-29 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 1 table. Accepted at Interspeech 2025</p></details> |
-| **[Self-Supervised Continuous Colormap Recovery from a 2D Scalar Field Visualization without a Legend](http://arxiv.org/abs/2507.20632v1)** | 2025-07-28 | <details><summary>Submi...</summary><p>Submitted to IEEE VIS 2025</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
@@ -40,5 +40,4 @@ labels: documentation
 | **[Unlocking Chemical Insights: Superior Molecular Representations from Intermediate Encoder Layers](http://arxiv.org/abs/2506.06443v1)** | 2025-06-06 |  |
 | **[MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures](http://arxiv.org/abs/2506.04195v1)** | 2025-06-04 |  |
 | **[ChemGraph: An Agentic Framework for Computational Chemistry Workflows](http://arxiv.org/abs/2506.06363v1)** | 2025-06-03 |  |
-| **[Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching](http://arxiv.org/abs/2504.11713v3)** | 2025-05-28 |  |
 
