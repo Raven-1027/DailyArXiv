@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 15, 2025
+title: Latest 15 Papers - August 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -40,4 +40,5 @@ labels: documentation
 | **[Unlocking Chemical Insights: Superior Molecular Representations from Intermediate Encoder Layers](http://arxiv.org/abs/2506.06443v1)** | 2025-06-06 |  |
 | **[MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures](http://arxiv.org/abs/2506.04195v1)** | 2025-06-04 |  |
 | **[ChemGraph: An Agentic Framework for Computational Chemistry Workflows](http://arxiv.org/abs/2506.06363v1)** | 2025-06-03 |  |
+| **[Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching](http://arxiv.org/abs/2504.11713v3)** | 2025-05-28 |  |
 
