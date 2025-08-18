@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 17, 2025
+title: Latest 15 Papers - August 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Feedback Indicators: The Alignment between Llama and a Teacher in Language Learning](http://arxiv.org/abs/2508.11364v1)** | 2025-08-15 | 11 pages, one table |
 | **[Processing and acquisition traces in visual encoders: What does CLIP know about your camera?](http://arxiv.org/abs/2508.10637v1)** | 2025-08-14 | <details><summary>8 mai...</summary><p>8 main pages, supplementary attached, ICCV 2025 highlight</p></details> |
 | **[Prompt Attacks Reveal Superficial Knowledge Removal in Unlearning Methods](http://arxiv.org/abs/2506.10236v2)** | 2025-08-14 | <details><summary>19 pa...</summary><p>19 pages, 6 figures. Accepted at COLM 2025 SoLaR Workshop</p></details> |
 | **[Fleurs-SLU: A Massively Multilingual Benchmark for Spoken Language Understanding](http://arxiv.org/abs/2501.06117v3)** | 2025-08-13 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[MIHBench: Benchmarking and Mitigating Multi-Image Hallucinations in Multimodal Large Language Models](http://arxiv.org/abs/2508.00726v1)** | 2025-08-01 | <details><summary>ACM M...</summary><p>ACM MM25 has accepted this paper</p></details> |
 | **[Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots](http://arxiv.org/abs/2507.17049v2)** | 2025-07-31 |  |
 | **[Simulation-based inference for Precision Neutrino Physics through Neural Monte Carlo tuning](http://arxiv.org/abs/2507.23297v1)** | 2025-07-31 |  |
-| **[Evaluating and Improving the Robustness of Speech Command Recognition Models to Noise and Distribution Shifts](http://arxiv.org/abs/2507.23128v1)** | 2025-07-30 | <details><summary>Submi...</summary><p>Submitted to ICASSP 2026</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
