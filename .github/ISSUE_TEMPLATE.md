@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 18, 2025
+title: Latest 15 Papers - August 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fast Geometric Embedding for Node Influence Maximization](http://arxiv.org/abs/2506.07435v2)** | 2025-08-18 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 18 tables; Github repository available (https://github.com/sashakolpakov/graphem/); Package available on PyPi (https://pypi.org/project/graphem-jax/)</p></details> |
+| **[Vehicle detection from GSV imagery: Predicting travel behaviour for cycling and motorcycling using Computer Vision](http://arxiv.org/abs/2508.12794v1)** | 2025-08-18 |  |
+| **[Trust@Health: A Trust-Based Multilayered Network for Scalable Healthcare Service Management](http://arxiv.org/abs/2508.11942v1)** | 2025-08-16 | <details><summary>Paper...</summary><p>Paper submitted to IEEE Access under review</p></details> |
+| **[EVTP-IVS: Effective Visual Token Pruning For Unifying Instruction Visual Segmentation In Multi-Modal Large Language Models](http://arxiv.org/abs/2508.11886v1)** | 2025-08-16 |  |
 | **[Feedback Indicators: The Alignment between Llama and a Teacher in Language Learning](http://arxiv.org/abs/2508.11364v1)** | 2025-08-15 | 11 pages, one table |
 | **[Processing and acquisition traces in visual encoders: What does CLIP know about your camera?](http://arxiv.org/abs/2508.10637v1)** | 2025-08-14 | <details><summary>8 mai...</summary><p>8 main pages, supplementary attached, ICCV 2025 highlight</p></details> |
 | **[Prompt Attacks Reveal Superficial Knowledge Removal in Unlearning Methods](http://arxiv.org/abs/2506.10236v2)** | 2025-08-14 | <details><summary>19 pa...</summary><p>19 pages, 6 figures. Accepted at COLM 2025 SoLaR Workshop</p></details> |
@@ -18,10 +22,6 @@ labels: documentation
 | **[Skew-Induced Insertion Loss Deviation (SILD) and FOM_SILD: Metrics for Quantifying P/N Skew Effects in High-Speed Channels](http://arxiv.org/abs/2506.15105v3)** | 2025-08-07 |  |
 | **[A Causal Framework for Aligning Image Quality Metrics and Deep Neural Network Robustness](http://arxiv.org/abs/2503.02797v2)** | 2025-08-05 |  |
 | **[Accelerating LLM Reasoning via Early Rejection with Partial Reward Modeling](http://arxiv.org/abs/2508.01969v1)** | 2025-08-04 |  |
-| **[Contact Sensors to Remote Cameras: Quantifying Cardiorespiratory Coupling in High-Altitude Exercise Recovery](http://arxiv.org/abs/2508.00773v1)** | 2025-08-01 | UbiComp 25 |
-| **[MIHBench: Benchmarking and Mitigating Multi-Image Hallucinations in Multimodal Large Language Models](http://arxiv.org/abs/2508.00726v1)** | 2025-08-01 | <details><summary>ACM M...</summary><p>ACM MM25 has accepted this paper</p></details> |
-| **[Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots](http://arxiv.org/abs/2507.17049v2)** | 2025-07-31 |  |
-| **[Simulation-based inference for Precision Neutrino Physics through Neural Monte Carlo tuning](http://arxiv.org/abs/2507.23297v1)** | 2025-07-31 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
