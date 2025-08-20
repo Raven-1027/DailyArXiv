@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 19, 2025
+title: Latest 15 Papers - August 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,10 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Vehicle detection from GSV imagery: Predicting travel behaviour for cycling and motorcycling using Computer Vision](http://arxiv.org/abs/2508.12794v2)** | 2025-08-19 |  |
+| **[Identification and Estimation of Multi-order Tensor Factor Models](http://arxiv.org/abs/2508.13418v1)** | 2025-08-19 | 47 pages, 3 figures |
+| **[Multi-Metric Algorithmic Complexity: Beyond Asymptotic Analysis](http://arxiv.org/abs/2508.13249v1)** | 2025-08-18 | <details><summary>24 pa...</summary><p>24 pages, 12 figures, 3 tables</p></details> |
 | **[Fast Geometric Embedding for Node Influence Maximization](http://arxiv.org/abs/2506.07435v2)** | 2025-08-18 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 18 tables; Github repository available (https://github.com/sashakolpakov/graphem/); Package available on PyPi (https://pypi.org/project/graphem-jax/)</p></details> |
-| **[Vehicle detection from GSV imagery: Predicting travel behaviour for cycling and motorcycling using Computer Vision](http://arxiv.org/abs/2508.12794v1)** | 2025-08-18 |  |
 | **[Trust@Health: A Trust-Based Multilayered Network for Scalable Healthcare Service Management](http://arxiv.org/abs/2508.11942v1)** | 2025-08-16 | <details><summary>Paper...</summary><p>Paper submitted to IEEE Access under review</p></details> |
 | **[EVTP-IVS: Effective Visual Token Pruning For Unifying Instruction Visual Segmentation In Multi-Modal Large Language Models](http://arxiv.org/abs/2508.11886v1)** | 2025-08-16 |  |
 | **[Feedback Indicators: The Alignment between Llama and a Teacher in Language Learning](http://arxiv.org/abs/2508.11364v1)** | 2025-08-15 | 11 pages, one table |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Generative AI for Strategic Plan Development](http://arxiv.org/abs/2508.07405v1)** | 2025-08-10 | 11 pages, 9 figures |
 | **[Decorrelated feature importance from local sample weighting](http://arxiv.org/abs/2508.06337v1)** | 2025-08-08 |  |
 | **[Skew-Induced Insertion Loss Deviation (SILD) and FOM_SILD: Metrics for Quantifying P/N Skew Effects in High-Speed Channels](http://arxiv.org/abs/2506.15105v3)** | 2025-08-07 |  |
-| **[A Causal Framework for Aligning Image Quality Metrics and Deep Neural Network Robustness](http://arxiv.org/abs/2503.02797v2)** | 2025-08-05 |  |
-| **[Accelerating LLM Reasoning via Early Rejection with Partial Reward Modeling](http://arxiv.org/abs/2508.01969v1)** | 2025-08-04 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BLIPs: Bayesian Learned Interatomic Potentials](http://arxiv.org/abs/2508.14022v1)** | 2025-08-19 |  |
 | **[Combinatorial Parameterized Algorithms for Chemical Descriptors based on Molecular Graph Sparsity](http://arxiv.org/abs/2303.13279v2)** | 2025-08-11 |  |
 | **[El Agente: An Autonomous Agent for Quantum Chemistry](http://arxiv.org/abs/2505.02484v2)** | 2025-08-08 |  |
 | **[MolSnap: Snap-Fast Molecular Generation with Latent Variational Mean Flow](http://arxiv.org/abs/2508.05411v1)** | 2025-08-07 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Unlocking Chemical Insights: Superior Molecular Representations from Intermediate Encoder Layers](http://arxiv.org/abs/2506.06443v1)** | 2025-06-06 |  |
 | **[MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures](http://arxiv.org/abs/2506.04195v1)** | 2025-06-04 |  |
 | **[ChemGraph: An Agentic Framework for Computational Chemistry Workflows](http://arxiv.org/abs/2506.06363v1)** | 2025-06-03 |  |
-| **[Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching](http://arxiv.org/abs/2504.11713v3)** | 2025-05-28 |  |
 
