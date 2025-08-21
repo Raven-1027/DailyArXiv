@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 20, 2025
+title: Latest 15 Papers - August 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BioSonix: Can Physics-Based Sonification Perceptualize Tissue Deformations From Tool Interactions?](http://arxiv.org/abs/2508.14688v1)** | 2025-08-20 | <details><summary>V. Ru...</summary><p>V. Ruozzi and S. Matinfar contributed equally to this work</p></details> |
+| **[Comparing energy consumption and accuracy in text classification inference](http://arxiv.org/abs/2508.14170v1)** | 2025-08-19 | <details><summary>Key r...</summary><p>Key results in Figure 1, submitted to Nature Communications, 25 pages</p></details> |
 | **[Vehicle detection from GSV imagery: Predicting travel behaviour for cycling and motorcycling using Computer Vision](http://arxiv.org/abs/2508.12794v2)** | 2025-08-19 |  |
 | **[Identification and Estimation of Multi-order Tensor Factor Models](http://arxiv.org/abs/2508.13418v1)** | 2025-08-19 | 47 pages, 3 figures |
 | **[Multi-Metric Algorithmic Complexity: Beyond Asymptotic Analysis](http://arxiv.org/abs/2508.13249v1)** | 2025-08-18 | <details><summary>24 pa...</summary><p>24 pages, 12 figures, 3 tables</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[CrossWordBench: Evaluating the Reasoning Capabilities of LLMs and LVLMs with Controllable Puzzle Generation](http://arxiv.org/abs/2504.00043v2)** | 2025-08-11 |  |
 | **[Expert Preference-based Evaluation of Automated Related Work Generation](http://arxiv.org/abs/2508.07955v1)** | 2025-08-11 | <details><summary>Proje...</summary><p>Project page: https://ukplab.github.io/arxiv2025-expert-eval-rw/</p></details> |
 | **[Generative AI for Strategic Plan Development](http://arxiv.org/abs/2508.07405v1)** | 2025-08-10 | 11 pages, 9 figures |
-| **[Decorrelated feature importance from local sample weighting](http://arxiv.org/abs/2508.06337v1)** | 2025-08-08 |  |
-| **[Skew-Induced Insertion Loss Deviation (SILD) and FOM_SILD: Metrics for Quantifying P/N Skew Effects in High-Speed Channels](http://arxiv.org/abs/2506.15105v3)** | 2025-08-07 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
