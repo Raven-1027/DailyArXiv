@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 21, 2025
+title: Latest 15 Papers - August 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CUS-QA: Local-Knowledge-Oriented Open-Ended Question Answering Dataset](http://arxiv.org/abs/2507.22752v2)** | 2025-08-21 |  |
+| **[The Chilling: Identifying Strategic Antisocial Behavior Online and Examining the Impact on Journalists](http://arxiv.org/abs/2508.15061v1)** | 2025-08-20 |  |
 | **[BioSonix: Can Physics-Based Sonification Perceptualize Tissue Deformations From Tool Interactions?](http://arxiv.org/abs/2508.14688v1)** | 2025-08-20 | <details><summary>V. Ru...</summary><p>V. Ruozzi and S. Matinfar contributed equally to this work</p></details> |
 | **[Comparing energy consumption and accuracy in text classification inference](http://arxiv.org/abs/2508.14170v1)** | 2025-08-19 | <details><summary>Key r...</summary><p>Key results in Figure 1, submitted to Nature Communications, 25 pages</p></details> |
 | **[Vehicle detection from GSV imagery: Predicting travel behaviour for cycling and motorcycling using Computer Vision](http://arxiv.org/abs/2508.12794v2)** | 2025-08-19 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Prompt Attacks Reveal Superficial Knowledge Removal in Unlearning Methods](http://arxiv.org/abs/2506.10236v2)** | 2025-08-14 | <details><summary>19 pa...</summary><p>19 pages, 6 figures. Accepted at COLM 2025 SoLaR Workshop</p></details> |
 | **[Fleurs-SLU: A Massively Multilingual Benchmark for Spoken Language Understanding](http://arxiv.org/abs/2501.06117v3)** | 2025-08-13 |  |
 | **[CrossWordBench: Evaluating the Reasoning Capabilities of LLMs and LVLMs with Controllable Puzzle Generation](http://arxiv.org/abs/2504.00043v2)** | 2025-08-11 |  |
-| **[Expert Preference-based Evaluation of Automated Related Work Generation](http://arxiv.org/abs/2508.07955v1)** | 2025-08-11 | <details><summary>Proje...</summary><p>Project page: https://ukplab.github.io/arxiv2025-expert-eval-rw/</p></details> |
-| **[Generative AI for Strategic Plan Development](http://arxiv.org/abs/2508.07405v1)** | 2025-08-10 | 11 pages, 9 figures |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
