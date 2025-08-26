@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 25, 2025
+title: Latest 15 Papers - August 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DiCache: Let Diffusion Model Determine Its Own Cache](http://arxiv.org/abs/2508.17356v1)** | 2025-08-24 |  |
+| **[CHIMA: a correlation-aware high-dimensional mediation analysis with its application to the living brain project study](http://arxiv.org/abs/2508.16883v1)** | 2025-08-23 |  |
 | **[Explicit Correspondence Matching for Generalizable Neural Radiance Fields](http://arxiv.org/abs/2304.12294v2)** | 2025-08-22 | <details><summary>TPAMI...</summary><p>TPAMI 2025, Project page: https://donydchen.github.io/matchnerf, Code: https://github.com/donydchen/matchnerf</p></details> |
 | **[The Chilling: Identifying Strategic Antisocial Behavior Online and Examining the Impact on Journalists](http://arxiv.org/abs/2508.15061v2)** | 2025-08-22 |  |
 | **[CUS-QA: Local-Knowledge-Oriented Open-Ended Question Answering Dataset](http://arxiv.org/abs/2507.22752v2)** | 2025-08-21 |  |
@@ -20,12 +22,11 @@ labels: documentation
 | **[EVTP-IVS: Effective Visual Token Pruning For Unifying Instruction Visual Segmentation In Multi-Modal Large Language Models](http://arxiv.org/abs/2508.11886v1)** | 2025-08-16 |  |
 | **[Feedback Indicators: The Alignment between Llama and a Teacher in Language Learning](http://arxiv.org/abs/2508.11364v1)** | 2025-08-15 | 11 pages, one table |
 | **[Processing and acquisition traces in visual encoders: What does CLIP know about your camera?](http://arxiv.org/abs/2508.10637v1)** | 2025-08-14 | <details><summary>8 mai...</summary><p>8 main pages, supplementary attached, ICCV 2025 highlight</p></details> |
-| **[Prompt Attacks Reveal Superficial Knowledge Removal in Unlearning Methods](http://arxiv.org/abs/2506.10236v2)** | 2025-08-14 | <details><summary>19 pa...</summary><p>19 pages, 6 figures. Accepted at COLM 2025 SoLaR Workshop</p></details> |
-| **[Fleurs-SLU: A Massively Multilingual Benchmark for Spoken Language Understanding](http://arxiv.org/abs/2501.06117v3)** | 2025-08-13 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Amortized Sampling with Transferable Normalizing Flows](http://arxiv.org/abs/2508.18175v1)** | 2025-08-25 |  |
 | **[BLIPs: Bayesian Learned Interatomic Potentials](http://arxiv.org/abs/2508.14022v1)** | 2025-08-19 |  |
 | **[Combinatorial Parameterized Algorithms for Chemical Descriptors based on Molecular Graph Sparsity](http://arxiv.org/abs/2303.13279v2)** | 2025-08-11 |  |
 | **[El Agente: An Autonomous Agent for Quantum Chemistry](http://arxiv.org/abs/2505.02484v2)** | 2025-08-08 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[ILVES: Accurate and efficient bond length and angle constraints in molecular dynamics](http://arxiv.org/abs/2503.13075v3)** | 2025-06-16 |  |
 | **[Unlocking Chemical Insights: Superior Molecular Representations from Intermediate Encoder Layers](http://arxiv.org/abs/2506.06443v1)** | 2025-06-06 |  |
 | **[MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures](http://arxiv.org/abs/2506.04195v1)** | 2025-06-04 |  |
-| **[ChemGraph: An Agentic Framework for Computational Chemistry Workflows](http://arxiv.org/abs/2506.06363v1)** | 2025-06-03 |  |
 
