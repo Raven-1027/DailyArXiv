@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 26, 2025
+title: Latest 15 Papers - August 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Exploring the Robustness of Language Models for Tabular Question Answering via Attention Analysis](http://arxiv.org/abs/2406.12719v4)** | 2025-08-26 | Accepted TMLR 2025 |
+| **[A Closer Look at Edema Area Segmentation in SD-OCT Images Using Adversarial Framework](http://arxiv.org/abs/2508.18790v1)** | 2025-08-26 |  |
 | **[DiCache: Let Diffusion Model Determine Its Own Cache](http://arxiv.org/abs/2508.17356v1)** | 2025-08-24 |  |
 | **[CHIMA: a correlation-aware high-dimensional mediation analysis with its application to the living brain project study](http://arxiv.org/abs/2508.16883v1)** | 2025-08-23 |  |
 | **[Explicit Correspondence Matching for Generalizable Neural Radiance Fields](http://arxiv.org/abs/2304.12294v2)** | 2025-08-22 | <details><summary>TPAMI...</summary><p>TPAMI 2025, Project page: https://donydchen.github.io/matchnerf, Code: https://github.com/donydchen/matchnerf</p></details> |
@@ -20,12 +22,12 @@ labels: documentation
 | **[Fast Geometric Embedding for Node Influence Maximization](http://arxiv.org/abs/2506.07435v2)** | 2025-08-18 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 18 tables; Github repository available (https://github.com/sashakolpakov/graphem/); Package available on PyPi (https://pypi.org/project/graphem-jax/)</p></details> |
 | **[Trust@Health: A Trust-Based Multilayered Network for Scalable Healthcare Service Management](http://arxiv.org/abs/2508.11942v1)** | 2025-08-16 | <details><summary>Paper...</summary><p>Paper submitted to IEEE Access under review</p></details> |
 | **[EVTP-IVS: Effective Visual Token Pruning For Unifying Instruction Visual Segmentation In Multi-Modal Large Language Models](http://arxiv.org/abs/2508.11886v1)** | 2025-08-16 |  |
-| **[Feedback Indicators: The Alignment between Llama and a Teacher in Language Learning](http://arxiv.org/abs/2508.11364v1)** | 2025-08-15 | 11 pages, one table |
-| **[Processing and acquisition traces in visual encoders: What does CLIP know about your camera?](http://arxiv.org/abs/2508.10637v1)** | 2025-08-14 | <details><summary>8 mai...</summary><p>8 main pages, supplementary attached, ICCV 2025 highlight</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model](http://arxiv.org/abs/2408.09896v2)** | 2025-08-26 | ECAI 2025 |
+| **[Experiences with Model Context Protocol Servers for Science and High Performance Computing](http://arxiv.org/abs/2508.18489v1)** | 2025-08-25 | <details><summary>11 pa...</summary><p>11 pages, including a 4-page appendix</p></details> |
 | **[Amortized Sampling with Transferable Normalizing Flows](http://arxiv.org/abs/2508.18175v1)** | 2025-08-25 |  |
 | **[BLIPs: Bayesian Learned Interatomic Potentials](http://arxiv.org/abs/2508.14022v1)** | 2025-08-19 |  |
 | **[Combinatorial Parameterized Algorithms for Chemical Descriptors based on Molecular Graph Sparsity](http://arxiv.org/abs/2303.13279v2)** | 2025-08-11 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Efficient Molecular Conformer Generation with SO(3)-Averaged Flow Matching and Reflow](http://arxiv.org/abs/2507.09785v1)** | 2025-07-13 | ICML 2025 poster |
 | **[MolVision: Molecular Property Prediction with Vision Language Models](http://arxiv.org/abs/2507.03283v1)** | 2025-07-04 |  |
 | **[ILVES: Accurate and efficient bond length and angle constraints in molecular dynamics](http://arxiv.org/abs/2503.13075v3)** | 2025-06-16 |  |
-| **[Unlocking Chemical Insights: Superior Molecular Representations from Intermediate Encoder Layers](http://arxiv.org/abs/2506.06443v1)** | 2025-06-06 |  |
-| **[MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures](http://arxiv.org/abs/2506.04195v1)** | 2025-06-04 |  |
 
