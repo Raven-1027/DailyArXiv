@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 27, 2025
+title: Latest 15 Papers - August 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ALSA: Anchors in Logit Space for Out-of-Distribution Accuracy Estimation](http://arxiv.org/abs/2508.19613v1)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted to BMVC 2025, Oral</p></details> |
 | **[Exploring the Robustness of Language Models for Tabular Question Answering via Attention Analysis](http://arxiv.org/abs/2406.12719v4)** | 2025-08-26 | Accepted TMLR 2025 |
 | **[A Closer Look at Edema Area Segmentation in SD-OCT Images Using Adversarial Framework](http://arxiv.org/abs/2508.18790v1)** | 2025-08-26 |  |
 | **[DiCache: Let Diffusion Model Determine Its Own Cache](http://arxiv.org/abs/2508.17356v1)** | 2025-08-24 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Multi-Metric Algorithmic Complexity: Beyond Asymptotic Analysis](http://arxiv.org/abs/2508.13249v1)** | 2025-08-18 | <details><summary>24 pa...</summary><p>24 pages, 12 figures, 3 tables</p></details> |
 | **[Fast Geometric Embedding for Node Influence Maximization](http://arxiv.org/abs/2506.07435v2)** | 2025-08-18 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 18 tables; Github repository available (https://github.com/sashakolpakov/graphem/); Package available on PyPi (https://pypi.org/project/graphem-jax/)</p></details> |
 | **[Trust@Health: A Trust-Based Multilayered Network for Scalable Healthcare Service Management](http://arxiv.org/abs/2508.11942v1)** | 2025-08-16 | <details><summary>Paper...</summary><p>Paper submitted to IEEE Access under review</p></details> |
-| **[EVTP-IVS: Effective Visual Token Pruning For Unifying Instruction Visual Segmentation In Multi-Modal Large Language Models](http://arxiv.org/abs/2508.11886v1)** | 2025-08-16 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
