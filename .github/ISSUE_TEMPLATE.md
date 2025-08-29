@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 28, 2025
+title: Latest 15 Papers - August 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MindGuard: Tracking, Detecting, and Attributing MCP Tool Poisoning Attack via Decision Dependence Graph](http://arxiv.org/abs/2508.20412v1)** | 2025-08-28 |  |
+| **[The Role of Teacher Calibration in Knowledge Distillation](http://arxiv.org/abs/2508.20224v1)** | 2025-08-27 |  |
+| **[Whom We Trust, What We Fear: COVID-19 Fear and the Politics of Information](http://arxiv.org/abs/2508.20146v1)** | 2025-08-27 |  |
 | **[ALSA: Anchors in Logit Space for Out-of-Distribution Accuracy Estimation](http://arxiv.org/abs/2508.19613v1)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted to BMVC 2025, Oral</p></details> |
 | **[Exploring the Robustness of Language Models for Tabular Question Answering via Attention Analysis](http://arxiv.org/abs/2406.12719v4)** | 2025-08-26 | Accepted TMLR 2025 |
 | **[A Closer Look at Edema Area Segmentation in SD-OCT Images Using Adversarial Framework](http://arxiv.org/abs/2508.18790v1)** | 2025-08-26 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Comparing energy consumption and accuracy in text classification inference](http://arxiv.org/abs/2508.14170v1)** | 2025-08-19 | <details><summary>Key r...</summary><p>Key results in Figure 1, submitted to Nature Communications, 25 pages</p></details> |
 | **[Vehicle detection from GSV imagery: Predicting travel behaviour for cycling and motorcycling using Computer Vision](http://arxiv.org/abs/2508.12794v2)** | 2025-08-19 |  |
 | **[Identification and Estimation of Multi-order Tensor Factor Models](http://arxiv.org/abs/2508.13418v1)** | 2025-08-19 | 47 pages, 3 figures |
-| **[Multi-Metric Algorithmic Complexity: Beyond Asymptotic Analysis](http://arxiv.org/abs/2508.13249v1)** | 2025-08-18 | <details><summary>24 pa...</summary><p>24 pages, 12 figures, 3 tables</p></details> |
-| **[Fast Geometric Embedding for Node Influence Maximization](http://arxiv.org/abs/2506.07435v2)** | 2025-08-18 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 18 tables; Github repository available (https://github.com/sashakolpakov/graphem/); Package available on PyPi (https://pypi.org/project/graphem-jax/)</p></details> |
-| **[Trust@Health: A Trust-Based Multilayered Network for Scalable Healthcare Service Management](http://arxiv.org/abs/2508.11942v1)** | 2025-08-16 | <details><summary>Paper...</summary><p>Paper submitted to IEEE Access under review</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
