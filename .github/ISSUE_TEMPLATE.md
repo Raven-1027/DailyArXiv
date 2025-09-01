@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 31, 2025
+title: Latest 15 Papers - September 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Failure Prediction Is a Better Performance Proxy for Early-Exit Networks Than Calibration](http://arxiv.org/abs/2508.21495v1)** | 2025-08-29 |  |
 | **[MindGuard: Tracking, Detecting, and Attributing MCP Tool Poisoning Attack via Decision Dependence Graph](http://arxiv.org/abs/2508.20412v1)** | 2025-08-28 |  |
 | **[The Role of Teacher Calibration in Knowledge Distillation](http://arxiv.org/abs/2508.20224v1)** | 2025-08-27 |  |
 | **[Whom We Trust, What We Fear: COVID-19 Fear and the Politics of Information](http://arxiv.org/abs/2508.20146v1)** | 2025-08-27 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[BioSonix: Can Physics-Based Sonification Perceptualize Tissue Deformations From Tool Interactions?](http://arxiv.org/abs/2508.14688v1)** | 2025-08-20 | <details><summary>V. Ru...</summary><p>V. Ruozzi and S. Matinfar contributed equally to this work</p></details> |
 | **[Comparing energy consumption and accuracy in text classification inference](http://arxiv.org/abs/2508.14170v1)** | 2025-08-19 | <details><summary>Key r...</summary><p>Key results in Figure 1, submitted to Nature Communications, 25 pages</p></details> |
 | **[Vehicle detection from GSV imagery: Predicting travel behaviour for cycling and motorcycling using Computer Vision](http://arxiv.org/abs/2508.12794v2)** | 2025-08-19 |  |
-| **[Identification and Estimation of Multi-order Tensor Factor Models](http://arxiv.org/abs/2508.13418v1)** | 2025-08-19 | 47 pages, 3 figures |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
