@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 01, 2025
+title: Latest 15 Papers - September 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -10,18 +10,6 @@ labels: documentation
 | **[Failure Prediction Is a Better Performance Proxy for Early-Exit Networks Than Calibration](http://arxiv.org/abs/2508.21495v1)** | 2025-08-29 |  |
 | **[MindGuard: Tracking, Detecting, and Attributing MCP Tool Poisoning Attack via Decision Dependence Graph](http://arxiv.org/abs/2508.20412v1)** | 2025-08-28 |  |
 | **[The Role of Teacher Calibration in Knowledge Distillation](http://arxiv.org/abs/2508.20224v1)** | 2025-08-27 |  |
-| **[Whom We Trust, What We Fear: COVID-19 Fear and the Politics of Information](http://arxiv.org/abs/2508.20146v1)** | 2025-08-27 |  |
-| **[ALSA: Anchors in Logit Space for Out-of-Distribution Accuracy Estimation](http://arxiv.org/abs/2508.19613v1)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted to BMVC 2025, Oral</p></details> |
-| **[Exploring the Robustness of Language Models for Tabular Question Answering via Attention Analysis](http://arxiv.org/abs/2406.12719v4)** | 2025-08-26 | Accepted TMLR 2025 |
-| **[A Closer Look at Edema Area Segmentation in SD-OCT Images Using Adversarial Framework](http://arxiv.org/abs/2508.18790v1)** | 2025-08-26 |  |
-| **[DiCache: Let Diffusion Model Determine Its Own Cache](http://arxiv.org/abs/2508.17356v1)** | 2025-08-24 |  |
-| **[CHIMA: a correlation-aware high-dimensional mediation analysis with its application to the living brain project study](http://arxiv.org/abs/2508.16883v1)** | 2025-08-23 |  |
-| **[Explicit Correspondence Matching for Generalizable Neural Radiance Fields](http://arxiv.org/abs/2304.12294v2)** | 2025-08-22 | <details><summary>TPAMI...</summary><p>TPAMI 2025, Project page: https://donydchen.github.io/matchnerf, Code: https://github.com/donydchen/matchnerf</p></details> |
-| **[The Chilling: Identifying Strategic Antisocial Behavior Online and Examining the Impact on Journalists](http://arxiv.org/abs/2508.15061v2)** | 2025-08-22 |  |
-| **[CUS-QA: Local-Knowledge-Oriented Open-Ended Question Answering Dataset](http://arxiv.org/abs/2507.22752v2)** | 2025-08-21 |  |
-| **[BioSonix: Can Physics-Based Sonification Perceptualize Tissue Deformations From Tool Interactions?](http://arxiv.org/abs/2508.14688v1)** | 2025-08-20 | <details><summary>V. Ru...</summary><p>V. Ruozzi and S. Matinfar contributed equally to this work</p></details> |
-| **[Comparing energy consumption and accuracy in text classification inference](http://arxiv.org/abs/2508.14170v1)** | 2025-08-19 | <details><summary>Key r...</summary><p>Key results in Figure 1, submitted to Nature Communications, 25 pages</p></details> |
-| **[Vehicle detection from GSV imagery: Predicting travel behaviour for cycling and motorcycling using Computer Vision](http://arxiv.org/abs/2508.12794v2)** | 2025-08-19 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
