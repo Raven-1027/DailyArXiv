@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 16, 2025
+title: Latest 15 Papers - September 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Understanding to Generation: An Efficient Shortcut for Evaluating Language Models](http://arxiv.org/abs/2506.03592v2)** | 2025-09-16 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Main Conference)</p></details> |
+| **[Emphasising Structured Information: Integrating Abstract Meaning Representation into LLMs for Enhanced Open-Domain Dialogue Evaluation](http://arxiv.org/abs/2404.01129v5)** | 2025-09-16 | EMNLP 2025 Findings |
 | **[What fifty-one years of Linguistics and Artificial Intelligence research tell us about their correlation: A scientometric analysis](http://arxiv.org/abs/2411.19858v3)** | 2025-09-15 | 26 pages, 15 figures |
 | **[TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation](http://arxiv.org/abs/2505.12748v2)** | 2025-09-15 | <details><summary>Proje...</summary><p>Project page:https://gorgeous2002.github.io/TeleOpBench/, Codes:https://github.com/cyjdlhy/TeleOpBench</p></details> |
 | **[The Psychogenic Machine: Simulating AI Psychosis, Delusion Reinforcement and Harm Enablement in Large Language Models](http://arxiv.org/abs/2509.10970v1)** | 2025-09-13 |  |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Pruning Spurious Subgraphs for Graph Out-of-Distribution Generalization](http://arxiv.org/abs/2506.05957v4)** | 2025-09-06 | 26 pages, 8 figures |
 | **[Layer-wise Analysis for Quality of Multilingual Synthesized Speech](http://arxiv.org/abs/2509.04830v1)** | 2025-09-05 | <details><summary>Copyr...</summary><p>Copyright 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
 | **[ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation](http://arxiv.org/abs/2505.09698v2)** | 2025-08-30 | <details><summary>Confe...</summary><p>Conference on Robot Learning (CoRL) 2025. 50 pages and 30 figures. v2 is the camera-ready and includes a few more new experiments compared to v1</p></details> |
-| **[MindGuard: Tracking, Detecting, and Attributing MCP Tool Poisoning Attack via Decision Dependence Graph](http://arxiv.org/abs/2508.20412v1)** | 2025-08-28 |  |
-| **[The Role of Teacher Calibration in Knowledge Distillation](http://arxiv.org/abs/2508.20224v1)** | 2025-08-27 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unsupervised Atomic Data Mining via Multi-Kernel Graph Autoencoders for Machine Learning Force Fields](http://arxiv.org/abs/2509.12358v1)** | 2025-09-15 |  |
 | **[BioMD: All-atom Generative Model for Biomolecular Dynamics Simulation](http://arxiv.org/abs/2509.02642v1)** | 2025-09-02 |  |
 | **[Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model](http://arxiv.org/abs/2408.09896v2)** | 2025-08-26 | ECAI 2025 |
 | **[Experiences with Model Context Protocol Servers for Science and High Performance Computing](http://arxiv.org/abs/2508.18489v1)** | 2025-08-25 | <details><summary>11 pa...</summary><p>11 pages, including a 4-page appendix</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Aitomia: Your Intelligent Assistant for AI-Driven Atomistic and Quantum Chemical Simulations](http://arxiv.org/abs/2505.08195v3)** | 2025-07-22 |  |
 | **[Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures](http://arxiv.org/abs/2507.10446v2)** | 2025-07-15 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2310.17075</p></details> |
 | **[Efficient Molecular Conformer Generation with SO(3)-Averaged Flow Matching and Reflow](http://arxiv.org/abs/2507.09785v1)** | 2025-07-13 | ICML 2025 poster |
-| **[MolVision: Molecular Property Prediction with Vision Language Models](http://arxiv.org/abs/2507.03283v1)** | 2025-07-04 |  |
 
