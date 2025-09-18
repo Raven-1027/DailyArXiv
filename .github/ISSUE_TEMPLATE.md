@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 17, 2025
+title: Latest 15 Papers - September 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,11 +7,11 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Psychogenic Machine: Simulating AI Psychosis, Delusion Reinforcement and Harm Enablement in Large Language Models](http://arxiv.org/abs/2509.10970v2)** | 2025-09-17 |  |
 | **[From Understanding to Generation: An Efficient Shortcut for Evaluating Language Models](http://arxiv.org/abs/2506.03592v2)** | 2025-09-16 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Main Conference)</p></details> |
 | **[Emphasising Structured Information: Integrating Abstract Meaning Representation into LLMs for Enhanced Open-Domain Dialogue Evaluation](http://arxiv.org/abs/2404.01129v5)** | 2025-09-16 | EMNLP 2025 Findings |
 | **[What fifty-one years of Linguistics and Artificial Intelligence research tell us about their correlation: A scientometric analysis](http://arxiv.org/abs/2411.19858v3)** | 2025-09-15 | 26 pages, 15 figures |
 | **[TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation](http://arxiv.org/abs/2505.12748v2)** | 2025-09-15 | <details><summary>Proje...</summary><p>Project page:https://gorgeous2002.github.io/TeleOpBench/, Codes:https://github.com/cyjdlhy/TeleOpBench</p></details> |
-| **[The Psychogenic Machine: Simulating AI Psychosis, Delusion Reinforcement and Harm Enablement in Large Language Models](http://arxiv.org/abs/2509.10970v1)** | 2025-09-13 |  |
 | **[Evaluating Large Language Models for Evidence-Based Clinical Question Answering](http://arxiv.org/abs/2509.10843v1)** | 2025-09-13 |  |
 | **[SPECS: Specificity-Enhanced CLIP-Score for Long Image Caption Evaluation](http://arxiv.org/abs/2509.03897v2)** | 2025-09-12 |  |
 | **[Interpretable Physics Reasoning and Performance Taxonomy in Vision-Language Models](http://arxiv.org/abs/2509.08270v1)** | 2025-09-10 |  |
