@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 18, 2025
+title: Latest 15 Papers - September 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Controlling Language Difficulty in Dialogues with Linguistic Features](http://arxiv.org/abs/2509.14545v1)** | 2025-09-18 | 15 pages,9 figures |
+| **[Identification and Estimation of Multi-order Tensor Factor Models](http://arxiv.org/abs/2508.13418v2)** | 2025-09-18 | 45 pages, 3 figures |
 | **[The Psychogenic Machine: Simulating AI Psychosis, Delusion Reinforcement and Harm Enablement in Large Language Models](http://arxiv.org/abs/2509.10970v2)** | 2025-09-17 |  |
 | **[From Understanding to Generation: An Efficient Shortcut for Evaluating Language Models](http://arxiv.org/abs/2506.03592v2)** | 2025-09-16 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Main Conference)</p></details> |
 | **[Emphasising Structured Information: Integrating Abstract Meaning Representation into LLMs for Enhanced Open-Domain Dialogue Evaluation](http://arxiv.org/abs/2404.01129v5)** | 2025-09-16 | EMNLP 2025 Findings |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Scaling Laws of Motion Forecasting and Planning -- Technical Report](http://arxiv.org/abs/2506.08228v2)** | 2025-09-08 |  |
 | **[Self-Supervised Continuous Colormap Recovery from a 2D Scalar Field Visualization without a Legend](http://arxiv.org/abs/2507.20632v2)** | 2025-09-07 | <details><summary>Submi...</summary><p>Submitted to IEEE VIS 2025</p></details> |
 | **[Pruning Spurious Subgraphs for Graph Out-of-Distribution Generalization](http://arxiv.org/abs/2506.05957v4)** | 2025-09-06 | 26 pages, 8 figures |
-| **[Layer-wise Analysis for Quality of Multilingual Synthesized Speech](http://arxiv.org/abs/2509.04830v1)** | 2025-09-05 | <details><summary>Copyr...</summary><p>Copyright 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
-| **[ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation](http://arxiv.org/abs/2505.09698v2)** | 2025-08-30 | <details><summary>Confe...</summary><p>Conference on Robot Learning (CoRL) 2025. 50 pages and 30 figures. v2 is the camera-ready and includes a few more new experiments compared to v1</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
