@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 22, 2025
+title: Latest 15 Papers - September 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bayesian scaling laws for in-context learning](http://arxiv.org/abs/2410.16531v4)** | 2025-09-22 | <details><summary>COLM ...</summary><p>COLM 2025 camera-ready version; 9 pages main text, 39 pages total</p></details> |
+| **[QASTAnet: A DNN-based Quality Metric for Spatial Audio](http://arxiv.org/abs/2509.16715v1)** | 2025-09-20 |  |
 | **[EmoHeal: An End-to-End System for Personalized Therapeutic Music Retrieval from Fine-grained Emotions](http://arxiv.org/abs/2509.15986v1)** | 2025-09-19 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Submitted to the 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)</p></details> |
 | **[Controlling Language Difficulty in Dialogues with Linguistic Features](http://arxiv.org/abs/2509.14545v1)** | 2025-09-18 | 15 pages,9 figures |
 | **[Identification and Estimation of Multi-order Tensor Factor Models](http://arxiv.org/abs/2508.13418v2)** | 2025-09-18 | 45 pages, 3 figures |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Interpretable Physics Reasoning and Performance Taxonomy in Vision-Language Models](http://arxiv.org/abs/2509.08270v1)** | 2025-09-10 |  |
 | **[CancerGUIDE: Cancer Guideline Understanding via Internal Disagreement Estimation](http://arxiv.org/abs/2509.07325v1)** | 2025-09-09 |  |
 | **[Learning to Walk with Less: a Dyna-Style Approach to Quadrupedal Locomotion](http://arxiv.org/abs/2509.06296v1)** | 2025-09-08 | <details><summary>Under...</summary><p>Under review at IEEE Robotics and Automation Letters. 8 pages</p></details> |
-| **[Scaling Laws of Motion Forecasting and Planning -- Technical Report](http://arxiv.org/abs/2506.08228v2)** | 2025-09-08 |  |
-| **[Self-Supervised Continuous Colormap Recovery from a 2D Scalar Field Visualization without a Legend](http://arxiv.org/abs/2507.20632v2)** | 2025-09-07 | <details><summary>Submi...</summary><p>Submitted to IEEE VIS 2025</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
