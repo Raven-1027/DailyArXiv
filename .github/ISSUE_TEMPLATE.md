@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 24, 2025
+title: Latest 15 Papers - September 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Transformer Model for Predicting Chemical Products from Generic SMARTS Templates with Data Augmentation](http://arxiv.org/abs/2503.05810v3)** | 2025-09-24 | ICTAI 2025 |
+| **[SMILES-Inspired Transfer Learning for Quantum Operators in Generative Quantum Eigensolver](http://arxiv.org/abs/2509.19715v1)** | 2025-09-24 | 7 pages, 5 figures |
 | **[Unsupervised Atomic Data Mining via Multi-Kernel Graph Autoencoders for Machine Learning Force Fields](http://arxiv.org/abs/2509.12358v1)** | 2025-09-15 |  |
 | **[BioMD: All-atom Generative Model for Biomolecular Dynamics Simulation](http://arxiv.org/abs/2509.02642v1)** | 2025-09-02 |  |
 | **[Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model](http://arxiv.org/abs/2408.09896v2)** | 2025-08-26 | ECAI 2025 |
@@ -39,6 +41,4 @@ labels: documentation
 | **[The dark side of the forces: assessing non-conservative force models for atomistic machine learning](http://arxiv.org/abs/2412.11569v5)** | 2025-07-26 | <details><summary>10 pa...</summary><p>10 pages (including references) + appendix Conference format</p></details> |
 | **[Bayesian Hierarchical Models for Quantitative Estimates for Performance metrics applied to Saddle Search Algorithms](http://arxiv.org/abs/2505.13621v3)** | 2025-07-22 | <details><summary>37 pa...</summary><p>37 pages, 30 figures, 7 tables</p></details> |
 | **[Aitomia: Your Intelligent Assistant for AI-Driven Atomistic and Quantum Chemical Simulations](http://arxiv.org/abs/2505.08195v3)** | 2025-07-22 |  |
-| **[Acquiring and Adapting Priors for Novel Tasks via Neural Meta-Architectures](http://arxiv.org/abs/2507.10446v2)** | 2025-07-15 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2310.17075</p></details> |
-| **[Efficient Molecular Conformer Generation with SO(3)-Averaged Flow Matching and Reflow](http://arxiv.org/abs/2507.09785v1)** | 2025-07-13 | ICML 2025 poster |
 
