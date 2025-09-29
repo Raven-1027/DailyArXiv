@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 28, 2025
+title: Latest 15 Papers - September 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TokUR: Token-Level Uncertainty Estimation for Large Language Model Reasoning](http://arxiv.org/abs/2505.11737v3)** | 2025-09-25 | <details><summary>Prepr...</summary><p>Preprint; Work in progress</p></details> |
 | **[HyKid: An Open MRI Dataset with Expert-Annotated Multi-Structure and Choroid Plexus in Pediatric Hydrocephalus](http://arxiv.org/abs/2509.19218v1)** | 2025-09-23 | 10 pages, 7 figures |
 | **[LLM-based Vulnerability Discovery through the Lens of Code Metrics](http://arxiv.org/abs/2509.19117v1)** | 2025-09-23 |  |
 | **[Fix your downsampling ASAP! Be natively more robust via Aliasing and Spectral Artifact free Pooling](http://arxiv.org/abs/2307.09804v2)** | 2025-09-23 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[From Understanding to Generation: An Efficient Shortcut for Evaluating Language Models](http://arxiv.org/abs/2506.03592v2)** | 2025-09-16 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Main Conference)</p></details> |
 | **[Emphasising Structured Information: Integrating Abstract Meaning Representation into LLMs for Enhanced Open-Domain Dialogue Evaluation](http://arxiv.org/abs/2404.01129v5)** | 2025-09-16 | EMNLP 2025 Findings |
 | **[What fifty-one years of Linguistics and Artificial Intelligence research tell us about their correlation: A scientometric analysis](http://arxiv.org/abs/2411.19858v3)** | 2025-09-15 | 26 pages, 15 figures |
-| **[TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation](http://arxiv.org/abs/2505.12748v2)** | 2025-09-15 | <details><summary>Proje...</summary><p>Project page:https://gorgeous2002.github.io/TeleOpBench/, Codes:https://github.com/cyjdlhy/TeleOpBench</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Shoot from the HIP: Hessian Interatomic Potentials without derivatives](http://arxiv.org/abs/2509.21624v1)** | 2025-09-25 | <details><summary>https...</summary><p>https://github.com/BurgerAndreas/hip</p></details> |
 | **[A Transformer Model for Predicting Chemical Products from Generic SMARTS Templates with Data Augmentation](http://arxiv.org/abs/2503.05810v3)** | 2025-09-24 | ICTAI 2025 |
 | **[SMILES-Inspired Transfer Learning for Quantum Operators in Generative Quantum Eigensolver](http://arxiv.org/abs/2509.19715v1)** | 2025-09-24 | 7 pages, 5 figures |
 | **[Unsupervised Atomic Data Mining via Multi-Kernel Graph Autoencoders for Machine Learning Force Fields](http://arxiv.org/abs/2509.12358v1)** | 2025-09-15 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[QCBench: Evaluating Large Language Models on Domain-Specific Quantitative Chemistry](http://arxiv.org/abs/2508.01670v1)** | 2025-08-03 | 13 pages, 8 figures |
 | **[The dark side of the forces: assessing non-conservative force models for atomistic machine learning](http://arxiv.org/abs/2412.11569v5)** | 2025-07-26 | <details><summary>10 pa...</summary><p>10 pages (including references) + appendix Conference format</p></details> |
 | **[Bayesian Hierarchical Models for Quantitative Estimates for Performance metrics applied to Saddle Search Algorithms](http://arxiv.org/abs/2505.13621v3)** | 2025-07-22 | <details><summary>37 pa...</summary><p>37 pages, 30 figures, 7 tables</p></details> |
-| **[Aitomia: Your Intelligent Assistant for AI-Driven Atomistic and Quantum Chemical Simulations](http://arxiv.org/abs/2505.08195v3)** | 2025-07-22 |  |
 
