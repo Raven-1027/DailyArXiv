@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2025
+title: Latest 15 Papers - September 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Revisit the Imbalance Optimization in Multi-task Learning: An Experimental Analysis](http://arxiv.org/abs/2509.23915v1)** | 2025-09-28 |  |
+| **[ASIC-based Compression Accelerators for Storage Systems: Design, Placement, and Profiling Insights](http://arxiv.org/abs/2509.23693v1)** | 2025-09-28 | 16 pages |
+| **[Freqformer: Frequency-Domain Transformer for 3-D Reconstruction and Quantification of Human Retinal Vasculature](http://arxiv.org/abs/2411.11189v2)** | 2025-09-26 | <details><summary>Due t...</summary><p>Due to the limitation "The abstract field cannot be longer than 1,920 characters", the abstract appearing here is slightly shorter than that in the PDF file. IEEE Transactions on Biomedical Engineering (2025)</p></details> |
 | **[TokUR: Token-Level Uncertainty Estimation for Large Language Model Reasoning](http://arxiv.org/abs/2505.11737v3)** | 2025-09-25 | <details><summary>Prepr...</summary><p>Preprint; Work in progress</p></details> |
 | **[HyKid: An Open MRI Dataset with Expert-Annotated Multi-Structure and Choroid Plexus in Pediatric Hydrocephalus](http://arxiv.org/abs/2509.19218v1)** | 2025-09-23 | 10 pages, 7 figures |
 | **[LLM-based Vulnerability Discovery through the Lens of Code Metrics](http://arxiv.org/abs/2509.19117v1)** | 2025-09-23 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Controlling Language Difficulty in Dialogues with Linguistic Features](http://arxiv.org/abs/2509.14545v1)** | 2025-09-18 | 15 pages,9 figures |
 | **[Identification and Estimation of Multi-order Tensor Factor Models](http://arxiv.org/abs/2508.13418v2)** | 2025-09-18 | 45 pages, 3 figures |
 | **[The Psychogenic Machine: Simulating AI Psychosis, Delusion Reinforcement and Harm Enablement in Large Language Models](http://arxiv.org/abs/2509.10970v2)** | 2025-09-17 |  |
-| **[From Understanding to Generation: An Efficient Shortcut for Evaluating Language Models](http://arxiv.org/abs/2506.03592v2)** | 2025-09-16 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Main Conference)</p></details> |
-| **[Emphasising Structured Information: Integrating Abstract Meaning Representation into LLMs for Enhanced Open-Domain Dialogue Evaluation](http://arxiv.org/abs/2404.01129v5)** | 2025-09-16 | EMNLP 2025 Findings |
-| **[What fifty-one years of Linguistics and Artificial Intelligence research tell us about their correlation: A scientometric analysis](http://arxiv.org/abs/2411.19858v3)** | 2025-09-15 | 26 pages, 15 figures |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
