@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 01, 2025
+title: Latest 15 Papers - October 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -18,6 +18,10 @@ labels: documentation
 | **[LLM-based Vulnerability Discovery through the Lens of Code Metrics](http://arxiv.org/abs/2509.19117v1)** | 2025-09-23 |  |
 | **[Fix your downsampling ASAP! Be natively more robust via Aliasing and Spectral Artifact free Pooling](http://arxiv.org/abs/2307.09804v2)** | 2025-09-23 |  |
 | **[Losing is for Cherishing: Data Valuation Based on Machine Unlearning and Shapley Value](http://arxiv.org/abs/2505.16147v2)** | 2025-09-23 | <details><summary>There...</summary><p>There are theoretical mistakes in Section 3.2, where the definition of utility should be fixed. Therefore, this paper requires a major revision in its methodology</p></details> |
+| **[Bayesian scaling laws for in-context learning](http://arxiv.org/abs/2410.16531v4)** | 2025-09-22 | <details><summary>COLM ...</summary><p>COLM 2025 camera-ready version; 9 pages main text, 39 pages total</p></details> |
+| **[QASTAnet: A DNN-based Quality Metric for Spatial Audio](http://arxiv.org/abs/2509.16715v1)** | 2025-09-20 |  |
+| **[EmoHeal: An End-to-End System for Personalized Therapeutic Music Retrieval from Fine-grained Emotions](http://arxiv.org/abs/2509.15986v1)** | 2025-09-19 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Submitted to the 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)</p></details> |
+| **[Controlling Language Difficulty in Dialogues with Linguistic Features](http://arxiv.org/abs/2509.14545v1)** | 2025-09-18 | 15 pages,9 figures |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
