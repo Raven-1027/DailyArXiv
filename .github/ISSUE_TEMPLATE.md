@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 02, 2025
+title: Latest 15 Papers - October 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Round-trip Reinforcement Learning: Self-Consistent Training for Better Chemical LLMs](http://arxiv.org/abs/2510.01527v1)** | 2025-10-01 | 19 pages |
+| **[Energy-Regularized Sequential Model Editing on Hyperspheres](http://arxiv.org/abs/2510.01172v1)** | 2025-10-01 | <details><summary>The c...</summary><p>The code is available at https://github.com/PlusLabNLP/SPHERE. arXiv admin note: text overlap with arXiv:2410.02355 by other authors</p></details> |
 | **[Direct-to-Cell: A First Look into Starlink's Direct Satellite-to-Device Radio Access Network through Crowdsourced Measurements](http://arxiv.org/abs/2506.00283v6)** | 2025-09-30 | <details><summary>7 pag...</summary><p>7 pages, 6 figures. Several corrections</p></details> |
 | **[StereoFoley: Object-Aware Stereo Audio Generation from Video](http://arxiv.org/abs/2509.18272v2)** | 2025-09-29 |  |
 | **[SpinBench: Perspective and Rotation as a Lens on Spatial Reasoning in VLMs](http://arxiv.org/abs/2509.25390v1)** | 2025-09-29 |  |
@@ -20,12 +22,12 @@ labels: documentation
 | **[Losing is for Cherishing: Data Valuation Based on Machine Unlearning and Shapley Value](http://arxiv.org/abs/2505.16147v2)** | 2025-09-23 | <details><summary>There...</summary><p>There are theoretical mistakes in Section 3.2, where the definition of utility should be fixed. Therefore, this paper requires a major revision in its methodology</p></details> |
 | **[Bayesian scaling laws for in-context learning](http://arxiv.org/abs/2410.16531v4)** | 2025-09-22 | <details><summary>COLM ...</summary><p>COLM 2025 camera-ready version; 9 pages main text, 39 pages total</p></details> |
 | **[QASTAnet: A DNN-based Quality Metric for Spatial Audio](http://arxiv.org/abs/2509.16715v1)** | 2025-09-20 |  |
-| **[EmoHeal: An End-to-End System for Personalized Therapeutic Music Retrieval from Fine-grained Emotions](http://arxiv.org/abs/2509.15986v1)** | 2025-09-19 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Submitted to the 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)</p></details> |
-| **[Controlling Language Difficulty in Dialogues with Linguistic Features](http://arxiv.org/abs/2509.14545v1)** | 2025-09-18 | 15 pages,9 figures |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Machine learning for accuracy in density functional approximations](http://arxiv.org/abs/2311.00196v2)** | 2025-10-02 |  |
+| **[Round-trip Reinforcement Learning: Self-Consistent Training for Better Chemical LLMs](http://arxiv.org/abs/2510.01527v1)** | 2025-10-01 | 19 pages |
 | **[A general optimization framework for mapping local transition-state networks](http://arxiv.org/abs/2509.26269v1)** | 2025-09-30 |  |
 | **[Euclidean Fast Attention -- Machine Learning Global Atomic Representations at Linear Cost](http://arxiv.org/abs/2412.08541v2)** | 2025-09-29 |  |
 | **[Shoot from the HIP: Hessian Interatomic Potentials without derivatives](http://arxiv.org/abs/2509.21624v1)** | 2025-09-25 | <details><summary>https...</summary><p>https://github.com/BurgerAndreas/hip</p></details> |
@@ -39,6 +41,4 @@ labels: documentation
 | **[BLIPs: Bayesian Learned Interatomic Potentials](http://arxiv.org/abs/2508.14022v1)** | 2025-08-19 |  |
 | **[Combinatorial Parameterized Algorithms for Chemical Descriptors based on Molecular Graph Sparsity](http://arxiv.org/abs/2303.13279v2)** | 2025-08-11 |  |
 | **[El Agente: An Autonomous Agent for Quantum Chemistry](http://arxiv.org/abs/2505.02484v2)** | 2025-08-08 |  |
-| **[MolSnap: Snap-Fast Molecular Generation with Latent Variational Mean Flow](http://arxiv.org/abs/2508.05411v1)** | 2025-08-07 |  |
-| **[QCBench: Evaluating Large Language Models on Domain-Specific Quantitative Chemistry](http://arxiv.org/abs/2508.01670v1)** | 2025-08-03 | 13 pages, 8 figures |
 
