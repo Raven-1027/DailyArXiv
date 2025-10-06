@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 05, 2025
+title: Latest 15 Papers - October 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Action Deviation-Aware Inference for Low-Latency Wireless Robots](http://arxiv.org/abs/2510.02851v1)** | 2025-10-03 |  |
+| **[FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction](http://arxiv.org/abs/2510.02578v1)** | 2025-10-02 |  |
 | **[Round-trip Reinforcement Learning: Self-Consistent Training for Better Chemical LLMs](http://arxiv.org/abs/2510.01527v1)** | 2025-10-01 | 19 pages |
 | **[Energy-Regularized Sequential Model Editing on Hyperspheres](http://arxiv.org/abs/2510.01172v1)** | 2025-10-01 | <details><summary>The c...</summary><p>The code is available at https://github.com/PlusLabNLP/SPHERE. arXiv admin note: text overlap with arXiv:2410.02355 by other authors</p></details> |
 | **[Direct-to-Cell: A First Look into Starlink's Direct Satellite-to-Device Radio Access Network through Crowdsourced Measurements](http://arxiv.org/abs/2506.00283v6)** | 2025-09-30 | <details><summary>7 pag...</summary><p>7 pages, 6 figures. Several corrections</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[LLM-based Vulnerability Discovery through the Lens of Code Metrics](http://arxiv.org/abs/2509.19117v1)** | 2025-09-23 |  |
 | **[Fix your downsampling ASAP! Be natively more robust via Aliasing and Spectral Artifact free Pooling](http://arxiv.org/abs/2307.09804v2)** | 2025-09-23 |  |
 | **[Losing is for Cherishing: Data Valuation Based on Machine Unlearning and Shapley Value](http://arxiv.org/abs/2505.16147v2)** | 2025-09-23 | <details><summary>There...</summary><p>There are theoretical mistakes in Section 3.2, where the definition of utility should be fixed. Therefore, this paper requires a major revision in its methodology</p></details> |
-| **[Bayesian scaling laws for in-context learning](http://arxiv.org/abs/2410.16531v4)** | 2025-09-22 | <details><summary>COLM ...</summary><p>COLM 2025 camera-ready version; 9 pages main text, 39 pages total</p></details> |
-| **[QASTAnet: A DNN-based Quality Metric for Spatial Audio](http://arxiv.org/abs/2509.16715v1)** | 2025-09-20 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
