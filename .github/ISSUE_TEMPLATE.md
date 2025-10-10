@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 09, 2025
+title: Latest 15 Papers - October 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Synthetic Series-Symbol Data Generation for Time Series Foundation Models](http://arxiv.org/abs/2510.08445v1)** | 2025-10-09 | <details><summary>63 pa...</summary><p>63 pages, NeurIPS 2025 accepted</p></details> |
+| **[Rényi Sharpness: A Novel Sharpness that Strongly Correlates with Generalization](http://arxiv.org/abs/2510.07758v1)** | 2025-10-09 |  |
 | **[Pitch Estimation With Mean Averaging Smoothed Product Spectrum And Musical Consonance Evaluation Using MASP](http://arxiv.org/abs/2510.06625v1)** | 2025-10-08 |  |
 | **[SDQM: Synthetic Data Quality Metric for Object Detection Dataset Evaluation](http://arxiv.org/abs/2510.06596v1)** | 2025-10-08 |  |
 | **[Multilingual Routing in Mixture-of-Experts](http://arxiv.org/abs/2510.04694v1)** | 2025-10-06 |  |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Transparent Reference-free Automated Evaluation of Open-Ended User Survey Responses](http://arxiv.org/abs/2510.06242v1)** | 2025-10-03 | EMNLP Industry Track |
 | **[Round-trip Reinforcement Learning: Self-Consistent Training for Better Chemical LLMs](http://arxiv.org/abs/2510.01527v1)** | 2025-10-01 | 19 pages |
 | **[Energy-Regularized Sequential Model Editing on Hyperspheres](http://arxiv.org/abs/2510.01172v1)** | 2025-10-01 | <details><summary>The c...</summary><p>The code is available at https://github.com/PlusLabNLP/SPHERE. arXiv admin note: text overlap with arXiv:2410.02355 by other authors</p></details> |
-| **[Direct-to-Cell: A First Look into Starlink's Direct Satellite-to-Device Radio Access Network through Crowdsourced Measurements](http://arxiv.org/abs/2506.00283v6)** | 2025-09-30 | <details><summary>7 pag...</summary><p>7 pages, 6 figures. Several corrections</p></details> |
-| **[SpinBench: Perspective and Rotation as a Lens on Spatial Reasoning in VLMs](http://arxiv.org/abs/2509.25390v1)** | 2025-09-29 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
