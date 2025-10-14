@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 12, 2025
+title: Latest 15 Papers - October 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,11 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Synthetic Series-Symbol Data Generation for Time Series Foundation Models](http://arxiv.org/abs/2510.08445v1)** | 2025-10-09 | <details><summary>63 pa...</summary><p>63 pages, NeurIPS 2025 accepted</p></details> |
+| **[Towards Understanding Ambiguity Resolution in Multimodal Inference of Meaning](http://arxiv.org/abs/2510.09815v1)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted to International Conference on Development and Learning (ICDL) 2025</p></details> |
+| **[Human-inspired Episodic Memory for Infinite Context LLMs](http://arxiv.org/abs/2407.09450v3)** | 2025-10-10 |  |
+| **[Synthetic Series-Symbol Data Generation for Time Series Foundation Models](http://arxiv.org/abs/2510.08445v2)** | 2025-10-10 | <details><summary>57 pa...</summary><p>57 pages, 25 figures, 35 tables, NeurIPS 2025 accepted</p></details> |
+| **[Observation Matrix Design for Densifying MIMO Channel Estimation via 2D Ice Filling](http://arxiv.org/abs/2510.08887v1)** | 2025-10-10 | 17 pages, 8 figures |
+| **[Communication-Efficient Distributed Training for Collaborative Flat Optima Recovery in Deep Learning](http://arxiv.org/abs/2507.20424v2)** | 2025-10-10 | <details><summary>8 pag...</summary><p>8 pages main body, 33 pages of supplementary material for hyperparameter configurations, full proofs of theorems and additional results</p></details> |
 | **[Rényi Sharpness: A Novel Sharpness that Strongly Correlates with Generalization](http://arxiv.org/abs/2510.07758v1)** | 2025-10-09 |  |
 | **[Pitch Estimation With Mean Averaging Smoothed Product Spectrum And Musical Consonance Evaluation Using MASP](http://arxiv.org/abs/2510.06625v1)** | 2025-10-08 |  |
 | **[SDQM: Synthetic Data Quality Metric for Object Detection Dataset Evaluation](http://arxiv.org/abs/2510.06596v1)** | 2025-10-08 |  |
@@ -18,14 +22,11 @@ labels: documentation
 | **[PatentMind: A Multi-Aspect Reasoning Graph for Patent Similarity Evaluation](http://arxiv.org/abs/2505.19347v2)** | 2025-10-06 |  |
 | **[StereoFoley: Object-Aware Stereo Audio Generation from Video](http://arxiv.org/abs/2509.18272v3)** | 2025-10-05 |  |
 | **[From Filters to VLMs: Benchmarking Defogging Methods through Object Detection and Segmentation Performance](http://arxiv.org/abs/2510.03906v1)** | 2025-10-04 |  |
-| **[Action Deviation-Aware Inference for Low-Latency Wireless Robots](http://arxiv.org/abs/2510.02851v1)** | 2025-10-03 |  |
-| **[Transparent Reference-free Automated Evaluation of Open-Ended User Survey Responses](http://arxiv.org/abs/2510.06242v1)** | 2025-10-03 | EMNLP Industry Track |
-| **[Round-trip Reinforcement Learning: Self-Consistent Training for Better Chemical LLMs](http://arxiv.org/abs/2510.01527v1)** | 2025-10-01 | 19 pages |
-| **[Energy-Regularized Sequential Model Editing on Hyperspheres](http://arxiv.org/abs/2510.01172v1)** | 2025-10-01 | <details><summary>The c...</summary><p>The code is available at https://github.com/PlusLabNLP/SPHERE. arXiv admin note: text overlap with arXiv:2410.02355 by other authors</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Superior Molecular Representations from Intermediate Encoder Layers](http://arxiv.org/abs/2506.06443v2)** | 2025-10-13 |  |
 | **[Adapting Quantum Machine Learning for Energy Dissociation of Bonds](http://arxiv.org/abs/2510.06563v1)** | 2025-10-08 |  |
 | **[QCBench: Evaluating Large Language Models on Domain-Specific Quantitative Chemistry](http://arxiv.org/abs/2508.01670v2)** | 2025-10-04 | <details><summary>Revis...</summary><p>Revision at Journal of Chemical Information and Modeling</p></details> |
 | **[Machine learning for accuracy in density functional approximations](http://arxiv.org/abs/2311.00196v2)** | 2025-10-02 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model](http://arxiv.org/abs/2408.09896v2)** | 2025-08-26 | ECAI 2025 |
 | **[Experiences with Model Context Protocol Servers for Science and High Performance Computing](http://arxiv.org/abs/2508.18489v1)** | 2025-08-25 | <details><summary>11 pa...</summary><p>11 pages, including a 4-page appendix</p></details> |
 | **[Amortized Sampling with Transferable Normalizing Flows](http://arxiv.org/abs/2508.18175v1)** | 2025-08-25 |  |
-| **[BLIPs: Bayesian Learned Interatomic Potentials](http://arxiv.org/abs/2508.14022v1)** | 2025-08-19 |  |
 
