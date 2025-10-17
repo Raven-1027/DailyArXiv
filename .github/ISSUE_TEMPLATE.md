@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 16, 2025
+title: Latest 15 Papers - October 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rényi Sharpness: A Novel Sharpness that Strongly Correlates with Generalization](http://arxiv.org/abs/2510.07758v2)** | 2025-10-16 |  |
+| **[Constraint-Driven Small Language Models Based on Agent and OpenAlex Knowledge Graph: Mining Conceptual Pathways and Discovering Innovation Points in Academic Papers](http://arxiv.org/abs/2510.14303v1)** | 2025-10-16 | 9 pages, 10 figures |
 | **[The Role of Computing Resources in Publishing Foundation Model Research](http://arxiv.org/abs/2510.13621v1)** | 2025-10-15 |  |
 | **[Confidence as a Reward: Transforming LLMs into Reward Models](http://arxiv.org/abs/2510.13501v1)** | 2025-10-15 |  |
 | **[Novel Class Discovery for Point Cloud Segmentation via Joint Learning of Causal Representation and Reasoning](http://arxiv.org/abs/2510.13307v1)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
@@ -19,9 +21,7 @@ labels: documentation
 | **[Synthetic Series-Symbol Data Generation for Time Series Foundation Models](http://arxiv.org/abs/2510.08445v2)** | 2025-10-10 | <details><summary>57 pa...</summary><p>57 pages, 25 figures, 35 tables, NeurIPS 2025 accepted</p></details> |
 | **[Observation Matrix Design for Densifying MIMO Channel Estimation via 2D Ice Filling](http://arxiv.org/abs/2510.08887v1)** | 2025-10-10 | 17 pages, 8 figures |
 | **[Communication-Efficient Distributed Training for Collaborative Flat Optima Recovery in Deep Learning](http://arxiv.org/abs/2507.20424v2)** | 2025-10-10 | <details><summary>8 pag...</summary><p>8 pages main body, 33 pages of supplementary material for hyperparameter configurations, full proofs of theorems and additional results</p></details> |
-| **[Rényi Sharpness: A Novel Sharpness that Strongly Correlates with Generalization](http://arxiv.org/abs/2510.07758v1)** | 2025-10-09 |  |
 | **[Pitch Estimation With Mean Averaging Smoothed Product Spectrum And Musical Consonance Evaluation Using MASP](http://arxiv.org/abs/2510.06625v1)** | 2025-10-08 |  |
-| **[SDQM: Synthetic Data Quality Metric for Object Detection Dataset Evaluation](http://arxiv.org/abs/2510.06596v1)** | 2025-10-08 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
