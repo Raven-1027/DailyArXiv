@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 21, 2025
+title: Latest 15 Papers - October 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KrishokBondhu: A Retrieval-Augmented Voice-Based Agricultural Advisory Call Center for Bengali Farmers](http://arxiv.org/abs/2510.18355v1)** | 2025-10-21 | <details><summary>6 pag...</summary><p>6 pages, 7 figures, 5 tables, submitted to the 11th IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE 2025)</p></details> |
 | **[Synthetic Series-Symbol Data Generation for Time Series Foundation Models](http://arxiv.org/abs/2510.08445v3)** | 2025-10-20 | <details><summary>64 pa...</summary><p>64 pages, 25 figures, 35 tables, NeurIPS 2025 accepted</p></details> |
 | **[The Chameleon Nature of LLMs: Quantifying Multi-Turn Stance Instability in Search-Enabled Language Models](http://arxiv.org/abs/2510.16712v1)** | 2025-10-19 |  |
 | **[Cosmos-Surg-dVRK: World Foundation Model-based Automated Online Evaluation of Surgical Robot Policy Learning](http://arxiv.org/abs/2510.16240v1)** | 2025-10-17 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[SeqBench: Benchmarking Sequential Narrative Generation in Text-to-Video Models](http://arxiv.org/abs/2510.13042v1)** | 2025-10-14 |  |
 | **[Adaptive vector steering: A training-free, layer-wise intervention for hallucination mitigation in large audio and multimodal models](http://arxiv.org/abs/2510.12851v1)** | 2025-10-14 | <details><summary>Note:...</summary><p>Note: This preprint is a version of the paper submitted to ICASSP 2026. The author list here includes contributors who provided additional supervision and guidance. The official ICASSP submission may differ slightly in author composition</p></details> |
 | **[Deep Associations, High Creativity: A Simple yet Effective Metric for Evaluating Large Language Models](http://arxiv.org/abs/2510.12110v1)** | 2025-10-14 | 14 pages |
-| **[Generative AI for Requirements Engineering: A Systematic Literature Review](http://arxiv.org/abs/2409.06741v3)** | 2025-10-14 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
