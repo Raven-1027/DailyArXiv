@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 23, 2025
+title: Latest 15 Papers - October 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sample-efficient Learning of Concepts with Theoretical Guarantees: from Data to Concepts without Interventions](http://arxiv.org/abs/2502.06536v3)** | 2025-10-23 | <details><summary>58 pa...</summary><p>58 pages, 23 figures, 12 Tables, Published</p></details> |
+| **[Novel Class Discovery for Point Cloud Segmentation via Joint Learning of Causal Representation and Reasoning](http://arxiv.org/abs/2510.13307v2)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[CreativityPrism: A Holistic Benchmark for Large Language Model Creativity](http://arxiv.org/abs/2510.20091v1)** | 2025-10-23 |  |
 | **[KrishokBondhu: A Retrieval-Augmented Voice-Based Agricultural Advisory Call Center for Bengali Farmers](http://arxiv.org/abs/2510.18355v1)** | 2025-10-21 | <details><summary>6 pag...</summary><p>6 pages, 7 figures, 5 tables, submitted to the 11th IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE 2025)</p></details> |
 | **[Synthetic Series-Symbol Data Generation for Time Series Foundation Models](http://arxiv.org/abs/2510.08445v3)** | 2025-10-20 | <details><summary>64 pa...</summary><p>64 pages, 25 figures, 35 tables, NeurIPS 2025 accepted</p></details> |
 | **[The Chameleon Nature of LLMs: Quantifying Multi-Turn Stance Instability in Search-Enabled Language Models](http://arxiv.org/abs/2510.16712v1)** | 2025-10-19 |  |
@@ -18,10 +21,7 @@ labels: documentation
 | **[Constraint-Driven Small Language Models Based on Agent and OpenAlex Knowledge Graph: Mining Conceptual Pathways and Discovering Innovation Points in Academic Papers](http://arxiv.org/abs/2510.14303v1)** | 2025-10-16 | 9 pages, 10 figures |
 | **[The Role of Computing Resources in Publishing Foundation Model Research](http://arxiv.org/abs/2510.13621v1)** | 2025-10-15 |  |
 | **[Confidence as a Reward: Transforming LLMs into Reward Models](http://arxiv.org/abs/2510.13501v1)** | 2025-10-15 |  |
-| **[Novel Class Discovery for Point Cloud Segmentation via Joint Learning of Causal Representation and Reasoning](http://arxiv.org/abs/2510.13307v1)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[SeqBench: Benchmarking Sequential Narrative Generation in Text-to-Video Models](http://arxiv.org/abs/2510.13042v1)** | 2025-10-14 |  |
-| **[Adaptive vector steering: A training-free, layer-wise intervention for hallucination mitigation in large audio and multimodal models](http://arxiv.org/abs/2510.12851v1)** | 2025-10-14 | <details><summary>Note:...</summary><p>Note: This preprint is a version of the paper submitted to ICASSP 2026. The author list here includes contributors who provided additional supervision and guidance. The official ICASSP submission may differ slightly in author composition</p></details> |
-| **[Deep Associations, High Creativity: A Simple yet Effective Metric for Evaluating Large Language Models](http://arxiv.org/abs/2510.12110v1)** | 2025-10-14 | 14 pages |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
