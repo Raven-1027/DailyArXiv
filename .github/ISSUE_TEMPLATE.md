@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 26, 2025
+title: Latest 15 Papers - October 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -21,11 +21,11 @@ labels: documentation
 | **[Constraint-Driven Small Language Models Based on Agent and OpenAlex Knowledge Graph: Mining Conceptual Pathways and Discovering Innovation Points in Academic Papers](http://arxiv.org/abs/2510.14303v1)** | 2025-10-16 | 9 pages, 10 figures |
 | **[The Role of Computing Resources in Publishing Foundation Model Research](http://arxiv.org/abs/2510.13621v1)** | 2025-10-15 |  |
 | **[Confidence as a Reward: Transforming LLMs into Reward Models](http://arxiv.org/abs/2510.13501v1)** | 2025-10-15 |  |
-| **[SeqBench: Benchmarking Sequential Narrative Generation in Text-to-Video Models](http://arxiv.org/abs/2510.13042v1)** | 2025-10-14 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generalised Flow Maps for Few-Step Generative Modelling on Riemannian Manifolds](http://arxiv.org/abs/2510.21608v1)** | 2025-10-24 | Under review |
 | **[Superior Molecular Representations from Intermediate Encoder Layers](http://arxiv.org/abs/2506.06443v3)** | 2025-10-15 |  |
 | **[Adapting Quantum Machine Learning for Energy Dissociation of Bonds](http://arxiv.org/abs/2510.06563v1)** | 2025-10-08 |  |
 | **[QCBench: Evaluating Large Language Models on Domain-Specific Quantitative Chemistry](http://arxiv.org/abs/2508.01670v2)** | 2025-10-04 | <details><summary>Revis...</summary><p>Revision at Journal of Chemical Information and Modeling</p></details> |
@@ -34,11 +34,4 @@ labels: documentation
 | **[A general optimization framework for mapping local transition-state networks](http://arxiv.org/abs/2509.26269v1)** | 2025-09-30 |  |
 | **[Euclidean Fast Attention -- Machine Learning Global Atomic Representations at Linear Cost](http://arxiv.org/abs/2412.08541v2)** | 2025-09-29 |  |
 | **[Shoot from the HIP: Hessian Interatomic Potentials without derivatives](http://arxiv.org/abs/2509.21624v1)** | 2025-09-25 | <details><summary>https...</summary><p>https://github.com/BurgerAndreas/hip</p></details> |
-| **[A Transformer Model for Predicting Chemical Products from Generic SMARTS Templates with Data Augmentation](http://arxiv.org/abs/2503.05810v3)** | 2025-09-24 | ICTAI 2025 |
-| **[SMILES-Inspired Transfer Learning for Quantum Operators in Generative Quantum Eigensolver](http://arxiv.org/abs/2509.19715v1)** | 2025-09-24 | 7 pages, 5 figures |
-| **[Unsupervised Atomic Data Mining via Multi-Kernel Graph Autoencoders for Machine Learning Force Fields](http://arxiv.org/abs/2509.12358v1)** | 2025-09-15 |  |
-| **[BioMD: All-atom Generative Model for Biomolecular Dynamics Simulation](http://arxiv.org/abs/2509.02642v1)** | 2025-09-02 |  |
-| **[Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model](http://arxiv.org/abs/2408.09896v2)** | 2025-08-26 | ECAI 2025 |
-| **[Experiences with Model Context Protocol Servers for Science and High Performance Computing](http://arxiv.org/abs/2508.18489v1)** | 2025-08-25 | <details><summary>11 pa...</summary><p>11 pages, including a 4-page appendix</p></details> |
-| **[Amortized Sampling with Transferable Normalizing Flows](http://arxiv.org/abs/2508.18175v1)** | 2025-08-25 |  |
 
