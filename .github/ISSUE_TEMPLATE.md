@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 28, 2025
+title: Latest 15 Papers - October 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Development of a Digital Twin for an Electric Vehicle Emulator Modeling, Control, and Experimental Validation](http://arxiv.org/abs/2510.24389v1)** | 2025-10-28 | <details><summary>6 pag...</summary><p>6 pages, Accepted at CODIT 2025 (Conference on Decision and Control in Intelligent Technology)</p></details> |
+| **[Adaptive Knowledge Transferring with Switching Dual-Student Framework for Semi-Supervised Medical Image Segmentation](http://arxiv.org/abs/2510.24366v1)** | 2025-10-28 | <details><summary>The p...</summary><p>The paper is under review at Pattern Recognition Journal</p></details> |
+| **[VC4VG: Optimizing Video Captions for Text-to-Video Generation](http://arxiv.org/abs/2510.24134v1)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025</p></details> |
 | **[The Chameleon Nature of LLMs: Quantifying Multi-Turn Stance Instability in Search-Enabled Language Models](http://arxiv.org/abs/2510.16712v2)** | 2025-10-26 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: MTI-LLM @ NeurIPS 2025</p></details> |
 | **[AutoBench: Automating LLM Evaluation through Reciprocal Peer Assessment](http://arxiv.org/abs/2510.22593v1)** | 2025-10-26 |  |
 | **[FACE: A Fine-grained Reference Free Evaluator for Conversational Recommender Systems](http://arxiv.org/abs/2506.00314v2)** | 2025-10-25 |  |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Adaptive Influence Diagnostics in High-Dimensional Regression](http://arxiv.org/abs/2510.15618v1)** | 2025-10-17 |  |
 | **[Hyperbolic Structured Classification for Robust Single Positive Multi-label Learning](http://arxiv.org/abs/2510.15296v1)** | 2025-10-17 | <details><summary>8 pag...</summary><p>8 pages, ICDM Workshop</p></details> |
 | **[Latent Topic Synthesis: Leveraging LLMs for Electoral Ad Analysis](http://arxiv.org/abs/2510.15125v1)** | 2025-10-16 | Under-submission |
-| **[Rényi Sharpness: A Novel Sharpness that Strongly Correlates with Generalization](http://arxiv.org/abs/2510.07758v2)** | 2025-10-16 |  |
-| **[Constraint-Driven Small Language Models Based on Agent and OpenAlex Knowledge Graph: Mining Conceptual Pathways and Discovering Innovation Points in Academic Papers](http://arxiv.org/abs/2510.14303v1)** | 2025-10-16 | 9 pages, 10 figures |
-| **[The Role of Computing Resources in Publishing Foundation Model Research](http://arxiv.org/abs/2510.13621v1)** | 2025-10-15 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
