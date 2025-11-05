@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 04, 2025
+title: Latest 15 Papers - November 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,9 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Measuring AI Diffusion: A Population-Normalized Metric for Tracking Global AI Usage](http://arxiv.org/abs/2511.02781v1)** | 2025-11-04 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 2 tables. Also available at https://aka.ms/AI_Diffusion_Technical_Report</p></details> |
 | **[Cosmos-Surg-dVRK: World Foundation Model-based Automated Online Evaluation of Surgical Robot Policy Learning](http://arxiv.org/abs/2510.16240v2)** | 2025-11-03 | <details><summary>minor...</summary><p>minor metadata and notation fixes; +3 citations</p></details> |
+| **[ExplicitLM: Decoupling Knowledge from Parameters via Explicit Memory Banks](http://arxiv.org/abs/2511.01581v1)** | 2025-11-03 | 12pages, 4figures |
 | **[VeriFastScore: Speeding up long-form factuality evaluation](http://arxiv.org/abs/2505.16973v3)** | 2025-10-30 |  |
 | **[RCScore: Quantifying Response Consistency in Large Language Models](http://arxiv.org/abs/2510.26193v1)** | 2025-10-30 |  |
 | **[VC4VG: Optimizing Video Captions for Text-to-Video Generation](http://arxiv.org/abs/2510.24134v2)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025</p></details> |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Novel Class Discovery for Point Cloud Segmentation via Joint Learning of Causal Representation and Reasoning](http://arxiv.org/abs/2510.13307v2)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[CreativityPrism: A Holistic Benchmark for Large Language Model Creativity](http://arxiv.org/abs/2510.20091v1)** | 2025-10-23 |  |
 | **[A Machine Learning-Based Framework to Shorten the Questionnaire for Assessing Autism Intervention](http://arxiv.org/abs/2510.26808v1)** | 2025-10-22 | 10 pages, 16 figures |
-| **[KrishokBondhu: A Retrieval-Augmented Voice-Based Agricultural Advisory Call Center for Bengali Farmers](http://arxiv.org/abs/2510.18355v1)** | 2025-10-21 | <details><summary>6 pag...</summary><p>6 pages, 7 figures, 5 tables, submitted to the 11th IEEE International Women in Engineering (WIE) Conference on Electrical and Computer Engineering (WIECON-ECE 2025)</p></details> |
-| **[Synthetic Series-Symbol Data Generation for Time Series Foundation Models](http://arxiv.org/abs/2510.08445v3)** | 2025-10-20 | <details><summary>64 pa...</summary><p>64 pages, 25 figures, 35 tables, NeurIPS 2025 accepted</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Analysis of a Schwarz-Fourier domain decomposition method](http://arxiv.org/abs/2511.01616v1)** | 2025-11-03 | 25 pages, 10 figures |
 | **[An Analytic Theory of Quantum Imaginary Time Evolution](http://arxiv.org/abs/2510.22481v1)** | 2025-10-26 | 35 pages, 8 figures |
 | **[The dark side of the forces: assessing non-conservative force models for atomistic machine learning](http://arxiv.org/abs/2412.11569v6)** | 2025-10-25 | ICML 2025 (Oral) |
 | **[Fast Non-Log-Concave Sampling under Nonconvex Equality and Inequality Constraints with Landing](http://arxiv.org/abs/2510.22044v1)** | 2025-10-24 | 62 pages |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Euclidean Fast Attention -- Machine Learning Global Atomic Representations at Linear Cost](http://arxiv.org/abs/2412.08541v2)** | 2025-09-29 |  |
 | **[Shoot from the HIP: Hessian Interatomic Potentials without derivatives](http://arxiv.org/abs/2509.21624v1)** | 2025-09-25 | <details><summary>https...</summary><p>https://github.com/BurgerAndreas/hip</p></details> |
 | **[A Transformer Model for Predicting Chemical Products from Generic SMARTS Templates with Data Augmentation](http://arxiv.org/abs/2503.05810v3)** | 2025-09-24 | ICTAI 2025 |
-| **[SMILES-Inspired Transfer Learning for Quantum Operators in Generative Quantum Eigensolver](http://arxiv.org/abs/2509.19715v1)** | 2025-09-24 | 7 pages, 5 figures |
 
