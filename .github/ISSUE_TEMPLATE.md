@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 11, 2025
+title: Latest 15 Papers - November 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,26 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Adaptive Convolution for CNN-based Speech Enhancement Models](http://arxiv.org/abs/2502.14224v2)** | 2025-11-10 | <details><summary>Publi...</summary><p>Published in IEEE/ACM Transactions on Audio, Speech, and Language Processing</p></details> |
-| **[multiMentalRoBERTa: A Fine-tuned Multiclass Classifier for Mental Health Disorder](http://arxiv.org/abs/2511.04698v2)** | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted in IEEE Big Data, 8-11 December, 2025 @ Macau SAR, China</p></details> |
-| **[A Low-Rank Method for Vision Language Model Hallucination Mitigation in Autonomous Driving](http://arxiv.org/abs/2511.06496v1)** | 2025-11-09 |  |
-| **[Direct-to-Cell: A First Look into Starlink's Direct Satellite-to-Device Radio Access Network through Crowdsourced Measurements](http://arxiv.org/abs/2506.00283v7)** | 2025-11-06 | 7 pages, 6 figures |
-| **[CancerGUIDE: Cancer Guideline Understanding via Internal Disagreement Estimation](http://arxiv.org/abs/2509.07325v2)** | 2025-11-06 |  |
-| **[RAGalyst: Automated Human-Aligned Agentic Evaluation for Domain-Specific RAG](http://arxiv.org/abs/2511.04502v1)** | 2025-11-06 |  |
-| **[Action Deviation-Aware Inference for Low-Latency Wireless Robots](http://arxiv.org/abs/2510.02851v2)** | 2025-11-06 |  |
-| **[AI-Enhanced High-Density NIRS Patch for Real-Time Brain Layer Oxygenation Monitoring in Neurological Emergencies](http://arxiv.org/abs/2511.05612v1)** | 2025-11-06 |  |
-| **[FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction](http://arxiv.org/abs/2510.02578v3)** | 2025-11-06 |  |
-| **[Constraint-Driven Small Language Models Based on Agent and OpenAlex Knowledge Graph: Mining Conceptual Pathways and Discovering Innovation Points in Academic Papers](http://arxiv.org/abs/2510.14303v2)** | 2025-11-05 | 11 pages, 10 figures |
-| **[Data-Efficient Adaptation and a Novel Evaluation Method for Aspect-based Sentiment Analysis](http://arxiv.org/abs/2511.03034v1)** | 2025-11-04 |  |
-| **[Measuring AI Diffusion: A Population-Normalized Metric for Tracking Global AI Usage](http://arxiv.org/abs/2511.02781v1)** | 2025-11-04 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 2 tables. Also available at https://aka.ms/AI_Diffusion_Technical_Report</p></details> |
-| **[Cosmos-Surg-dVRK: World Foundation Model-based Automated Online Evaluation of Surgical Robot Policy Learning](http://arxiv.org/abs/2510.16240v2)** | 2025-11-03 | <details><summary>minor...</summary><p>minor metadata and notation fixes; +3 citations</p></details> |
-| **[ExplicitLM: Decoupling Knowledge from Parameters via Explicit Memory Banks](http://arxiv.org/abs/2511.01581v1)** | 2025-11-03 | 12pages, 4figures |
-| **[VeriFastScore: Speeding up long-form factuality evaluation](http://arxiv.org/abs/2505.16973v3)** | 2025-10-30 |  |
+| **[Capacity Scaling of Massive MIMO in Strong Spatial Correlation Regimes](https://arxiv.org/pdf/1812.08898v2)** | 2019-12-10 | <details><summary>accep...</summary><p>accepted for publication in IEEE Trans. Information Theory</p></details> |
+| **[Accuracy on the Line: On the Strong Correlation Between Out-of-Distribution and In-Distribution Generalization](https://arxiv.org/pdf/2107.04649v2)** | 2021-10-11 |  |
+| **[Does Weak-to-strong Generalization Happen under Spurious Correlations?](https://arxiv.org/pdf/2509.24005v1)** | 2025-09-30 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learning Biomolecular Motion: The Physics-Informed Machine Learning Paradigm](http://arxiv.org/abs/2511.06585v1)** | 2025-11-10 | <details><summary>31 pa...</summary><p>31 pages, 4 figures, 3 tables. Review article</p></details> |
-| **[Analysis of a Schwarz-Fourier domain decomposition method](http://arxiv.org/abs/2511.01616v1)** | 2025-11-03 | 25 pages, 10 figures |
-| **[An Analytic Theory of Quantum Imaginary Time Evolution](http://arxiv.org/abs/2510.22481v1)** | 2025-10-26 | 35 pages, 8 figures |
-| **[The dark side of the forces: assessing non-conservative force models for atomistic machine learning](http://arxiv.org/abs/2412.11569v6)** | 2025-10-25 | ICML 2025 (Oral) |
-| **[Fast Non-Log-Concave Sampling under Nonconvex Equality and Inequality Constraints with Landing](http://arxiv.org/abs/2510.22044v1)** | 2025-10-24 | 62 pages |
-| **[Revisiting Orbital Minimization Method for Neural Operator Decomposition](http://arxiv.org/abs/2510.21952v1)** | 2025-10-24 | <details><summary>25 pa...</summary><p>25 pages, 8 figures. To appear at NeurIPS 2025</p></details> |
-| **[Generalised Flow Maps for Few-Step Generative Modelling on Riemannian Manifolds](http://arxiv.org/abs/2510.21608v1)** | 2025-10-24 | Under review |
-| **[Superior Molecular Representations from Intermediate Encoder Layers](http://arxiv.org/abs/2506.06443v3)** | 2025-10-15 |  |
-| **[Adapting Quantum Machine Learning for Energy Dissociation of Bonds](http://arxiv.org/abs/2510.06563v1)** | 2025-10-08 |  |
-| **[QCBench: Evaluating Large Language Models on Domain-Specific Quantitative Chemistry](http://arxiv.org/abs/2508.01670v2)** | 2025-10-04 | <details><summary>Revis...</summary><p>Revision at Journal of Chemical Information and Modeling</p></details> |
-| **[Machine learning for accuracy in density functional approximations](http://arxiv.org/abs/2311.00196v2)** | 2025-10-02 |  |
-| **[Round-trip Reinforcement Learning: Self-Consistent Training for Better Chemical LLMs](http://arxiv.org/abs/2510.01527v1)** | 2025-10-01 | 19 pages |
-| **[A general optimization framework for mapping local transition-state networks](http://arxiv.org/abs/2509.26269v1)** | 2025-09-30 |  |
-| **[Euclidean Fast Attention -- Machine Learning Global Atomic Representations at Linear Cost](http://arxiv.org/abs/2412.08541v2)** | 2025-09-29 |  |
-| **[Shoot from the HIP: Hessian Interatomic Potentials without derivatives](http://arxiv.org/abs/2509.21624v1)** | 2025-09-25 | <details><summary>https...</summary><p>https://github.com/BurgerAndreas/hip</p></details> |
+| **[Deep Learning for Computational Chemistry](https://arxiv.org/pdf/1701.04503v1)** | 2018-08-15 |  |
+| **[Pushing the Limits of Quantum Computing for Simulating PFAS Chemistry](https://arxiv.org/pdf/2311.01242v1)** | 2023-11-03 |  |
+| **[The Chemistry Between High School Students and Computer Science](https://arxiv.org/pdf/1406.2222v1)** | 2014-06-10 | 8 pages, 2 figures |
+| **[Software-Hardware Co-Optimization for Computational Chemistry on Superconducting Quantum Processors](https://arxiv.org/pdf/2105.07127v1)** | 2021-05-18 | <details><summary>12 pa...</summary><p>12 pages, 11 figures, to appear in ISCA 2021</p></details> |
+| **[Generative artificial intelligence for computational chemistry: a roadmap to predicting emergent phenomena](https://arxiv.org/pdf/2409.03118v1)** | 2024-09-06 |  |
+| **[ChemGraph: An Agentic Framework for Computational Chemistry Workflows](https://arxiv.org/pdf/2506.06363v1)** | 2025-06-11 |  |
+| **[Q# and NWChem: Tools for Scalable Quantum Chemistry on Quantum Computers](https://arxiv.org/pdf/1904.01131v1)** | 2019-05-03 | <details><summary>36 pa...</summary><p>36 pages, 5 figures. Examples and data in ancillary files folder</p></details> |
+| **[An Intermediate Level of Abstraction for Computational Systems Chemistry](https://arxiv.org/pdf/1701.09097v1)** | 2018-02-07 |  |
+| **[MLatom 3: Platform for machine learning-enhanced computational chemistry simulations and workflows](https://arxiv.org/pdf/2310.20155v1)** | 2024-02-05 |  |
+| **[COMET: A Domain-Specific Compilation of High-Performance Computational Chemistry](https://arxiv.org/pdf/2102.06827v1)** | 2022-01-02 | <details><summary>Proce...</summary><p>Proceeding of the 33rd the Workshop on Languages and Compilers for Parallel Computing (LCPC), October 2020</p></details> |
+| **[Towards the Practical Application of Near-Term Quantum Computers in Quantum Chemistry Simulations: A Problem Decomposition Approach](https://arxiv.org/pdf/1806.01305v1)** | 2018-06-06 |  |
+| **[Guiding Application Users via Estimation of Computational Resources for Massively Parallel Chemistry Computations](https://arxiv.org/pdf/2509.20667v1)** | 2025-09-26 |  |
+| **[Probabilistic performance estimators for computational chemistry methods: Systematic Improvement Probability and Ranking Probability Matrix. I. Theory](https://arxiv.org/pdf/2003.00987v4)** | 2020-09-29 |  |
+| **[Computational Chemistry on Quantum Computers](https://arxiv.org/pdf/1909.11146v1)** | 2019-09-26 | 10 pages, 4 figures |
+| **[Computer vision-based recognition of liquid surfaces and phase boundaries in transparent vessels, with emphasis on chemistry applications](https://arxiv.org/pdf/1404.7174v7)** | 2014-11-10 | <details><summary>Sourc...</summary><p>Source code for phase boundary and liquid surface recognition available at: http://www.mathworks.com/matlabcentral/fileexchange/46893-computer-vision-based-recognition-of-liquid-surface-and-liquid-level-of-liquid-of-transparent-vessel</p></details> |
 
