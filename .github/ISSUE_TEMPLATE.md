@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 14, 2025
+title: Latest 15 Papers - November 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,26 +7,38 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Capacity Scaling of Massive MIMO in Strong Spatial Correlation Regimes](https://arxiv.org/pdf/1812.08898v2)** | 2019-12-10 | <details><summary>accep...</summary><p>accepted for publication in IEEE Trans. Information Theory</p></details> |
-| **[Accuracy on the Line: On the Strong Correlation Between Out-of-Distribution and In-Distribution Generalization](https://arxiv.org/pdf/2107.04649v2)** | 2021-10-11 |  |
-| **[Does Weak-to-strong Generalization Happen under Spurious Correlations?](https://arxiv.org/pdf/2509.24005v1)** | 2025-09-30 |  |
+| **[GraphFaaS: Serverless GNN Inference for Burst-Resilient, Real-Time Intrusion Detection](https://arxiv.org/abs/2511.10554v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by ML For Systems workshop at Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[Temporal Zoom Networks: Distance Regression and Continuous Depth for Efficient Action Localization](https://arxiv.org/abs/2511.03943v3)** | 2025-11-13 |  |
+| **[Format Matters: The Robustness of Multimodal LLMs in Reviewing Evidence from Tables and Charts](https://arxiv.org/abs/2511.10075v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
+| **[Beyond Cosine Similarity Magnitude-Aware CLIP for No-Reference Image Quality Assessment](https://arxiv.org/abs/2511.09948v1)** | 2025-11-13 |  |
+| **[Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection](https://arxiv.org/abs/2509.03113v3)** | 2025-11-13 |  |
+| **[Learning Intersections of Halfspaces under Factorizable Distribution](https://arxiv.org/abs/2511.09832v1)** | 2025-11-13 | <details><summary>Appea...</summary><p>Appeared at COLT 2025</p></details> |
+| **[Caption This, Reason That: VLMs Caught in the Middle](https://arxiv.org/abs/2505.21538v2)** | 2025-11-12 | <details><summary>Paper...</summary><p>Paper accepted by nips 2025</p></details> |
+| **[Self-Supervised Implicit Attention Priors for Point Cloud Reconstruction](https://arxiv.org/abs/2511.04864v2)** | 2025-11-12 | Accepted at 3DV 2026 |
+| **[Adjacent-view Transformers for Supervised Surround-view Depth Estimation](https://arxiv.org/abs/2303.07759v4)** | 2025-11-12 | <details><summary>This ...</summary><p>This paper has been accepted by IROS 2025</p></details> |
+| **[Differentially Private Rankings via Outranking Methods and Performance Data Aggregation](https://arxiv.org/abs/2511.09120v1)** | 2025-11-12 | <details><summary>Accep...</summary><p>Accepted and published in the USB Proceedings of the 22th International Conference on Modeling Decisions for Artificial Intelligence (MDAI 2025), Valencia, Spain, September 15--18, 2025, ISBN 978-91-531-0240-3, pp. 21--32</p></details> |
+| **[Unveiling Visual Perception in Language Models: An Attention Head Analysis Approach](https://arxiv.org/abs/2412.18108v2)** | 2025-11-11 |  |
+| **[An Information-Minimal Geometry for Qubit-Efficient Optimization](https://arxiv.org/abs/2511.08362v1)** | 2025-11-11 | 39 pages, 9 figures |
+| **[Non-Aligned Reference Image Quality Assessment for Novel View Synthesis](https://arxiv.org/abs/2511.08155v1)** | 2025-11-11 |  |
+| **[GMM with Many Weak Moment Conditions and Nuisance Parameters: General Theory and Applications to Causal Inference](https://arxiv.org/abs/2505.07295v3)** | 2025-11-10 |  |
+| **[Reference-Guided Verdict: LLMs-as-Judges in Automatic Evaluation of Free-Form QA](https://arxiv.org/abs/2408.09235v3)** | 2025-11-10 | <details><summary>Proce...</summary><p>Proceedings of the 9th Widening NLP Workshop</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Deep Learning for Computational Chemistry](https://arxiv.org/pdf/1701.04503v1)** | 2018-08-15 |  |
-| **[Pushing the Limits of Quantum Computing for Simulating PFAS Chemistry](https://arxiv.org/pdf/2311.01242v1)** | 2023-11-03 |  |
-| **[The Chemistry Between High School Students and Computer Science](https://arxiv.org/pdf/1406.2222v1)** | 2014-06-10 | 8 pages, 2 figures |
-| **[Software-Hardware Co-Optimization for Computational Chemistry on Superconducting Quantum Processors](https://arxiv.org/pdf/2105.07127v1)** | 2021-05-18 | <details><summary>12 pa...</summary><p>12 pages, 11 figures, to appear in ISCA 2021</p></details> |
-| **[Generative artificial intelligence for computational chemistry: a roadmap to predicting emergent phenomena](https://arxiv.org/pdf/2409.03118v1)** | 2024-09-06 |  |
-| **[ChemGraph: An Agentic Framework for Computational Chemistry Workflows](https://arxiv.org/pdf/2506.06363v1)** | 2025-06-11 |  |
-| **[Q# and NWChem: Tools for Scalable Quantum Chemistry on Quantum Computers](https://arxiv.org/pdf/1904.01131v1)** | 2019-05-03 | <details><summary>36 pa...</summary><p>36 pages, 5 figures. Examples and data in ancillary files folder</p></details> |
-| **[An Intermediate Level of Abstraction for Computational Systems Chemistry](https://arxiv.org/pdf/1701.09097v1)** | 2018-02-07 |  |
-| **[MLatom 3: Platform for machine learning-enhanced computational chemistry simulations and workflows](https://arxiv.org/pdf/2310.20155v1)** | 2024-02-05 |  |
-| **[COMET: A Domain-Specific Compilation of High-Performance Computational Chemistry](https://arxiv.org/pdf/2102.06827v1)** | 2022-01-02 | <details><summary>Proce...</summary><p>Proceeding of the 33rd the Workshop on Languages and Compilers for Parallel Computing (LCPC), October 2020</p></details> |
-| **[Towards the Practical Application of Near-Term Quantum Computers in Quantum Chemistry Simulations: A Problem Decomposition Approach](https://arxiv.org/pdf/1806.01305v1)** | 2018-06-06 |  |
-| **[Guiding Application Users via Estimation of Computational Resources for Massively Parallel Chemistry Computations](https://arxiv.org/pdf/2509.20667v1)** | 2025-09-26 |  |
-| **[Probabilistic performance estimators for computational chemistry methods: Systematic Improvement Probability and Ranking Probability Matrix. I. Theory](https://arxiv.org/pdf/2003.00987v4)** | 2020-09-29 |  |
-| **[Computational Chemistry on Quantum Computers](https://arxiv.org/pdf/1909.11146v1)** | 2019-09-26 | 10 pages, 4 figures |
-| **[Computer vision-based recognition of liquid surfaces and phase boundaries in transparent vessels, with emphasis on chemistry applications](https://arxiv.org/pdf/1404.7174v7)** | 2014-11-10 | <details><summary>Sourc...</summary><p>Source code for phase boundary and liquid surface recognition available at: http://www.mathworks.com/matlabcentral/fileexchange/46893-computer-vision-based-recognition-of-liquid-surface-and-liquid-level-of-liquid-of-transparent-vessel</p></details> |
+| **[Rethinking Science in the Age of Artificial Intelligence](https://arxiv.org/abs/2511.10524v1)** | 2025-11-13 |  |
+| **[ELECTRA: A Cartesian Network for 3D Charge Density Prediction with Floating Orbitals](https://arxiv.org/abs/2503.08305v3)** | 2025-11-12 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables</p></details> |
+| **[Path Signatures Enable Model-Free Mapping of RNA Modifications](https://arxiv.org/abs/2511.08855v1)** | 2025-11-12 |  |
+| **[SciAgent: A Unified Multi-Agent System for Generalistic Scientific Reasoning](https://arxiv.org/abs/2511.08151v1)** | 2025-11-11 | Technique Report |
+| **[Bridging the Plausibility-Validity Gap by Fine-Tuning a Reasoning-Enhanced LLM for Chemical Synthesis and Discovery](https://arxiv.org/abs/2507.07328v2)** | 2025-11-10 | <details><summary>8 pag...</summary><p>8 pages, 1 equation, 5 tables, to be published in IEEE MCSoC 2025, unabridged version exists as arXiv:2507.07328v1</p></details> |
+| **[Learning Biomolecular Motion: The Physics-Informed Machine Learning Paradigm](https://arxiv.org/abs/2511.06585v1)** | 2025-11-10 | <details><summary>31 pa...</summary><p>31 pages, 4 figures, 3 tables. Review article</p></details> |
+| **[Reaction Prediction via Interaction Modeling of Symmetric Difference Shingle Sets](https://arxiv.org/abs/2511.06356v1)** | 2025-11-09 |  |
+| **[Inverse Knowledge Search over Verifiable Reasoning: Synthesizing a Scientific Encyclopedia from a Long Chains-of-Thought Knowledge Base](https://arxiv.org/abs/2510.26854v2)** | 2025-11-07 | <details><summary>43 pa...</summary><p>43 pages, 4 figures. This work is part of the SciencePedia project (sciencepedia.bohrium.com)</p></details> |
+| **[SigmaDock: Untwisting Molecular Docking With Fragment-Based SE(3) Diffusion](https://arxiv.org/abs/2511.04854v1)** | 2025-11-06 | Preprint |
+| **[An MLCommons Scientific Benchmarks Ontology](https://arxiv.org/abs/2511.05614v1)** | 2025-11-06 | 16 Pages, 3 Figures |
+| **[BanglaSTEM: A Parallel Corpus for Technical Domain Bangla-English Translation](https://arxiv.org/abs/2511.03498v1)** | 2025-11-05 |  |
+| **[MadVoro: Parallel Construction of Voronoi Diagrams in Distributed Memory Systems](https://arxiv.org/abs/2502.14825v2)** | 2025-11-04 | <details><summary>Publi...</summary><p>Published in RASTI (RAS Techniques and Instruments) in September 2025</p></details> |
+| **[E2Former: An Efficient and Equivariant Transformer with Linear-Scaling Tensor Products](https://arxiv.org/abs/2501.19216v4)** | 2025-11-03 |  |
+| **[Neuromorphic Intelligence](https://arxiv.org/abs/2509.11940v4)** | 2025-11-02 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 3 boxes</p></details> |
+| **[A GPU-based Compressible Combustion Solver for Applications Exhibiting Disparate Space and Time Scales](https://arxiv.org/abs/2510.23993v2)** | 2025-10-31 | 32 pages, 12 figures |
 
