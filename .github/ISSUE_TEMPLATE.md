@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 15, 2025
+title: Latest 15 Papers - November 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GraphFaaS: Serverless GNN Inference for Burst-Resilient, Real-Time Intrusion Detection](https://arxiv.org/abs/2511.10554v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by ML For Systems workshop at Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[Temporal Zoom Networks: Distance Regression and Continuous Depth for Efficient Action Localization](https://arxiv.org/abs/2511.03943v3)** | 2025-11-13 |  |
-| **[Format Matters: The Robustness of Multimodal LLMs in Reviewing Evidence from Tables and Charts](https://arxiv.org/abs/2511.10075v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
-| **[Beyond Cosine Similarity Magnitude-Aware CLIP for No-Reference Image Quality Assessment](https://arxiv.org/abs/2511.09948v1)** | 2025-11-13 |  |
-| **[Mitigating Multimodal Hallucinations via Gradient-based Self-Reflection](https://arxiv.org/abs/2509.03113v3)** | 2025-11-13 |  |
-| **[Learning Intersections of Halfspaces under Factorizable Distribution](https://arxiv.org/abs/2511.09832v1)** | 2025-11-13 | <details><summary>Appea...</summary><p>Appeared at COLT 2025</p></details> |
-| **[Caption This, Reason That: VLMs Caught in the Middle](https://arxiv.org/abs/2505.21538v2)** | 2025-11-12 | <details><summary>Paper...</summary><p>Paper accepted by nips 2025</p></details> |
-| **[Self-Supervised Implicit Attention Priors for Point Cloud Reconstruction](https://arxiv.org/abs/2511.04864v2)** | 2025-11-12 | Accepted at 3DV 2026 |
-| **[Adjacent-view Transformers for Supervised Surround-view Depth Estimation](https://arxiv.org/abs/2303.07759v4)** | 2025-11-12 | <details><summary>This ...</summary><p>This paper has been accepted by IROS 2025</p></details> |
-| **[Differentially Private Rankings via Outranking Methods and Performance Data Aggregation](https://arxiv.org/abs/2511.09120v1)** | 2025-11-12 | <details><summary>Accep...</summary><p>Accepted and published in the USB Proceedings of the 22th International Conference on Modeling Decisions for Artificial Intelligence (MDAI 2025), Valencia, Spain, September 15--18, 2025, ISBN 978-91-531-0240-3, pp. 21--32</p></details> |
-| **[Unveiling Visual Perception in Language Models: An Attention Head Analysis Approach](https://arxiv.org/abs/2412.18108v2)** | 2025-11-11 |  |
-| **[An Information-Minimal Geometry for Qubit-Efficient Optimization](https://arxiv.org/abs/2511.08362v1)** | 2025-11-11 | 39 pages, 9 figures |
-| **[Non-Aligned Reference Image Quality Assessment for Novel View Synthesis](https://arxiv.org/abs/2511.08155v1)** | 2025-11-11 |  |
-| **[GMM with Many Weak Moment Conditions and Nuisance Parameters: General Theory and Applications to Causal Inference](https://arxiv.org/abs/2505.07295v3)** | 2025-11-10 |  |
-| **[Reference-Guided Verdict: LLMs-as-Judges in Automatic Evaluation of Free-Form QA](https://arxiv.org/abs/2408.09235v3)** | 2025-11-10 | <details><summary>Proce...</summary><p>Proceedings of the 9th Widening NLP Workshop</p></details> |
+| **[WER is Unaware: Assessing How ASR Errors Distort Clinical Understanding in Patient Facing Dialogue](https://arxiv.org/abs/2511.16544v1)** | 2025-11-20 |  |
+| **[Correlation-Aware Feature Attribution Based Explainable AI](https://arxiv.org/abs/2511.16482v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted, 2026 International Conference on Advances in Artificial Intelligence and Machine Learning (AAIML 2026)</p></details> |
+| **[Testing the spin-bath view of self-attention: A Hamiltonian analysis of GPT-2 Transformer](https://arxiv.org/abs/2507.00683v6)** | 2025-11-20 |  |
+| **[Pitch Estimation With Mean Averaging Smoothed Product Spectrum And Musical Consonance Evaluation Using MASP](https://arxiv.org/abs/2510.06625v2)** | 2025-11-20 |  |
+| **[CAIRe: Cultural Attribution of Images by Retrieval-Augmented Evaluation](https://arxiv.org/abs/2506.09109v2)** | 2025-11-19 | <details><summary>Prepr...</summary><p>Preprint, under review</p></details> |
+| **[FlashMesh: Faster and Better Autoregressive Mesh Synthesis via Structured Speculation](https://arxiv.org/abs/2511.15618v1)** | 2025-11-19 |  |
+| **[When to Think and When to Look: Uncertainty-Guided Lookback](https://arxiv.org/abs/2511.15613v1)** | 2025-11-19 |  |
+| **[Bias after Prompting: Persistent Discrimination in Large Language Models](https://arxiv.org/abs/2509.08146v2)** | 2025-11-19 |  |
+| **[Natural Selection via Foundation Models for Soft Robot Evolution](https://arxiv.org/abs/2503.02249v2)** | 2025-11-18 |  |
+| **[Fine-tuning Pre-trained Audio Models for COVID-19 Detection: A Technical Report](https://arxiv.org/abs/2511.14939v1)** | 2025-11-18 | 11 pages |
+| **[Towards Understanding 3D Vision: the Role of Gaussian Curvature](https://arxiv.org/abs/2508.11825v2)** | 2025-11-18 |  |
+| **[A Quantitative Method for Shoulder Presentation Evaluation in Biometric Identity Documents](https://arxiv.org/abs/2511.14376v1)** | 2025-11-18 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, conference or journal submission. Course project from DTU Compute, Technical University of Denmark</p></details> |
+| **[Listen Like a Teacher: Mitigating Whisper Hallucinations using Adaptive Layer Attention and Knowledge Distillation](https://arxiv.org/abs/2511.14219v1)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026 - Main Technical Track</p></details> |
+| **[Self-Organization of Attractor Landscapes in High-Capacity Kernel Logistic Regression Hopfield Networks](https://arxiv.org/abs/2511.13053v2)** | 2025-11-18 | 4 pages, 3 figures |
+| **[Automated glenoid bone loss measurement and segmentation in CT scans for pre-operative planning in shoulder instability](https://arxiv.org/abs/2511.14083v1)** | 2025-11-18 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pipelined Dense Symmetric Eigenvalue Decomposition on Multi-GPU Architectures](https://arxiv.org/abs/2511.16174v1)** | 2025-11-20 | <details><summary>11 pa...</summary><p>11 pages,16 figures. Our manuscript was submitted to the PPoPP'26 conference but was not accepted. The reviewers acknowledged it as a complete and solid piece of work; however, they noted that it lacks sufficient ablation studies</p></details> |
+| **[ATLAS: A High-Difficulty, Multidisciplinary Benchmark for Frontier Scientific Reasoning](https://arxiv.org/abs/2511.14366v2)** | 2025-11-20 | 39 pages |
+| **[SciAgent: A Unified Multi-Agent System for Generalistic Scientific Reasoning](https://arxiv.org/abs/2511.08151v2)** | 2025-11-17 | <details><summary>1. To...</summary><p>1. To ensure result rigor, the model outputs require further evaluation by human experts. 2. The results may affect our conclusions and methods, thus necessitating a more detailed review. 3. We anticipate subsequent revisions may be substantial, potentially involving major adjustments to the methodology. Given the uncertainty surrounding the revision process, we decide to request a withdrawal</p></details> |
+| **[ELECTRA: A Cartesian Network for 3D Charge Density Prediction with Floating Orbitals](https://arxiv.org/abs/2503.08305v4)** | 2025-11-15 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables</p></details> |
+| **[Chemistry-Enhanced Diffusion-Based Framework for Small-to-Large Molecular Conformation Generation](https://arxiv.org/abs/2511.12182v1)** | 2025-11-15 |  |
 | **[Rethinking Science in the Age of Artificial Intelligence](https://arxiv.org/abs/2511.10524v1)** | 2025-11-13 |  |
-| **[ELECTRA: A Cartesian Network for 3D Charge Density Prediction with Floating Orbitals](https://arxiv.org/abs/2503.08305v3)** | 2025-11-12 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables</p></details> |
+| **[Hybrid Quantum-Classical Machine Learning with PennyLane: A Comprehensive Guide for Computational Research](https://arxiv.org/abs/2511.14786v1)** | 2025-11-13 | 35 pages |
 | **[Path Signatures Enable Model-Free Mapping of RNA Modifications](https://arxiv.org/abs/2511.08855v1)** | 2025-11-12 |  |
-| **[SciAgent: A Unified Multi-Agent System for Generalistic Scientific Reasoning](https://arxiv.org/abs/2511.08151v1)** | 2025-11-11 | Technique Report |
 | **[Bridging the Plausibility-Validity Gap by Fine-Tuning a Reasoning-Enhanced LLM for Chemical Synthesis and Discovery](https://arxiv.org/abs/2507.07328v2)** | 2025-11-10 | <details><summary>8 pag...</summary><p>8 pages, 1 equation, 5 tables, to be published in IEEE MCSoC 2025, unabridged version exists as arXiv:2507.07328v1</p></details> |
 | **[Learning Biomolecular Motion: The Physics-Informed Machine Learning Paradigm](https://arxiv.org/abs/2511.06585v1)** | 2025-11-10 | <details><summary>31 pa...</summary><p>31 pages, 4 figures, 3 tables. Review article</p></details> |
-| **[Reaction Prediction via Interaction Modeling of Symmetric Difference Shingle Sets](https://arxiv.org/abs/2511.06356v1)** | 2025-11-09 |  |
 | **[Inverse Knowledge Search over Verifiable Reasoning: Synthesizing a Scientific Encyclopedia from a Long Chains-of-Thought Knowledge Base](https://arxiv.org/abs/2510.26854v2)** | 2025-11-07 | <details><summary>43 pa...</summary><p>43 pages, 4 figures. This work is part of the SciencePedia project (sciencepedia.bohrium.com)</p></details> |
 | **[SigmaDock: Untwisting Molecular Docking With Fragment-Based SE(3) Diffusion](https://arxiv.org/abs/2511.04854v1)** | 2025-11-06 | Preprint |
 | **[An MLCommons Scientific Benchmarks Ontology](https://arxiv.org/abs/2511.05614v1)** | 2025-11-06 | 16 Pages, 3 Figures |
 | **[BanglaSTEM: A Parallel Corpus for Technical Domain Bangla-English Translation](https://arxiv.org/abs/2511.03498v1)** | 2025-11-05 |  |
 | **[MadVoro: Parallel Construction of Voronoi Diagrams in Distributed Memory Systems](https://arxiv.org/abs/2502.14825v2)** | 2025-11-04 | <details><summary>Publi...</summary><p>Published in RASTI (RAS Techniques and Instruments) in September 2025</p></details> |
-| **[E2Former: An Efficient and Equivariant Transformer with Linear-Scaling Tensor Products](https://arxiv.org/abs/2501.19216v4)** | 2025-11-03 |  |
-| **[Neuromorphic Intelligence](https://arxiv.org/abs/2509.11940v4)** | 2025-11-02 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 3 boxes</p></details> |
-| **[A GPU-based Compressible Combustion Solver for Applications Exhibiting Disparate Space and Time Scales](https://arxiv.org/abs/2510.23993v2)** | 2025-10-31 | 32 pages, 12 figures |
 
