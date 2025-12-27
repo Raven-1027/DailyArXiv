@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 20, 2025
+title: Latest 15 Papers - December 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adversarial Training for Failure-Sensitive User Simulation in Mental Health Dialogue Optimization](https://arxiv.org/abs/2512.20773v1)** | 2025-12-23 |  |
+| **[REALM: A Real-to-Sim Validated Benchmark for Generalization in Robotic Manipulation](https://arxiv.org/abs/2512.19562v1)** | 2025-12-22 | 9 pages, 10 figures |
+| **[DeepGESI: A Non-Intrusive Objective Evaluation Model for Predicting Speech Intelligibility in Hearing-Impaired Listeners](https://arxiv.org/abs/2512.19374v1)** | 2025-12-22 |  |
+| **[Measuring Fine-Grained Negotiation Tactics of Humans and LLMs in Diplomacy](https://arxiv.org/abs/2512.18292v1)** | 2025-12-20 |  |
 | **[MAVIS: A Benchmark for Multimodal Source Attribution in Long-form Visual Question Answering](https://arxiv.org/abs/2511.12142v2)** | 2025-12-18 | <details><summary>AAAI ...</summary><p>AAAI 2026; code is available at https://github.com/seokwon99/MAVIS</p></details> |
 | **[TransUNet-GradCAM: A Hybrid Transformer-U-Net with Self-Attention and Explainable Visualizations for Foot Ulcer Segmentation](https://arxiv.org/abs/2508.03758v4)** | 2025-12-18 |  |
 | **[Eyes on the Grass: Biodiversity-Increasing Robotic Mowing Using Deep Visual Embeddings](https://arxiv.org/abs/2512.15993v1)** | 2025-12-17 |  |
@@ -18,10 +22,6 @@ labels: documentation
 | **[MindEval: Benchmarking Language Models on Multi-turn Mental Health Support](https://arxiv.org/abs/2511.18491v3)** | 2025-12-05 |  |
 | **[Can ChatGPT evaluate research environments? Evidence from REF2021](https://arxiv.org/abs/2512.05202v1)** | 2025-12-04 |  |
 | **[Fermionic neural Gibbs states](https://arxiv.org/abs/2512.04663v1)** | 2025-12-04 |  |
-| **[Magnetic Tactile-Driven Soft Actuator for Intelligent Grasping and Firmness Evaluation](https://arxiv.org/abs/2512.00907v2)** | 2025-12-02 | 25 pages, 24 figures |
-| **[Refining Genetic Discoveries of Group Knockoffs via A Feature-level Filter](https://arxiv.org/abs/2408.12618v3)** | 2025-12-02 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2401.08941</p></details> |
-| **[Benchmarking Scientific Understanding and Reasoning for Video Generation using VideoScience-Bench](https://arxiv.org/abs/2512.02942v1)** | 2025-12-02 |  |
-| **[PRIMU: Uncertainty Estimation for Novel Views in Gaussian Splatting from Primitive-Based Representations of Error and Coverage](https://arxiv.org/abs/2508.02443v2)** | 2025-12-02 | <details><summary>Revis...</summary><p>Revised writing and figures; additional Gaussian Splatting experiments; added baselines and datasets; active view-selection experiments</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
