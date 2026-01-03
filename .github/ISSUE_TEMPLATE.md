@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 27, 2025
+title: Latest 15 Papers - January 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Cosine Similarity Magnitude-Aware CLIP for No-Reference Image Quality Assessment](https://arxiv.org/abs/2511.09948v2)** | 2025-12-28 |  |
+| **[Exploring Layer-wise Information Effectiveness for Post-Training Quantization in Small Language Models](https://arxiv.org/abs/2508.03332v2)** | 2025-12-27 | low-bit quantization |
+| **[Random Subset Averaging](https://arxiv.org/abs/2512.22472v1)** | 2025-12-27 |  |
+| **[Computerized Assessment of Motor Imitation for Distinguishing Autism in Video (CAMI-2DNet)](https://arxiv.org/abs/2501.08609v2)** | 2025-12-26 | <details><summary>This ...</summary><p>This work has been accepted for publication in IEEE Transactions on Biomedical Engineering</p></details> |
+| **[Understanding Virality: A Rubric based Vision-Language Model Framework for Short-Form Edutainment Evaluation](https://arxiv.org/abs/2512.21402v1)** | 2025-12-24 | Under Review |
 | **[Adversarial Training for Failure-Sensitive User Simulation in Mental Health Dialogue Optimization](https://arxiv.org/abs/2512.20773v1)** | 2025-12-23 |  |
 | **[REALM: A Real-to-Sim Validated Benchmark for Generalization in Robotic Manipulation](https://arxiv.org/abs/2512.19562v1)** | 2025-12-22 | 9 pages, 10 figures |
 | **[DeepGESI: A Non-Intrusive Objective Evaluation Model for Predicting Speech Intelligibility in Hearing-Impaired Listeners](https://arxiv.org/abs/2512.19374v1)** | 2025-12-22 |  |
@@ -17,15 +22,11 @@ labels: documentation
 | **[Can GPT replace human raters? Validity and reliability of machine-generated norms for metaphors](https://arxiv.org/abs/2512.12444v1)** | 2025-12-13 | 30 pages, 5 figures |
 | **[Incorporating Interventional Independence Improves Robustness against Interventional Distribution Shift](https://arxiv.org/abs/2507.05412v3)** | 2025-12-13 | <details><summary>Trans...</summary><p>Transactions on Machine Learning Research (TMLR) 2025, camera-ready version</p></details> |
 | **[Smartphone monitoring of smiling as a behavioral proxy of well-being in everyday life](https://arxiv.org/abs/2512.11905v1)** | 2025-12-10 |  |
-| **[Robust brain age estimation from structural MRI with contrastive learning](https://arxiv.org/abs/2507.01794v2)** | 2025-12-06 | <details><summary>Updat...</summary><p>Update version (submitted to PRL); 8 pages</p></details> |
-| **[Beyond Citations: A Cross-Domain Metric for Dataset Impact and Shareability](https://arxiv.org/abs/2511.12966v2)** | 2025-12-06 |  |
-| **[MindEval: Benchmarking Language Models on Multi-turn Mental Health Support](https://arxiv.org/abs/2511.18491v3)** | 2025-12-05 |  |
-| **[Can ChatGPT evaluate research environments? Evidence from REF2021](https://arxiv.org/abs/2512.05202v1)** | 2025-12-04 |  |
-| **[Fermionic neural Gibbs states](https://arxiv.org/abs/2512.04663v1)** | 2025-12-04 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A large language model-type architecture for high-dimensional molecular potential energy surfaces](https://arxiv.org/abs/2412.03831v2)** | 2025-12-26 | 31 pages, 35 figures |
 | **[Shoot from the HIP: Hessian Interatomic Potentials without derivatives](https://arxiv.org/abs/2509.21624v2)** | 2025-12-14 | <details><summary>https...</summary><p>https://github.com/BurgerAndreas/hip</p></details> |
 | **[Unveiling Latent Knowledge in Chemistry Language Models through Sparse Autoencoders](https://arxiv.org/abs/2512.08077v1)** | 2025-12-08 |  |
 | **[Two-dimensional RMSD projections for reaction path visualization and validation](https://arxiv.org/abs/2512.07329v1)** | 2025-12-08 | 4 pages, 1 figure |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Superior Molecular Representations from Intermediate Encoder Layers](https://arxiv.org/abs/2506.06443v3)** | 2025-10-15 |  |
 | **[Adapting Quantum Machine Learning for Energy Dissociation of Bonds](https://arxiv.org/abs/2510.06563v1)** | 2025-10-08 |  |
 | **[QCBench: Evaluating Large Language Models on Domain-Specific Quantitative Chemistry](https://arxiv.org/abs/2508.01670v2)** | 2025-10-04 | <details><summary>Revis...</summary><p>Revision at Journal of Chemical Information and Modeling</p></details> |
-| **[Machine learning for accuracy in density functional approximations](https://arxiv.org/abs/2311.00196v2)** | 2025-10-02 |  |
 
