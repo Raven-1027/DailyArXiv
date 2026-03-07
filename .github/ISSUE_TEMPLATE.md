@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 28, 2026
+title: Latest 15 Papers - March 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Diffusion Probe: Generated Image Result Prediction Using CNN Probes](https://arxiv.org/abs/2602.23783v2)** | 2026-03-05 | CVPR 2026 |
+| **[Still Fresh? Evaluating Temporal Drift in Retrieval Benchmarks](https://arxiv.org/abs/2603.04532v1)** | 2026-03-04 |  |
+| **[Beyond Dominant Patches: Spatial Credit Redistribution For Grounded Vision-Language Models](https://arxiv.org/abs/2602.22469v2)** | 2026-03-04 |  |
+| **[Structure-Aware Distributed Backdoor Attacks in Federated Learning](https://arxiv.org/abs/2603.03865v1)** | 2026-03-04 | 17pages,12 figures |
+| **[Catch Me If You Can Describe Me: Open-Vocabulary Camouflaged Instance Segmentation with Diffusion](https://arxiv.org/abs/2312.17505v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted to IJCV 2026</p></details> |
+| **[Energy-Regularized Sequential Model Editing on Hyperspheres](https://arxiv.org/abs/2510.01172v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. The code is available at https://github.com/PlusLabNLP/SPHERE. Project page: https://www.qingyuanliu.net/sphere_projectpage/</p></details> |
+| **[SpinBench: Perspective and Rotation as a Lens on Spatial Reasoning in VLMs](https://arxiv.org/abs/2509.25390v2)** | 2026-02-28 | ICLR 2026 |
+| **[Decoupling Stability and Plasticity for Multi-Modal Test-Time Adaptation](https://arxiv.org/abs/2603.00574v1)** | 2026-02-28 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[Efficient Flow Matching for Sparse-View CT Reconstruction](https://arxiv.org/abs/2603.00205v1)** | 2026-02-27 |  |
 | **[Inferring Height from Earth Embeddings: First insights using Google AlphaEarth](https://arxiv.org/abs/2602.17250v1)** | 2026-02-19 | 29 pages, 9 figures |
 | **[BanglaSummEval: Reference-Free Factual Consistency Evaluation for Bangla Summarization](https://arxiv.org/abs/2602.16843v1)** | 2026-02-18 | <details><summary>Accep...</summary><p>Accepted in 2nd LoResLM at EACL 2026</p></details> |
 | **[DIAL: Direct Iterative Adversarial Learning for Realistic Multi-Turn Dialogue Simulation](https://arxiv.org/abs/2512.20773v3)** | 2026-02-18 |  |
 | **[Multilingual Routing in Mixture-of-Experts](https://arxiv.org/abs/2510.04694v2)** | 2026-02-17 | <details><summary>ICLR ...</summary><p>ICLR 2026, In The Fourteenth International Conference on Learning Representations, 2025</p></details> |
 | **[LuxMT Technical Report](https://arxiv.org/abs/2602.15506v1)** | 2026-02-17 | preprint |
 | **[Generalized Leverage Score for Scalable Assessment of Privacy Vulnerability](https://arxiv.org/abs/2602.15919v1)** | 2026-02-17 |  |
-| **[AbracADDbra: Touch-Guided Object Addition by Decoupling Placement and Editing Subtasks](https://arxiv.org/abs/2602.14237v1)** | 2026-02-15 | <details><summary>Accep...</summary><p>Accepted in IEEE ICASSP 2026</p></details> |
-| **[DiffusionRollout: Uncertainty-Aware Rollout Planning in Long-Horizon PDE Solving](https://arxiv.org/abs/2602.13616v1)** | 2026-02-14 | TMLR |
-| **[AmbiBench: Benchmarking Mobile GUI Agents Beyond One-Shot Instructions in the Wild](https://arxiv.org/abs/2602.11750v1)** | 2026-02-12 | 21 pages, 7 figures |
-| **[GameDevBench: Evaluating Agentic Capabilities Through Game Development](https://arxiv.org/abs/2602.11103v1)** | 2026-02-11 |  |
-| **[Where Do Images Come From? Analyzing Captions to Geographically Profile Datasets](https://arxiv.org/abs/2602.09775v1)** | 2026-02-10 | 41 pages, 20 figures |
-| **[Toward Ultra-Long-Horizon Sequential Model Editing](https://arxiv.org/abs/2602.02543v2)** | 2026-02-10 |  |
-| **[Scalable Delphi: Large Language Models for Structured Risk Estimation](https://arxiv.org/abs/2602.08889v1)** | 2026-02-09 |  |
-| **[Linearization Explains Fine-Tuning in Large Language Models](https://arxiv.org/abs/2602.08239v1)** | 2026-02-09 |  |
-| **[SRR-Judge: Step-Level Rating and Refinement for Enhancing Search-Integrated Reasoning in Search Agents](https://arxiv.org/abs/2602.07773v1)** | 2026-02-08 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
