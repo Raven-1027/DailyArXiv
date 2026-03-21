@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 14, 2026
+title: Latest 15 Papers - March 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unmasking Algorithmic Bias in Predictive Policing: A GAN-Based Simulation Framework with Multi-City Temporal Analysis](https://arxiv.org/abs/2603.18987v1)** | 2026-03-19 |  |
+| **[NV-Bench: Benchmark of Nonverbal Vocalization Synthesis for Expressive Text-to-Speech Generation](https://arxiv.org/abs/2603.15352v2)** | 2026-03-18 | <details><summary>Submi...</summary><p>Submit to Interspeech 2026</p></details> |
+| **[Deeper Thought, Weaker Aim: Understanding and Mitigating Perceptual Impairment during Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2603.14184v1)** | 2026-03-15 |  |
+| **[Bayesian Uncertainty-Aware MRI Reconstruction](https://arxiv.org/abs/2603.13439v1)** | 2026-03-13 |  |
+| **[Deep Learning Based Estimation of Blood Glucose Levels from Multidirectional Scleral Blood Vessel Imaging](https://arxiv.org/abs/2603.12715v1)** | 2026-03-13 |  |
 | **[Ill-Conditioning in Dictionary-Based Dynamic-Equation Learning: A Systems Biology Case Study](https://arxiv.org/abs/2603.11330v1)** | 2026-03-11 |  |
 | **[Beyond Relevance: On the Relationship Between Retrieval and RAG Information Coverage](https://arxiv.org/abs/2603.08819v2)** | 2026-03-11 | 11 pages |
 | **[A Regularized Ensemble Kalman Filter for Stochastic Phase Field Models of Brittle Fracture](https://arxiv.org/abs/2603.09728v1)** | 2026-03-10 |  |
@@ -17,11 +22,6 @@ labels: documentation
 | **[TransUNet-GradCAM: A Hybrid Transformer-U-Net with Self-Attention and Explainable Visualizations for Foot Ulcer Segmentation](https://arxiv.org/abs/2508.03758v5)** | 2026-03-08 |  |
 | **[Shortcut Invariance: Targeted Jacobian Regularization in Disentangled Latent Space](https://arxiv.org/abs/2511.19525v2)** | 2026-03-07 |  |
 | **[A Comprehensive Analysis of the Effects of Network Quality of Service on Robotic Telesurgery](https://arxiv.org/abs/2603.06824v1)** | 2026-03-06 | <details><summary>Perso...</summary><p>Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
-| **[Exploring Socially Assistive Peer Mediation Robots for Teaching Conflict Resolution to Elementary School Students](https://arxiv.org/abs/2603.06255v1)** | 2026-03-06 | <details><summary>Publi...</summary><p>Published in Proceedings of the AAAI Symposium Series (2025)</p></details> |
-| **[Making Reconstruction FID Predictive of Diffusion Generation FID](https://arxiv.org/abs/2603.05630v1)** | 2026-03-05 |  |
-| **[Diffusion Probe: Generated Image Result Prediction Using CNN Probes](https://arxiv.org/abs/2602.23783v2)** | 2026-03-05 | CVPR 2026 |
-| **[Still Fresh? Evaluating Temporal Drift in Retrieval Benchmarks](https://arxiv.org/abs/2603.04532v1)** | 2026-03-04 |  |
-| **[Beyond Dominant Patches: Spatial Credit Redistribution For Grounded Vision-Language Models](https://arxiv.org/abs/2602.22469v2)** | 2026-03-04 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
