@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 21, 2026
+title: Latest 15 Papers - March 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unmasking Algorithmic Bias in Predictive Policing: A GAN-Based Simulation Framework with Multi-City Temporal Analysis](https://arxiv.org/abs/2603.18987v1)** | 2026-03-19 |  |
+| **[The Limits of Inference Scaling Through Resampling](https://arxiv.org/abs/2411.17501v3)** | 2026-03-26 |  |
+| **[Diffusion Probe: Generated Image Result Prediction Using CNN Probes](https://arxiv.org/abs/2602.23783v4)** | 2026-03-26 | CVPR 2026 |
+| **[eBeeMetrics: An eBPF-based Library Framework for Feedback-free Observability of QoS Metrics](https://arxiv.org/abs/2603.25067v1)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted to ISPASS 2026; the first two authors contributed equally; 13 pages, 11 figures</p></details> |
+| **[Leveraging LLMs and Social Media to Understand User Perception of Smartphone-Based Earthquake Early Warnings](https://arxiv.org/abs/2603.23322v1)** | 2026-03-24 |  |
+| **[Multitask-Informed Prior for In-Context Learning on Tabular Data: Application to Steel Property Prediction](https://arxiv.org/abs/2603.22738v1)** | 2026-03-24 |  |
+| **[The Average Relative Entropy and Transpilation Depth determines the noise robustness in Variational Quantum Classifiers](https://arxiv.org/abs/2603.21300v1)** | 2026-03-22 | <details><summary>Varia...</summary><p>Variational Quantum Classifier, Quantum Machine Learning, Quantum Relative Entropy, Noise Resilient Quantum Circuits, Shallow Circuits</p></details> |
+| **[HERE: Hierarchical Active Exploration of Radiance Field with Epistemic Uncertainty Minimization](https://arxiv.org/abs/2601.07242v2)** | 2026-03-21 | <details><summary>Accep...</summary><p>Accepted to IEEE RA-L. The first two authors contributed equally</p></details> |
+| **[Unmasking Algorithmic Bias in Predictive Policing: A GAN-Based Simulation Framework with Multi-City Temporal Analysis](https://arxiv.org/abs/2603.18987v2)** | 2026-03-20 |  |
 | **[NV-Bench: Benchmark of Nonverbal Vocalization Synthesis for Expressive Text-to-Speech Generation](https://arxiv.org/abs/2603.15352v2)** | 2026-03-18 | <details><summary>Submi...</summary><p>Submit to Interspeech 2026</p></details> |
 | **[Deeper Thought, Weaker Aim: Understanding and Mitigating Perceptual Impairment during Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2603.14184v1)** | 2026-03-15 |  |
+| **[Efficient Embedding-based Synthetic Data Generation for Complex Reasoning Tasks](https://arxiv.org/abs/2603.22294v1)** | 2026-03-15 |  |
 | **[Bayesian Uncertainty-Aware MRI Reconstruction](https://arxiv.org/abs/2603.13439v1)** | 2026-03-13 |  |
 | **[Deep Learning Based Estimation of Blood Glucose Levels from Multidirectional Scleral Blood Vessel Imaging](https://arxiv.org/abs/2603.12715v1)** | 2026-03-13 |  |
 | **[Ill-Conditioning in Dictionary-Based Dynamic-Equation Learning: A Systems Biology Case Study](https://arxiv.org/abs/2603.11330v1)** | 2026-03-11 |  |
 | **[Beyond Relevance: On the Relationship Between Retrieval and RAG Information Coverage](https://arxiv.org/abs/2603.08819v2)** | 2026-03-11 | 11 pages |
-| **[A Regularized Ensemble Kalman Filter for Stochastic Phase Field Models of Brittle Fracture](https://arxiv.org/abs/2603.09728v1)** | 2026-03-10 |  |
-| **[A Multi-Objective Optimization Approach for Sustainable AI-Driven Entrepreneurship in Resilient Economies](https://arxiv.org/abs/2603.08692v1)** | 2026-03-09 | 35 Pages, |
-| **[Interactive World Simulator for Robot Policy Training and Evaluation](https://arxiv.org/abs/2603.08546v1)** | 2026-03-09 | <details><summary>Proje...</summary><p>Project Page: https://yixuanwang.me/interactive_world_sim</p></details> |
-| **[Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms](https://arxiv.org/abs/2504.08804v2)** | 2026-03-09 |  |
-| **[KrishokBondhu: A Retrieval-Augmented Voice-Based Agricultural Advisory Call Center for Bengali Farmers](https://arxiv.org/abs/2510.18355v2)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence and Networking (QPAIN 2026)</p></details> |
-| **[TransUNet-GradCAM: A Hybrid Transformer-U-Net with Self-Attention and Explainable Visualizations for Foot Ulcer Segmentation](https://arxiv.org/abs/2508.03758v5)** | 2026-03-08 |  |
-| **[Shortcut Invariance: Targeted Jacobian Regularization in Disentangled Latent Space](https://arxiv.org/abs/2511.19525v2)** | 2026-03-07 |  |
-| **[A Comprehensive Analysis of the Effects of Network Quality of Service on Robotic Telesurgery](https://arxiv.org/abs/2603.06824v1)** | 2026-03-06 | <details><summary>Perso...</summary><p>Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
