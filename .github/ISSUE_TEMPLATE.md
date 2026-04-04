@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 28, 2026
+title: Latest 15 Papers - April 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[No Free Labels: Limitations of LLM-as-a-Judge Without Human Grounding](https://arxiv.org/abs/2503.05061v2)** | 2026-04-01 |  |
+| **[Processing and acquisition traces in visual encoders: What does CLIP know about your camera?](https://arxiv.org/abs/2508.10637v2)** | 2026-04-01 | <details><summary>8 mai...</summary><p>8 main pages, supplementary attached, ICCV 2025 highlight</p></details> |
+| **[Vocal Prognostic Digital Biomarkers in Monitoring Chronic Heart Failure: A Longitudinal Observational Study](https://arxiv.org/abs/2604.00308v1)** | 2026-03-31 |  |
+| **[Trinity of Varentropy: Finiteness, Fluctuations, and Stability in Power-Law Statistics](https://arxiv.org/abs/2603.27997v1)** | 2026-03-30 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, Submitted for publication</p></details> |
 | **[The Limits of Inference Scaling Through Resampling](https://arxiv.org/abs/2411.17501v3)** | 2026-03-26 |  |
 | **[Diffusion Probe: Generated Image Result Prediction Using CNN Probes](https://arxiv.org/abs/2602.23783v4)** | 2026-03-26 | CVPR 2026 |
 | **[eBeeMetrics: An eBPF-based Library Framework for Feedback-free Observability of QoS Metrics](https://arxiv.org/abs/2603.25067v1)** | 2026-03-26 | <details><summary>Accep...</summary><p>Accepted to ISPASS 2026; the first two authors contributed equally; 13 pages, 11 figures</p></details> |
@@ -18,10 +22,6 @@ labels: documentation
 | **[NV-Bench: Benchmark of Nonverbal Vocalization Synthesis for Expressive Text-to-Speech Generation](https://arxiv.org/abs/2603.15352v2)** | 2026-03-18 | <details><summary>Submi...</summary><p>Submit to Interspeech 2026</p></details> |
 | **[Deeper Thought, Weaker Aim: Understanding and Mitigating Perceptual Impairment during Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2603.14184v1)** | 2026-03-15 |  |
 | **[Efficient Embedding-based Synthetic Data Generation for Complex Reasoning Tasks](https://arxiv.org/abs/2603.22294v1)** | 2026-03-15 |  |
-| **[Bayesian Uncertainty-Aware MRI Reconstruction](https://arxiv.org/abs/2603.13439v1)** | 2026-03-13 |  |
-| **[Deep Learning Based Estimation of Blood Glucose Levels from Multidirectional Scleral Blood Vessel Imaging](https://arxiv.org/abs/2603.12715v1)** | 2026-03-13 |  |
-| **[Ill-Conditioning in Dictionary-Based Dynamic-Equation Learning: A Systems Biology Case Study](https://arxiv.org/abs/2603.11330v1)** | 2026-03-11 |  |
-| **[Beyond Relevance: On the Relationship Between Retrieval and RAG Information Coverage](https://arxiv.org/abs/2603.08819v2)** | 2026-03-11 | 11 pages |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
