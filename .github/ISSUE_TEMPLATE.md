@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 02, 2026
+title: Latest 15 Papers - May 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,14 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Toward Visually Realistic Simulation: A Benchmark for Evaluating Robot Manipulation in Simulation](https://arxiv.org/abs/2605.06311v1)** | 2026-05-07 |  |
+| **[Making Reconstruction FID Predictive of Diffusion Generation FID](https://arxiv.org/abs/2603.05630v2)** | 2026-05-07 |  |
+| **[DIAL: Direct Iterative Adversarial Learning for Realistic Multi-Turn Dialogue Simulation](https://arxiv.org/abs/2512.20773v4)** | 2026-05-06 |  |
+| **[DiffCap-Bench: A Comprehensive, Challenging, Robust Benchmark for Image Difference Captioning](https://arxiv.org/abs/2605.04503v1)** | 2026-05-06 |  |
+| **[StableI2I: Spotting Unintended Changes in Image-to-Image Transition](https://arxiv.org/abs/2605.04453v1)** | 2026-05-06 |  |
+| **[Correlates of Image Memorability in Vision Encoders: Activations, Attention Entropy, Patch Uniformity and Autoencoder Losses](https://arxiv.org/abs/2509.01453v2)** | 2026-05-04 | <details><summary>Accep...</summary><p>Accepted to CogSci 2026 - The 48th Annual Meeting of the Cognitive Science Society</p></details> |
+| **[SteeringDiffusion: A Bottlenecked Activation Control Interface for Diffusion Models](https://arxiv.org/abs/2605.01653v1)** | 2026-05-03 |  |
+| **[Sequential Automorphism Ensemble Decoding with Early Stopping](https://arxiv.org/abs/2605.00255v1)** | 2026-04-30 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, 1 table, submitted to IEEE Communications Letters</p></details> |
 | **[Fast Geometric Embedding for Node Influence Maximization](https://arxiv.org/abs/2506.07435v3)** | 2026-04-28 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 18 tables; Github repository available (https://github.com/sashakolpakov/graphem/); Package available on PyPi (https://pypi.org/project/graphem-jax/)</p></details> |
 | **[Monitoring exposure-length variations in submarine power cables using distributed fiber-optic sensing](https://arxiv.org/abs/2604.24880v1)** | 2026-04-27 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, accepted in the IOP Journal of Physics: Conference Series, and presented in WindEurope Annual Event 2026</p></details> |
 | **[XGRAG: A Graph-Native Framework for Explaining KG-based Retrieval-Augmented Generation](https://arxiv.org/abs/2604.24623v1)** | 2026-04-27 |  |
@@ -14,14 +22,6 @@ labels: documentation
 | **[FETS Benchmark: Foundation Models Outperform Dataset-specific Machine Learning in Energy Time Series Forecasting](https://arxiv.org/abs/2604.22328v1)** | 2026-04-24 |  |
 | **[LatRef-Diff: Latent and Reference-Guided Diffusion for Facial Attribute Editing and Style Manipulation](https://arxiv.org/abs/2604.21279v1)** | 2026-04-23 |  |
 | **[Comparing energy consumption and accuracy in text classification inference](https://arxiv.org/abs/2508.14170v2)** | 2026-04-21 | <details><summary>Key r...</summary><p>Key results in Figure 2, accepted in Nature Sci Rep, 32 pages</p></details> |
-| **[TextTIGER: Text-based Intelligent Generation with Entity Prompt Refinement for Text-to-Image Generation](https://arxiv.org/abs/2504.18269v2)** | 2026-04-18 | Under review |
-| **[DiZiNER: Disagreement-guided Instruction Refinement via Pilot Annotation Simulation for Zero-shot Named Entity Recognition](https://arxiv.org/abs/2604.15866v1)** | 2026-04-17 | <details><summary>9 pag...</summary><p>9 pages, 3 figures; Accepted to the ACL 2026 Main Conference</p></details> |
-| **[Self-Distillation as a Performance Recovery Mechanism for LLMs: Counteracting Compression and Catastrophic Forgetting](https://arxiv.org/abs/2604.15794v1)** | 2026-04-17 | 14 pages, 8 figures |
-| **[Bilevel Late Acceptance Hill Climbing for the Electric Capacitated Vehicle Routing Problem](https://arxiv.org/abs/2604.13013v1)** | 2026-04-14 |  |
-| **[Beyond Relevance: On the Relationship Between Retrieval and RAG Information Coverage](https://arxiv.org/abs/2603.08819v3)** | 2026-04-14 | 11 pages |
-| **[TokUR: Token-Level Uncertainty Estimation for Large Language Model Reasoning](https://arxiv.org/abs/2505.11737v4)** | 2026-04-11 | <details><summary>Accep...</summary><p>Accepted to International Conference on Learning Representations (ICLR) 2026</p></details> |
-| **[Information-Theoretic Requirements for Gradient-Based Task Affinity Estimation in Multi-Task Learning](https://arxiv.org/abs/2604.07848v1)** | 2026-04-09 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Accepted at workshop on AI for Accelerated Materials Design, Foundation Models for Science: Real-World Impact and Science-First Design, and Generative and Experimental Perspectives for Biomolecular Design at ICLR 2026</p></details> |
-| **[ELC: Evidential Lifelong Classifier for Uncertainty Aware Radar Pulse Classification](https://arxiv.org/abs/2604.06958v1)** | 2026-04-08 | <details><summary>IEEE ...</summary><p>IEEE RadarConf'26 Submission. 6 pages; 3 figures; 1 table</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
