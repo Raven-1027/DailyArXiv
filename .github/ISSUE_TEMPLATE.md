@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 20, 2026
+title: Latest 15 Papers - June 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Effective Covariance Dynamics in Solvable High-Dimensional GANs](https://arxiv.org/abs/2606.27246v1)** | 2026-06-25 |  |
+| **[DiffusionBench: On Holistic Evaluation of Diffusion Transformers](https://arxiv.org/abs/2606.24888v1)** | 2026-06-23 |  |
+| **[Reinforcement Learning to Disentangle Multiqubit Quantum States from Partial Observations](https://arxiv.org/abs/2406.07884v3)** | 2026-06-23 | <details><summary>The s...</summary><p>The source code as well as a demo in the form of an interactive Jupyter notebook are available on Github: https://github.com/mgbukov/RL_disentangle</p></details> |
+| **[Expert Preference-based Evaluation of Automated Related Work Generation](https://arxiv.org/abs/2508.07955v3)** | 2026-06-22 | <details><summary>Proje...</summary><p>Project page: https://ukplab.github.io/arxiv2025-expert-eval-rw/</p></details> |
+| **[Full-Body Golf Swing Kinematic Reconstruction From a Smartwatch IMU](https://arxiv.org/abs/2606.22876v1)** | 2026-06-22 |  |
+| **[The Chameleon Nature of LLMs: Quantifying Multi-Turn Stance Instability in Search-Enabled Language Models](https://arxiv.org/abs/2510.16712v3)** | 2026-06-21 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: MTI-LLM @ NeurIPS 2025</p></details> |
+| **[Trustworthy MRI Reconstruction via Bayesian Uncertainty Quantification with Sparsity Prior Models](https://arxiv.org/abs/2606.17343v2)** | 2026-06-21 |  |
+| **[Beyond Relevance: On the Relationship Between Retrieval and RAG Information Coverage](https://arxiv.org/abs/2603.08819v4)** | 2026-06-20 | 12 pages, ICTIR 2026 |
+| **[CapRiCorn-1K: A Comprehensive Benchmark for Video Captioning and Subject Referential Consistency Across Temporal Scales](https://arxiv.org/abs/2606.21949v1)** | 2026-06-20 |  |
+| **[UniRank: Unified Rank Allocation for Low-Rank LLM Compression](https://arxiv.org/abs/2606.21847v1)** | 2026-06-20 |  |
 | **[Self-attention-based non-linear basis transformations for compact latent space modelling of dynamic optical fibre transmission matrices](https://arxiv.org/abs/2406.07775v3)** | 2026-06-18 |  |
 | **[Blame is easier than praise: Measuring off-ball defensive performance in football](https://arxiv.org/abs/2606.19931v1)** | 2026-06-18 |  |
 | **[Be Your Own Teacher: Steering Protein Language Models via Unsupervised Reward Optimization](https://arxiv.org/abs/2606.18961v1)** | 2026-06-17 | <details><summary>24 pa...</summary><p>24 pages, 2 figures, 13 tables</p></details> |
 | **[Communication-Efficient Distributed Training for Collaborative Flat Optima Recovery in Deep Learning](https://arxiv.org/abs/2507.20424v3)** | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted to UAI 2026 - 9 pages main body, 33 pages of supplementary material for hyperparameter configurations, full proofs of theorems and additional results</p></details> |
 | **[Discriminative Span as a Predictor of Synthetic Data Utility via Classifier Reconstruction](https://arxiv.org/abs/2605.09697v3)** | 2026-06-14 |  |
-| **[A Spatio-Temporal Expert Prefetching Framework for Efficient MoE-based LLM Inference](https://arxiv.org/abs/2606.15453v1)** | 2026-06-13 |  |
-| **[Evaluating and Preserving Lexical Stress in English-to-Chinese Speech-to-Speech Translation](https://arxiv.org/abs/2606.15266v1)** | 2026-06-13 | <details><summary>Accep...</summary><p>Accepted to Interspeech 2026</p></details> |
-| **[Building Customer Support AI Agents at 100M-User Scale: An Evaluation-Driven Framework](https://arxiv.org/abs/2606.08867v2)** | 2026-06-13 | <details><summary>12 pa...</summary><p>12 pages. Accepted to KDD '26 (32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining)</p></details> |
-| **[BOUTEF: A Multilingual Corpus for FakeNews in North Africa -- Language as a Weapon](https://arxiv.org/abs/2606.00193v2)** | 2026-06-11 |  |
-| **[FOCUS: DLLMs Know How to Tame Their Compute Bound](https://arxiv.org/abs/2601.23278v2)** | 2026-06-10 | <details><summary>ICML ...</summary><p>ICML 2026 camera-ready version</p></details> |
-| **[SDQM: Synthetic Data Quality Metric for Object Detection Dataset Evaluation](https://arxiv.org/abs/2510.06596v2)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted and Published at SPIE: Journal of Electronic Imaging, Vol. 35, Issue 3</p></details> |
-| **[SpineReport: Automated 3D Quantification and Reporting of Lumbar Spine Degeneration on MRI](https://arxiv.org/abs/2606.10021v1)** | 2026-06-08 | <details><summary>Submi...</summary><p>Submitted to Medical Image Analysis</p></details> |
-| **[Are Classification Robustness and Explanation Robustness Really Strongly Correlated? An Analysis Through Input Loss Landscape](https://arxiv.org/abs/2403.06013v2)** | 2026-06-08 |  |
-| **[Information-Theoretic Requirements for Gradient-Based Task Affinity Estimation in Multi-Task Learning](https://arxiv.org/abs/2604.07848v2)** | 2026-06-07 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. ACM BCB 2026 Short Paper. Accepted at workshop on AI for Accelerated Materials Design, Foundation Models for Science: Real-World Impact and Science-First Design, and Generative and Experimental Perspectives for Biomolecular Design at ICLR 2026</p></details> |
-| **[Fourier fractal dimension to predict the generalization of deep neural networks](https://arxiv.org/abs/2606.08308v1)** | 2026-06-06 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
