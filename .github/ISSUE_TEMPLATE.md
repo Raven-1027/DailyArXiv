@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 04, 2026
+title: Latest 15 Papers - July 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Nowcasting PM2.5 in Beijing Using Synchronous Covariates and Lagged Features: Model Comparison and Variable Selection Stability](https://arxiv.org/abs/2607.07279v1)** | 2026-07-08 |  |
+| **[Efficient Flow Matching for Sparse-View CT Reconstruction](https://arxiv.org/abs/2603.00205v2)** | 2026-07-06 |  |
+| **[RoboVista: Evaluating Vision Language Models for Diverse Robot Applications](https://arxiv.org/abs/2607.04610v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted to RSS 2026. Project website: https://berkeleyautomation.github.io/robovista/</p></details> |
+| **[Random Subset Averaging](https://arxiv.org/abs/2512.22472v2)** | 2026-07-04 |  |
+| **[Graph Classification via Network Usable Information: From Representation Evaluation to Structure Selection](https://arxiv.org/abs/2607.03587v1)** | 2026-07-03 | 7 PAGES |
 | **[GameDevBench: Evaluating Agentic Capabilities Through Game Development](https://arxiv.org/abs/2602.11103v2)** | 2026-06-30 |  |
 | **[Quantitative Movement Testing: Measuring Chronic Pain Patient Movements from a Single Smartphone Video](https://arxiv.org/abs/2606.02301v2)** | 2026-06-30 |  |
 | **[Hierarchical Clustering As a Novel Solution to the Notorious Multicollinearity Problem in Observational Causal Inference](https://arxiv.org/abs/2606.30992v1)** | 2026-06-30 | <details><summary>Prese...</summary><p>Presented at the KDD 2023 Workshop on Causal Inference and Machine Learning in Practice, Long Beach, CA; also presented at the 2023 Joint Statistical Meetings</p></details> |
@@ -17,11 +22,6 @@ labels: documentation
 | **[Effective Covariance Dynamics in Solvable High-Dimensional GANs](https://arxiv.org/abs/2606.27246v1)** | 2026-06-25 |  |
 | **[DiffusionBench: On Holistic Evaluation of Diffusion Transformers](https://arxiv.org/abs/2606.24888v1)** | 2026-06-23 |  |
 | **[Reinforcement Learning to Disentangle Multiqubit Quantum States from Partial Observations](https://arxiv.org/abs/2406.07884v3)** | 2026-06-23 | <details><summary>The s...</summary><p>The source code as well as a demo in the form of an interactive Jupyter notebook are available on Github: https://github.com/mgbukov/RL_disentangle</p></details> |
-| **[Expert Preference-based Evaluation of Automated Related Work Generation](https://arxiv.org/abs/2508.07955v3)** | 2026-06-22 | <details><summary>Proje...</summary><p>Project page: https://ukplab.github.io/arxiv2025-expert-eval-rw/</p></details> |
-| **[Full-Body Golf Swing Kinematic Reconstruction From a Smartwatch IMU](https://arxiv.org/abs/2606.22876v1)** | 2026-06-22 |  |
-| **[The Chameleon Nature of LLMs: Quantifying Multi-Turn Stance Instability in Search-Enabled Language Models](https://arxiv.org/abs/2510.16712v3)** | 2026-06-21 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: MTI-LLM @ NeurIPS 2025</p></details> |
-| **[Trustworthy MRI Reconstruction via Bayesian Uncertainty Quantification with Sparsity Prior Models](https://arxiv.org/abs/2606.17343v2)** | 2026-06-21 |  |
-| **[Beyond Relevance: On the Relationship Between Retrieval and RAG Information Coverage](https://arxiv.org/abs/2603.08819v4)** | 2026-06-20 | 12 pages, ICTIR 2026 |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
