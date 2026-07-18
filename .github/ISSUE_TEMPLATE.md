@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 11, 2026
+title: Latest 15 Papers - July 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Genre Bias or Aesthetic Perception? Identifying and Mitigating Shortcut Learning in Music Evaluation](https://arxiv.org/abs/2607.13903v1)** | 2026-07-15 | Accept by ISMIR 2026 |
+| **[DynaFilter: Cloud-driven Dynamic Filtering for Satellite Edge Intelligence](https://arxiv.org/abs/2607.10098v1)** | 2026-07-11 | <details><summary>15 pa...</summary><p>15 pages, 23 figures, accepted by ACM MobiCom 2026</p></details> |
+| **[Graph-Regularized Low-Rank Matrix Completion by Variable Projection](https://arxiv.org/abs/2607.09546v1)** | 2026-07-10 |  |
 | **[Nowcasting PM2.5 in Beijing Using Synchronous Covariates and Lagged Features: Model Comparison and Variable Selection Stability](https://arxiv.org/abs/2607.07279v1)** | 2026-07-08 |  |
 | **[Efficient Flow Matching for Sparse-View CT Reconstruction](https://arxiv.org/abs/2603.00205v2)** | 2026-07-06 |  |
 | **[RoboVista: Evaluating Vision Language Models for Diverse Robot Applications](https://arxiv.org/abs/2607.04610v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted to RSS 2026. Project website: https://berkeleyautomation.github.io/robovista/</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Predicting Timbre Traits for Interpretable Assessment of Musical Sound Synthesizers](https://arxiv.org/abs/2606.30369v1)** | 2026-06-29 |  |
 | **[spca: An R package to Compute Least Squares Sparse Principal Components](https://arxiv.org/abs/2606.29104v1)** | 2026-06-27 | <details><summary>Prepr...</summary><p>Preprint. 20 tables and 6 figures</p></details> |
 | **[BackTranslation2.0 -- A Linguistically Motivated Metric to Assess Sign Language Production](https://arxiv.org/abs/2606.28673v1)** | 2026-06-27 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
-| **[Effective Covariance Dynamics in Solvable High-Dimensional GANs](https://arxiv.org/abs/2606.27246v1)** | 2026-06-25 |  |
-| **[DiffusionBench: On Holistic Evaluation of Diffusion Transformers](https://arxiv.org/abs/2606.24888v1)** | 2026-06-23 |  |
-| **[Reinforcement Learning to Disentangle Multiqubit Quantum States from Partial Observations](https://arxiv.org/abs/2406.07884v3)** | 2026-06-23 | <details><summary>The s...</summary><p>The source code as well as a demo in the form of an interactive Jupyter notebook are available on Github: https://github.com/mgbukov/RL_disentangle</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
