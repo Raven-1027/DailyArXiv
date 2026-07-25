@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 18, 2026
+title: Latest 15 Papers - July 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Position: The Inevitable Transition to Machine Learning in Quantum Chemistry](https://arxiv.org/abs/2607.18281v2)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted as a position paper at ICML 2026. OpenReview forum: https://openreview.net/forum?id=Mq1oTEIwp4</p></details> |
+| **[Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots](https://arxiv.org/abs/2507.17049v3)** | 2026-07-21 |  |
+| **[Prismatic Synthesis: Gradient-based Data Diversification Boosts Generalization in LLM Reasoning](https://arxiv.org/abs/2505.20161v2)** | 2026-07-19 |  |
+| **[Value-Monotonicity Matters: A Concordance Loss for Deep Survival Prediction](https://arxiv.org/abs/2607.16802v1)** | 2026-07-18 |  |
+| **[FETS Benchmark: Foundation Models Enable Scalable and Generalizable Energy Time Series Forecasting](https://arxiv.org/abs/2604.22328v2)** | 2026-07-17 |  |
 | **[Genre Bias or Aesthetic Perception? Identifying and Mitigating Shortcut Learning in Music Evaluation](https://arxiv.org/abs/2607.13903v1)** | 2026-07-15 | Accept by ISMIR 2026 |
 | **[DynaFilter: Cloud-driven Dynamic Filtering for Satellite Edge Intelligence](https://arxiv.org/abs/2607.10098v1)** | 2026-07-11 | <details><summary>15 pa...</summary><p>15 pages, 23 figures, accepted by ACM MobiCom 2026</p></details> |
 | **[Graph-Regularized Low-Rank Matrix Completion by Variable Projection](https://arxiv.org/abs/2607.09546v1)** | 2026-07-10 |  |
@@ -17,15 +22,11 @@ labels: documentation
 | **[Graph Classification via Network Usable Information: From Representation Evaluation to Structure Selection](https://arxiv.org/abs/2607.03587v1)** | 2026-07-03 | 7 PAGES |
 | **[GameDevBench: Evaluating Agentic Capabilities Through Game Development](https://arxiv.org/abs/2602.11103v2)** | 2026-06-30 |  |
 | **[Quantitative Movement Testing: Measuring Chronic Pain Patient Movements from a Single Smartphone Video](https://arxiv.org/abs/2606.02301v2)** | 2026-06-30 |  |
-| **[Hierarchical Clustering As a Novel Solution to the Notorious Multicollinearity Problem in Observational Causal Inference](https://arxiv.org/abs/2606.30992v1)** | 2026-06-30 | <details><summary>Prese...</summary><p>Presented at the KDD 2023 Workshop on Causal Inference and Machine Learning in Practice, Long Beach, CA; also presented at the 2023 Joint Statistical Meetings</p></details> |
-| **[Shape optimization of pneumatic soft actuators](https://arxiv.org/abs/2606.30800v1)** | 2026-06-29 |  |
-| **[Predicting Timbre Traits for Interpretable Assessment of Musical Sound Synthesizers](https://arxiv.org/abs/2606.30369v1)** | 2026-06-29 |  |
-| **[spca: An R package to Compute Least Squares Sparse Principal Components](https://arxiv.org/abs/2606.29104v1)** | 2026-06-27 | <details><summary>Prepr...</summary><p>Preprint. 20 tables and 6 figures</p></details> |
-| **[BackTranslation2.0 -- A Linguistically Motivated Metric to Assess Sign Language Production](https://arxiv.org/abs/2606.28673v1)** | 2026-06-27 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MOF-Sleuth: Tool-Grounded Reward Alignment for Explainable Fine-Grained MOF CIF Auditing](https://arxiv.org/abs/2607.19935v1)** | 2026-07-22 |  |
 | **[Shoot from the HIP: Hessian Interatomic Potentials without derivatives](https://arxiv.org/abs/2509.21624v3)** | 2026-06-27 | <details><summary>https...</summary><p>https://github.com/BurgerAndreas/hip</p></details> |
 | **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v3)** | 2026-06-08 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
 | **[SC3: The Multi-Solvent Solubility Challenge and Benchmark](https://arxiv.org/abs/2606.07656v1)** | 2026-06-03 | <details><summary>34 pa...</summary><p>34 pages, 16 tables, 22 figures</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Accurate and scalable exchange-correlation with deep learning](https://arxiv.org/abs/2506.14665v6)** | 2026-04-21 | <details><summary>The S...</summary><p>The Skala model and inference code are available under MIT license at https://github.com/microsoft/skala</p></details> |
 | **[OXtal: An All-Atom Diffusion Model for Organic Crystal Structure Prediction](https://arxiv.org/abs/2512.06987v3)** | 2026-04-20 |  |
 | **[Multiconfiguration Pair-Density Functional Theory Calculations of Low-lying States of Complex Chemical Systems with Quantum Computers](https://arxiv.org/abs/2602.10435v2)** | 2026-04-19 |  |
-| **[El Agente Quntur: A research collaborator agent for quantum chemistry](https://arxiv.org/abs/2602.04850v2)** | 2026-04-14 |  |
 
