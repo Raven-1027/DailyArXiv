@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 25, 2026
+title: Latest 15 Papers - August 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers](https://arxiv.org/abs/2607.28589v1)** | 2026-07-30 |  |
+| **[In-Context Learning as Implicit Policy Gradient](https://arxiv.org/abs/2607.23153v1)** | 2026-07-25 | COLM 2026 |
 | **[Position: The Inevitable Transition to Machine Learning in Quantum Chemistry](https://arxiv.org/abs/2607.18281v2)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted as a position paper at ICML 2026. OpenReview forum: https://openreview.net/forum?id=Mq1oTEIwp4</p></details> |
 | **[Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots](https://arxiv.org/abs/2507.17049v3)** | 2026-07-21 |  |
 | **[Prismatic Synthesis: Gradient-based Data Diversification Boosts Generalization in LLM Reasoning](https://arxiv.org/abs/2505.20161v2)** | 2026-07-19 |  |
@@ -20,12 +22,12 @@ labels: documentation
 | **[RoboVista: Evaluating Vision Language Models for Diverse Robot Applications](https://arxiv.org/abs/2607.04610v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted to RSS 2026. Project website: https://berkeleyautomation.github.io/robovista/</p></details> |
 | **[Random Subset Averaging](https://arxiv.org/abs/2512.22472v2)** | 2026-07-04 |  |
 | **[Graph Classification via Network Usable Information: From Representation Evaluation to Structure Selection](https://arxiv.org/abs/2607.03587v1)** | 2026-07-03 | 7 PAGES |
-| **[GameDevBench: Evaluating Agentic Capabilities Through Game Development](https://arxiv.org/abs/2602.11103v2)** | 2026-06-30 |  |
-| **[Quantitative Movement Testing: Measuring Chronic Pain Patient Movements from a Single Smartphone Video](https://arxiv.org/abs/2606.02301v2)** | 2026-06-30 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Chem World: A Large-Scale Benchmark and Physics-Informed Framework for Trustworthy Chemical Property Prediction](https://arxiv.org/abs/2607.28079v1)** | 2026-07-30 |  |
+| **[Learning to Prepare Molecular Ground States with Transformer Models](https://arxiv.org/abs/2607.22468v1)** | 2026-07-24 |  |
 | **[MOF-Sleuth: Tool-Grounded Reward Alignment for Explainable Fine-Grained MOF CIF Auditing](https://arxiv.org/abs/2607.19935v1)** | 2026-07-22 |  |
 | **[Shoot from the HIP: Hessian Interatomic Potentials without derivatives](https://arxiv.org/abs/2509.21624v3)** | 2026-06-27 | <details><summary>https...</summary><p>https://github.com/BurgerAndreas/hip</p></details> |
 | **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v3)** | 2026-06-08 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Don't Get Your Kroneckers in a Twist: Gaussian Processes on High-Dimensional Incomplete Grids](https://arxiv.org/abs/2605.08036v1)** | 2026-05-08 | 51 pages, 8 figures |
 | **[ARMOR: An Agentic Framework for Reaction Feasibility Prediction via Adaptive Utility-aware Multi-tool Reasoning](https://arxiv.org/abs/2605.07103v1)** | 2026-05-08 |  |
 | **[Accurate and scalable exchange-correlation with deep learning](https://arxiv.org/abs/2506.14665v6)** | 2026-04-21 | <details><summary>The S...</summary><p>The Skala model and inference code are available under MIT license at https://github.com/microsoft/skala</p></details> |
-| **[OXtal: An All-Atom Diffusion Model for Organic Crystal Structure Prediction](https://arxiv.org/abs/2512.06987v3)** | 2026-04-20 |  |
-| **[Multiconfiguration Pair-Density Functional Theory Calculations of Low-lying States of Complex Chemical Systems with Quantum Computers](https://arxiv.org/abs/2602.10435v2)** | 2026-04-19 |  |
 
