@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 01, 2026
+title: Latest 15 Papers - August 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DiverseDiT++: Quantifying, Analyzing, and Promoting Representation Diversity in Diffusion Transformers](https://arxiv.org/abs/2608.03082v1)** | 2026-08-04 | 35 pages, 32 figures |
+| **[A Wearable Stiffness-Rendering Haptic Device with a Honeycomb Jamming Mechanism for Bilateral Teleoperation](https://arxiv.org/abs/2608.03002v1)** | 2026-08-04 | <details><summary>18 pa...</summary><p>18 pages, 10 figures. Published in Machines 2025, 13(1), 27</p></details> |
+| **[A Spatio-Temporal Model for Information Freshness in Massive Random Access](https://arxiv.org/abs/2608.02286v1)** | 2026-08-03 |  |
 | **[MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers](https://arxiv.org/abs/2607.28589v1)** | 2026-07-30 |  |
 | **[In-Context Learning as Implicit Policy Gradient](https://arxiv.org/abs/2607.23153v1)** | 2026-07-25 | COLM 2026 |
 | **[Position: The Inevitable Transition to Machine Learning in Quantum Chemistry](https://arxiv.org/abs/2607.18281v2)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted as a position paper at ICML 2026. OpenReview forum: https://openreview.net/forum?id=Mq1oTEIwp4</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[Graph-Regularized Low-Rank Matrix Completion by Variable Projection](https://arxiv.org/abs/2607.09546v1)** | 2026-07-10 |  |
 | **[Nowcasting PM2.5 in Beijing Using Synchronous Covariates and Lagged Features: Model Comparison and Variable Selection Stability](https://arxiv.org/abs/2607.07279v1)** | 2026-07-08 |  |
 | **[Efficient Flow Matching for Sparse-View CT Reconstruction](https://arxiv.org/abs/2603.00205v2)** | 2026-07-06 |  |
-| **[RoboVista: Evaluating Vision Language Models for Diverse Robot Applications](https://arxiv.org/abs/2607.04610v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted to RSS 2026. Project website: https://berkeleyautomation.github.io/robovista/</p></details> |
-| **[Random Subset Averaging](https://arxiv.org/abs/2512.22472v2)** | 2026-07-04 |  |
-| **[Graph Classification via Network Usable Information: From Representation Evaluation to Structure Selection](https://arxiv.org/abs/2607.03587v1)** | 2026-07-03 | 7 PAGES |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
