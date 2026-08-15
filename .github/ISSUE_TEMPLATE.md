@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 08, 2026
+title: Latest 15 Papers - August 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ARAC: Benchmarking Auto-Research's Alignment and Completeness on End-to-End Researchs](https://arxiv.org/abs/2608.12788v1)** | 2026-08-13 | 26 pages, 3 figures |
+| **[Sequential Automorphism Ensemble Decoding with Early Stopping](https://arxiv.org/abs/2605.00255v2)** | 2026-08-12 | <details><summary>5 pag...</summary><p>5 pages, 5 figures, 1 table, submitted to IEEE Communications Letters</p></details> |
+| **[Instruction Alignment for Binary Code Representation Learning](https://arxiv.org/abs/2608.11766v1)** | 2026-08-12 | <details><summary>In pr...</summary><p>In proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)</p></details> |
+| **[Diffusion Probe: Generated Image Result Prediction Using CNN Probes](https://arxiv.org/abs/2602.23783v5)** | 2026-08-12 | CVPR 2026 |
+| **[No Free Labels: Limitations of LLM-as-a-Judge Without Human Grounding](https://arxiv.org/abs/2503.05061v3)** | 2026-08-11 |  |
+| **[Position: The Inevitable Transition to Machine Learning in Quantum Chemistry](https://arxiv.org/abs/2607.18281v3)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted as a position paper at ICML 2026. OpenReview forum: https://openreview.net/forum?id=Mq1oTEIwp4</p></details> |
+| **[Trinity of Varentropy: Finiteness, Fluctuations, and Stability in Power-Law Statistics](https://arxiv.org/abs/2603.27997v2)** | 2026-08-11 |  |
+| **[Zero-shot 2D Grounding with Novel Affordance Types](https://arxiv.org/abs/2608.08929v1)** | 2026-08-09 |  |
 | **[DiverseDiT++: Quantifying, Analyzing, and Promoting Representation Diversity in Diffusion Transformers](https://arxiv.org/abs/2608.03082v1)** | 2026-08-04 | 35 pages, 32 figures |
 | **[A Wearable Stiffness-Rendering Haptic Device with a Honeycomb Jamming Mechanism for Bilateral Teleoperation](https://arxiv.org/abs/2608.03002v1)** | 2026-08-04 | <details><summary>18 pa...</summary><p>18 pages, 10 figures. Published in Machines 2025, 13(1), 27</p></details> |
 | **[A Spatio-Temporal Model for Information Freshness in Massive Random Access](https://arxiv.org/abs/2608.02286v1)** | 2026-08-03 |  |
 | **[MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers](https://arxiv.org/abs/2607.28589v1)** | 2026-07-30 |  |
 | **[In-Context Learning as Implicit Policy Gradient](https://arxiv.org/abs/2607.23153v1)** | 2026-07-25 | COLM 2026 |
-| **[Position: The Inevitable Transition to Machine Learning in Quantum Chemistry](https://arxiv.org/abs/2607.18281v2)** | 2026-07-22 | <details><summary>Accep...</summary><p>Accepted as a position paper at ICML 2026. OpenReview forum: https://openreview.net/forum?id=Mq1oTEIwp4</p></details> |
 | **[Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots](https://arxiv.org/abs/2507.17049v3)** | 2026-07-21 |  |
 | **[Prismatic Synthesis: Gradient-based Data Diversification Boosts Generalization in LLM Reasoning](https://arxiv.org/abs/2505.20161v2)** | 2026-07-19 |  |
-| **[Value-Monotonicity Matters: A Concordance Loss for Deep Survival Prediction](https://arxiv.org/abs/2607.16802v1)** | 2026-07-18 |  |
-| **[FETS Benchmark: Foundation Models Enable Scalable and Generalizable Energy Time Series Forecasting](https://arxiv.org/abs/2604.22328v2)** | 2026-07-17 |  |
-| **[Genre Bias or Aesthetic Perception? Identifying and Mitigating Shortcut Learning in Music Evaluation](https://arxiv.org/abs/2607.13903v1)** | 2026-07-15 | Accept by ISMIR 2026 |
-| **[DynaFilter: Cloud-driven Dynamic Filtering for Satellite Edge Intelligence](https://arxiv.org/abs/2607.10098v1)** | 2026-07-11 | <details><summary>15 pa...</summary><p>15 pages, 23 figures, accepted by ACM MobiCom 2026</p></details> |
-| **[Graph-Regularized Low-Rank Matrix Completion by Variable Projection](https://arxiv.org/abs/2607.09546v1)** | 2026-07-10 |  |
-| **[Nowcasting PM2.5 in Beijing Using Synchronous Covariates and Lagged Features: Model Comparison and Variable Selection Stability](https://arxiv.org/abs/2607.07279v1)** | 2026-07-08 |  |
-| **[Efficient Flow Matching for Sparse-View CT Reconstruction](https://arxiv.org/abs/2603.00205v2)** | 2026-07-06 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RAVEN: Frozen Random Graph Reservoirs with Physics-Informed Interaction Fingerprints for Protein-Ligand Binding Affinity Prediction](https://arxiv.org/abs/2608.09099v1)** | 2026-08-10 |  |
 | **[Chem World: A Large-Scale Benchmark and Physics-Informed Framework for Trustworthy Chemical Property Prediction](https://arxiv.org/abs/2607.28079v1)** | 2026-07-30 |  |
 | **[Learning to Prepare Molecular Ground States with Transformer Models](https://arxiv.org/abs/2607.22468v1)** | 2026-07-24 |  |
 | **[MOF-Sleuth: Tool-Grounded Reward Alignment for Explainable Fine-Grained MOF CIF Auditing](https://arxiv.org/abs/2607.19935v1)** | 2026-07-22 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Benchmarking Compositional Generalisation for Machine Learning Interatomic Potentials](https://arxiv.org/abs/2605.08988v1)** | 2026-05-09 |  |
 | **[Don't Get Your Kroneckers in a Twist: Gaussian Processes on High-Dimensional Incomplete Grids](https://arxiv.org/abs/2605.08036v1)** | 2026-05-08 | 51 pages, 8 figures |
 | **[ARMOR: An Agentic Framework for Reaction Feasibility Prediction via Adaptive Utility-aware Multi-tool Reasoning](https://arxiv.org/abs/2605.07103v1)** | 2026-05-08 |  |
-| **[Accurate and scalable exchange-correlation with deep learning](https://arxiv.org/abs/2506.14665v6)** | 2026-04-21 | <details><summary>The S...</summary><p>The Skala model and inference code are available under MIT license at https://github.com/microsoft/skala</p></details> |
 
