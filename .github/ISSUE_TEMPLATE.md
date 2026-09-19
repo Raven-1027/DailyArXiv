@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 05, 2026
+title: Latest 15 Papers - September 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Toward Markerless Video-based Tremor Analysis: Objective Quantification of Pathological Tremor in Mouse Preclinical Models](https://arxiv.org/abs/2609.18753v1)** | 2026-09-16 |  |
+| **[LLM-Microscope: Uncovering the Hidden Role of Punctuation in Context Memory of Transformers](https://arxiv.org/abs/2502.15007v2)** | 2026-09-14 | <details><summary>accep...</summary><p>accepted to NAACL 2025</p></details> |
+| **[Colosseum V2: Benchmarking Generalization for Vision-Language-Action Models](https://arxiv.org/abs/2605.27759v2)** | 2026-09-12 | <details><summary>Accep...</summary><p>Accepted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
+| **[Discriminative Span as a Predictor of Synthetic Data Utility via Classifier Reconstruction](https://arxiv.org/abs/2605.09697v5)** | 2026-09-10 | 7 pages, 1 figure |
+| **[CST-WM: A Causally Structured World Model for Embodied Visual Tracking](https://arxiv.org/abs/2609.06302v1)** | 2026-09-05 | 15 pages, 8 figures |
+| **[Evaluating Uncertainty and Quality of Vision-Language-Action-enabled Robots](https://arxiv.org/abs/2507.17049v4)** | 2026-09-03 |  |
 | **[Beauty is in the AI of the beholder: MLLMs systematically overrate facial attractiveness](https://arxiv.org/abs/2609.02512v1)** | 2026-09-02 |  |
 | **[Ready to Speak: Aligning LLMs for TTS-Friendly Text Generation](https://arxiv.org/abs/2609.01246v1)** | 2026-09-01 | <details><summary>EMNLP...</summary><p>EMNLP 2026 - Main Conference</p></details> |
 | **[XQDT: eXplainable and Quantitative Data-Text Alignment Metric with Feedback Signals](https://arxiv.org/abs/2608.29948v2)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
@@ -16,16 +22,12 @@ labels: documentation
 | **[Can LLM Agents Discover? Evaluating Creativity on ML Engineering Tasks](https://arxiv.org/abs/2608.30047v1)** | 2026-08-30 | COLM 2026 |
 | **[Tight differencing in spectral density estimation with centrosymmetric kernels](https://arxiv.org/abs/2608.26553v1)** | 2026-08-27 |  |
 | **[Generative vs. Encoder Large Language Models for ASR Evaluation: A Comparative Study](https://arxiv.org/abs/2608.25574v1)** | 2026-08-26 |  |
-| **[Adaptive prediction theory combining offline and online learning](https://arxiv.org/abs/2512.00342v2)** | 2026-08-25 |  |
-| **[Round-trip Reinforcement Learning: Self-Consistent Training for Better Chemical LLMs](https://arxiv.org/abs/2510.01527v2)** | 2026-08-24 | <details><summary>27 pa...</summary><p>27 pages; Accepted by COLM 2026</p></details> |
-| **[AudioNoisePrints: Model-free audio watermarking using spatial correlation in flow matching TTS](https://arxiv.org/abs/2608.22186v1)** | 2026-08-23 |  |
-| **[Comparing Probabilistic Influence-Spreading Centralities to Commonly-Used Centrality Measures in Directed and Weighted Networks](https://arxiv.org/abs/2608.18797v1)** | 2026-08-19 |  |
-| **[Selective Inference for Time-Varying Moderated Effects](https://arxiv.org/abs/2411.15908v2)** | 2026-08-18 |  |
-| **[Explainable AI-Powered Framework for Video-Based Skill Assessment in Cataract Surgery](https://arxiv.org/abs/2608.17522v1)** | 2026-08-18 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[El Agente Quntur: A research collaborator agent for quantum chemistry](https://arxiv.org/abs/2602.04850v3)** | 2026-09-11 |  |
+| **[Autonomous Chemical Mechanistic Discovery through Agentic Reasoning and Validation](https://arxiv.org/abs/2609.11147v1)** | 2026-09-10 | <details><summary>This ...</summary><p>This paper has been submitted to Nature Communications</p></details> |
 | **[Round-trip Reinforcement Learning: Self-Consistent Training for Better Chemical LLMs](https://arxiv.org/abs/2510.01527v2)** | 2026-08-24 | <details><summary>27 pa...</summary><p>27 pages; Accepted by COLM 2026</p></details> |
 | **[MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models](https://arxiv.org/abs/2608.23646v1)** | 2026-08-24 | <details><summary>Prese...</summary><p>Presented at the 3rd Workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences (FM4LS), ICML 2026. Non-archival workshop</p></details> |
 | **[HIP: Hessian Interatomic Potentials without derivatives](https://arxiv.org/abs/2509.21624v4)** | 2026-08-20 | <details><summary>https...</summary><p>https://github.com/BurgerAndreas/hip</p></details> |
@@ -39,6 +41,4 @@ labels: documentation
 | **[SC3: The Multi-Solvent Solubility Challenge and Benchmark](https://arxiv.org/abs/2606.07656v1)** | 2026-06-03 | <details><summary>34 pa...</summary><p>34 pages, 16 tables, 22 figures</p></details> |
 | **[A Cartesian-3j Framework for Machine Learning Interatomic Potentials](https://arxiv.org/abs/2512.16882v2)** | 2026-06-02 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v1)** | 2026-06-01 | <details><summary>Suppl...</summary><p>Supplementary Information added as separate PDF</p></details> |
-| **[Geometric Flow Matching for Molecular Conformation Generation via Manifold Decomposition](https://arxiv.org/abs/2605.25577v1)** | 2026-05-25 |  |
-| **[Energy-Guided Generative Modeling for Low-Energy Molecular Structure Discovery](https://arxiv.org/abs/2512.22597v2)** | 2026-05-22 |  |
 
