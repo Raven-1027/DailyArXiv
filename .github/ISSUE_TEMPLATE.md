@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 19, 2026
+title: Latest 15 Papers - September 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,9 +7,10 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What Is The Political Content in LLMs' Pre- and Post-Training Data?](https://arxiv.org/abs/2509.22367v3)** | 2026-09-21 | <details><summary>9 pag...</summary><p>9 pages, under review</p></details> |
+| **[Colosseum V2: Benchmarking Generalization for Vision-Language-Action Models](https://arxiv.org/abs/2605.27759v3)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
 | **[Toward Markerless Video-based Tremor Analysis: Objective Quantification of Pathological Tremor in Mouse Preclinical Models](https://arxiv.org/abs/2609.18753v1)** | 2026-09-16 |  |
 | **[LLM-Microscope: Uncovering the Hidden Role of Punctuation in Context Memory of Transformers](https://arxiv.org/abs/2502.15007v2)** | 2026-09-14 | <details><summary>accep...</summary><p>accepted to NAACL 2025</p></details> |
-| **[Colosseum V2: Benchmarking Generalization for Vision-Language-Action Models](https://arxiv.org/abs/2605.27759v2)** | 2026-09-12 | <details><summary>Accep...</summary><p>Accepted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
 | **[Discriminative Span as a Predictor of Synthetic Data Utility via Classifier Reconstruction](https://arxiv.org/abs/2605.09697v5)** | 2026-09-10 | 7 pages, 1 figure |
 | **[CST-WM: A Causally Structured World Model for Embodied Visual Tracking](https://arxiv.org/abs/2609.06302v1)** | 2026-09-05 | 15 pages, 8 figures |
 | **[Evaluating Uncertainty and Quality of Vision-Language-Action-enabled Robots](https://arxiv.org/abs/2507.17049v4)** | 2026-09-03 |  |
@@ -20,8 +21,7 @@ labels: documentation
 | **[Silence is Golden: Mitigating Hallucinations in Large Audio-Language Models via Layer-Weighted Vector Steering](https://arxiv.org/abs/2510.12851v2)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted for Interspeech 2026</p></details> |
 | **[Sycophantic Agreement Transfers with Neutral Data via Contrastive Preference Optimization](https://arxiv.org/abs/2608.31079v1)** | 2026-08-31 |  |
 | **[Can LLM Agents Discover? Evaluating Creativity on ML Engineering Tasks](https://arxiv.org/abs/2608.30047v1)** | 2026-08-30 | COLM 2026 |
-| **[Tight differencing in spectral density estimation with centrosymmetric kernels](https://arxiv.org/abs/2608.26553v1)** | 2026-08-27 |  |
-| **[Generative vs. Encoder Large Language Models for ASR Evaluation: A Comparative Study](https://arxiv.org/abs/2608.25574v1)** | 2026-08-26 |  |
+| **[Gaussian Process Decorrelation for Spatiotemporal Deep Learning-Based Snow Water Equivalent Prediction](https://arxiv.org/abs/2609.22182v1)** | 2026-08-27 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
