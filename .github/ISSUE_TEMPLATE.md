@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 17, 2026
+title: Latest 15 Papers - October 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## strong correlation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Measuring Model Robustness via Fisher Information: Spectral Bounds, Theoretical Guarantees, and Practical Algorithms](https://arxiv.org/abs/2606.04767v2)** | 2026-10-22 | 35 pages, 1 figure |
 | **[Diffusion Probe: Generated Image Result Prediction Using CNN Probes](https://arxiv.org/abs/2602.23783v6)** | 2026-10-15 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026, pp. 35926-35935. 17 pages, 10 figures, and 7 tables</p></details> |
 | **[PRIMEdit: Probability Redistribution for Instance-Aware Multi-Object Video Editing With a New Benchmark Dataset](https://arxiv.org/abs/2412.12877v3)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted manuscript published in IEEE TPAMI, vol. 48, no. 11, pp. 15571-15588, Nov. 2026. The first two authors contributed equally to this work. The last two authors are co-corresponding authors. Please visit our project page at https://kaist-viclab.github.io/primedit-site/</p></details> |
 | **[RDCompGS: Rate-Distortion Optimization for Compression of 3D Gaussian Splatting with Image Codecs](https://arxiv.org/abs/2610.19538v1)** | 2026-10-14 | <details><summary>This ...</summary><p>This manuscript has been submitted to IEEE Transactions on Multimedia (TMM)</p></details> |
@@ -21,11 +22,12 @@ labels: documentation
 | **[Colosseum V2: Benchmarking Generalization for Vision-Language-Action Models](https://arxiv.org/abs/2605.27759v4)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to IEEE Robotics and Automation Letters (RA-L)</p></details> |
 | **[PhyProbe: Rethinking Physical Consistency Evaluation in Generated Videos](https://arxiv.org/abs/2609.38377v1)** | 2026-09-29 | NeurIPS 2026 poster |
 | **[Beyond Token Importance: Preserving Spatial Scaffolds for Efficient Vision-Language-Action Inference](https://arxiv.org/abs/2609.36967v1)** | 2026-09-29 |  |
-| **[No Free Labels: Limitations of LLM-as-a-Judge Without Human Grounding](https://arxiv.org/abs/2503.05061v4)** | 2026-09-28 |  |
 
 ## computational chemistry
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Benchmarking Compositional Generalisation for Machine Learning Interatomic Potentials](https://arxiv.org/abs/2605.08988v2)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026 (Evaluations & Datasets Track). 63 pages, 27 figures. Code: https://github.com/nourollah/goal ; Dataset: https://huggingface.co/datasets/AmirMasoud/GMD</p></details> |
+| **[Magnolia: A Persistent-Memory Agent Framework for Computational Chemistry](https://arxiv.org/abs/2610.27230v1)** | 2026-10-19 | <details><summary>https...</summary><p>https://github.com/HolobiomicsLab/Magnolia-AI</p></details> |
 | **[Discovering state-of-the-art quantum circuits with large language models](https://arxiv.org/abs/2610.22367v1)** | 2026-10-15 | <details><summary>46 pa...</summary><p>46 pages, 10 figures, 6 tables</p></details> |
 | **[Into the Unknown: Benchmarking AI agents on open scientific research problems](https://arxiv.org/abs/2610.19159v1)** | 2026-10-13 | <details><summary>prepr...</summary><p>preprint under review</p></details> |
 | **[From Benchmark to Bench: Can Agents Survive Real-World Drug Discovery?](https://arxiv.org/abs/2610.06411v2)** | 2026-10-09 |  |
@@ -39,6 +41,4 @@ labels: documentation
 | **[Round-trip Reinforcement Learning: Self-Consistent Training for Better Chemical LLMs](https://arxiv.org/abs/2510.01527v2)** | 2026-08-24 | <details><summary>27 pa...</summary><p>27 pages; Accepted by COLM 2026</p></details> |
 | **[MolEmb: Multimodal Large Language Models Can Be Strong Molecular Embedding Models](https://arxiv.org/abs/2608.23646v1)** | 2026-08-24 | <details><summary>Prese...</summary><p>Presented at the 3rd Workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences (FM4LS), ICML 2026. Non-archival workshop</p></details> |
 | **[HIP: Hessian Interatomic Potentials without derivatives](https://arxiv.org/abs/2509.21624v4)** | 2026-08-20 | <details><summary>https...</summary><p>https://github.com/BurgerAndreas/hip</p></details> |
-| **[RAVEN: Frozen Random Graph Reservoirs with Physics-Informed Interaction Fingerprints for Protein-Ligand Binding Affinity Prediction](https://arxiv.org/abs/2608.09099v1)** | 2026-08-10 |  |
-| **[CrossAudit: A Git-Native, Cross-Vendor Audit Loop for Agentic Science](https://arxiv.org/abs/2608.28631v1)** | 2026-08-05 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 3 tables, 22 references. Reference implementation, audit ledger, and experiment artefacts: https://github.com/dongzhaohe321418-lab/crossaudit</p></details> |
 
